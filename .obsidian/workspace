@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "3d116e40824f18ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "43376e41c8a8caa8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PKN/Semester I/Catatan/Catatan 1 - Hak Asasi Manusia.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9be1d709ba37c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77f18e58f76e0f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6a344e4de355383",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1389fd93924f1ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddda8e389caaf769",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae777d9d722ce1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b1cc156a040f4e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PKN/Semester I/Catatan/Catatan 1 - Hak Asasi Manusia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43376e41c8a8caa8",
+  "lastOpenFiles": [
+    "PKN/Semester I/Catatan/Catatan 1 - Hak Asasi Manusia.md"
+  ]
+}
