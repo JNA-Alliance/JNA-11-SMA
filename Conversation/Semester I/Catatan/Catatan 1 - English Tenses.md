@@ -58,7 +58,7 @@ There are 16 tenses in english grouped into:
     - Example: I would be eating rice with some vegetables
 - Past Future Perfect Tense
     - Subject + SHOULD/WOULD HAVE + Verb III (past participle form)
-    - Example: I should have eaten rice with some vegetables
+    - Example: I would have eaten rice with some vegetables
 - Past Future Perfect Continuous Tense
     - Subject + WOULD HAVE BEEN + Verb -ing (continuous form)
     - I would have been eating rice with some vegetables
