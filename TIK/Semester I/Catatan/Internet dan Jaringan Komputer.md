@@ -1,4 +1,4 @@
-# Inernet dan Jaringan Komputer
+# Internet dan Jaringan Komputer
 
 # DAFUQ INI POWERPOINTNYA TIDAK JELAS
 - Pembagian jaringan komputer berdasarkan:
