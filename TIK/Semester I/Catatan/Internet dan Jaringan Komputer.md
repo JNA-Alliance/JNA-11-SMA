@@ -35,8 +35,16 @@
     - Kemudahan akses informasi yang berada pada jarak jauh
     - Komunikasi yang mudah dan murah (email, chatting)
     - Hiburan; TV Online
-
-# Jaringan Komputer
-- Adalah sekumpulan peralatan komputer yang dihubungkan agar dapat saling berkomunikasi dengan tujuan membagi sumber daya (seperti file dan printer)
-- Agar jaringan dapat berfungsi, dibutuhkan layanan-layanan yang dapat mengatur pembagian sumber daya
-- Dibutuhkan aturan-aturan (protocols)
+- Pengertian dari Jaringan Komputer:
+    - Adalah sekumpulan peralatan komputer yang dihubungkan agar dapat saling berkomunikasi dengan tujuan membagi sumber daya (seperti file dan printer)
+    - Agar jaringan dapat berfungsi, dibutuhkan layanan-layanan yang dapat mengatur pembagian sumber daya
+    - Dibutuhkan aturan-aturan (protocols) yang mengatur komunikasi dan layanan2 secara umum untuk seluruh sistem jaringan
+- Sistem Komunikasi
+    - Jaringan Komputer = Jaringan Komunikasi Data = Sistem Komunikasi
+    - Pertukaran data minimal antara dua entitas
+    - Model komunikasi umum:
+        ![](https://i.ibb.co/Q89Y0mH/image.png)
+    - Contoh penggunaan model sistem komunikasi:
+        ![](https://i.ibb.co/6HHwV4L/image.png)
+    - Komunikasi Data:
+        ![]()
