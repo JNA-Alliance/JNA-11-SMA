@@ -20,10 +20,20 @@
     - Mendorong tindakan yang dimana dilandasi kesadaran atau tanggungjawab untuk menjamin bahwa hak-hak orang lain tidak dilanggar.
 
 ## Perkembangan HAM
-- Mengapa muncul HAM? Akibat **tidak langsung dari adanya penjajahan**. (Maka negara Indonesia yang dijajah oleh Belanda dan Jepang merupakan pelanggaran HAM).
+- Mengapa muncul HAM? Akibat **tidak langsung dari adanya penjajahan, perlakuan diskriminatif, tirani, perbudakan**. (Maka negara Indonesia yang dijajah oleh Belanda dan Jepang merupakan pelanggaran HAM).
 - Awal mula dari munculnya konsep Hak Asasi Manusia adalah pada tahun **1215**. Ketika kekuasaan Inggris oleh **Raja John** saat itu dinilai semena-mena dalam memberikan hukuman kepada rakyatnya maupun dalam penarikan pajak.
-- Tonggak perjuangan HAM di dunia adalah **Magna Charta**.
+- Tonggak perjuangan HAM di dunia adalah **Magna Charta** yang dibuat oleh **Inggris**.
 - Sejarah perkembangan HAM di Dunia: *Lihat halaman 7 buku cetak*.
 - The Universal Declaration of Human Rights dilakukan di Kota **Paris**, pada **10 Desember 1948**
 - Perwujudan HAM **tidak dapat** dilaksanakan secara mutlak. Jikalau dilaksanakan secara mutlak maka akan melanggar HAM **orang lain**.
 - Memperjuangkan hak sendiri dengan mengabaikan hak orang lain meruapakan tindakan yang **tidak manusiawi**.
+
+## Perkembangan HAM di Indonesia
+!! Catat dari buku cetak halaman 9
+
+## Trivia
+- *Declaration of Independence of United States* berikisi hak: *Life, Liberty*, dan *Independence*.
+- Ada 4 dokumen HAM di Inggris: (TABEL BUKU CETAK HALAMAN 8)
+- Seseorang yang ditahan harus segera diperiksa dalam waktu 2 hari merupakan isi dari *Haveas Corpus Act*.
+- Pajak dan hak-hak istimewa harus dengan izin parlemen merupakan isi dari *Pettition of Rights*
+- Perbedaan HAM Indonesia dengan Amerika: HAM di Amerika adalah HAM **sebebas-bebasnya**. Sedangkan di Indonesia adalah HAM **dibatasi hukum**.
