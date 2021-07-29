@@ -1,7 +1,5 @@
 # DEBAT
 
-!! POWERPOINT AKAN DIKIRIMKAN MELALUI WHATSAPP. SAMPAI PPT DIKIRIMKAN JANGAN HAPUS BARSI INI.
-
 - Pengertian Debat: Suatu kegiatan yang dimana seseorang menuangkan argumentasi (pendapat) dalam suatu topik antara dua kubuh (pihak) dalam mendiskusikan atau memutuskan masalah dan perbedaan.
 - Tujuan Debat:
     - Melatih keberanian
@@ -19,6 +17,5 @@
     5. Pendapat/Argumen yang disampaikan tidak terlalu banyak (karena memiliki batas waktu)
     6. Menyajikan gagasan yang akurat dan dapat dipertanggungjawabkan
     7. Buatlah kesimpulan yang menunjukan pernyataan final dengan kalimat yang lugas dan yang langsung menuju ke titik celah lawan
-
 - Catatan:
     - Jikalau respon lawan tidak nyambung: Berarti kita sudah mematahkan argumen Mereka.
