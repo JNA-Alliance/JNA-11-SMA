@@ -1,0 +1,31 @@
+# Teks prosedur
+
+- Teks prosedur merupakan suatu jenis teks yg menyampaikan suatu cara dan langkah2 dengan mencapai tujuan untuk membuat sesuatu dengan beurutan.
+- guna teks prosedur , sebagai panduan bagi seseorang untuk menyusun sesuatu.
+- bersifat tentatif (Berubah-ubah)
+- Struktur (unsur2 yang harus kita perhatikan) dalam Teks prosedur
+	- **Judul**
+		- Teks prosedur diawali dengan Judul.
+	- **Pengantar(Kata pembuka)**
+		- dilanjutkan dengan pengantar/Kata pembuka sebagai pembuka dan topik.
+	- **Materi**
+		- Berisi bahan-bahan dan alat-alat untuk membuat sesuatu kegiatan/benda.
+	- **Langkah-langkah**
+		- langkah-langkah untuk memperoleh hasil dengan tujuan teks prosedur tersebut.(**tidak boleh ada tahapan yg terlewat**)
+	- **Kesimpulan**
+		- suatu kesimpulan dalam teks prosedur.
+- Ciri-ciri Teks prosedur
+	- Menggunakan Kalimat perintah (Komperatif).
+	- Terdapat panduan harus dilakukan.
+	- Menggunakan kata kerja aktif.
+	- Menggunakan kata kongjusi (Kata penghubung).
+	- Terdapat aturan atau hal kegiatan.
+	- Menggunakan kata keterangan untuk menyatakan rincian waktu tempat dan jarak.
+	- Terdapat kegiatan yang dilakukan dengan runtut.
+- Jenis-jenis Teks prosedur
+	- **Teks prosedur sederhana**
+		- Berisi 2/4 langkah saja.
+	- **Teks prosedur kompleks**
+		- Terdiri atas banyak langka/caranya dan jenjangnya untuk tiap tahapanya.
+	- **Teks prosedur protokol**
+		- Langkah-langkah tidak terlalu ketat/rumit da mudah dipahami yang akan tetap tercapai tujuannya.
