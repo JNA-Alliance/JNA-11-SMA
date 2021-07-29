@@ -1,9 +1,9 @@
-# Teks prosedur
+# Teks Prosedur
 
 - Teks prosedur merupakan suatu jenis teks yg menyampaikan suatu cara dan langkah-langkah dengan mencapai tujuan untuk membuat sesuatu dengan beurutan.
 - guna teks prosedur , sebagai panduan bagi seseorang untuk menyusun sesuatu.
 - bersifat tentatif (Berubah-ubah)
-- Struktur (unsur2 yang harus kita perhatikan) dalam Teks prosedur
+- Struktur (unsur-unsur yang harus kita perhatikan) dalam Teks prosedur
 	- **Judul**
 		- Teks prosedur diawali dengan Judul.
 	- **Pengantar(Kata pembuka)**
