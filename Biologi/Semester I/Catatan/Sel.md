@@ -1,35 +1,44 @@
 # Sel
 
-- Sel , unit terkecil penyusun suatu organisme / makhluk hidup.
-- Sel , unit terkecil penyusun tubuh makhluk hidup yg struktural dan fungsional.
-- Terdapat sangat banyak sel didalam tubu hhidup dari berjuta-juta sampai triliunan sel.
-- pada abda ke-17 , sel pertama sekali di temukan oleh ilmuwan kebangsaan inggris **Robert Hooke** , menggunakan mikroskop mengamat isayatan gabus Quercus suber (ekgabus) , dan menemukan ruang kosong (cella/cellula).
-- Sejarah sel:
-    - Johannes Purkinje = menemukan menemukan protoplasma didalam sel (nukleosplasma dan sitosplasma).
-    - Schleiden dan Schwann = setiap mahkluk hidup  terdiri atas sel, tubuh organisme bersel tunggal berdiri atas sebuah sel 
-        - Scheilden = Sel tumbuhan
-        - Schwann = Sel Hewan
-    - Robert Brown = menemukan inti sel (Nukleus)
-    - Felix Dujardin = menemuka cairan didalam sel.
-    - Max Schultze = sel merupakan kesatuan fungsional kehidupan.
-    - Rudolf Virchow = sel merupakan kesatuan pertumbuhan makhluk hidup.
-- Cabang biologi yg mempelajari tentang sel disebut **SITOLOGI**
-- Komponen penyusun sel
-    - komponen organik
-		- Karbohidrat 
-			- monosakarida
-			- disakarida
-			- polisakarida
-		- Protein 
-			- Asam amino
-		- Lemak
-			- Asam lemak 
-			- Gliserol
-		- Asam Nukleat
-			- Nukleotida
-	- komponen anorganik
-		- Air
-		- Vitamin
-
-	
-	
+- Pengertian: 
+    - Sel adalah **unit terkecil penyusun makhluk hidup**.
+    - **SITOLOGI**: Cabang biologi yg mempelajari tentang sel
+    - Terdapat sangat banyak sel didalam tubu hhidup dari berjuta-juta sampai triliunan sel
+    - Unit terkecil penyusun suatu organisme / makhluk hidup.
+    - Unit terkecil penyusun tubuh makhluk hidup yg struktural dan fungsional.
+- Komponen Kimiawi
+    - Anorganik:
+        - 75% lebih mengandung air sebagai zat pelarut
+        - Vitamin
+    - Organik:
+        - Karbohidrat (monosakarida, disakarida, polisakarida) berfungsi sebagai sumber energi utama dan sebagai struktur organel
+        - Protein: 
+            - Asam amino yang berperan sebagai katalis dan mekanik
+            - Protein gabungan: 
+                - Glikoprotein: Protein dan karbohidrat
+                - Nukleoprotein: Protein dan asam nukleat
+                - Lipoprotein: Protein dan Lipid (lemak)
+                - Kromoprotein: Protein dan zat warna
+        - Lemak sebagai sumber energi / cadangan energi
+            - Lemak sederhana: Asam lemak dan gliserol 
+            - Lemak gabungan: 
+                - Fosfolopid: Lemak dan gubus fosfat
+                - Glikolipid: Lemak dan karbohidrat
+                - Lipoprotein: Protein dan lipid (lemak)
+                - Karotenoid: Lemak dan pigmen pada sel tumbuhan dan sel hewan
+        - Asam Nukleat: DNA dan RNA
+- Sejarah Sel
+    - **Robert Hooke**
+        - Mengamati sayatan pohon ek gabus (Querqus suber) dan menemukan ruang kosong yang disebut *cella*
+        - Dari *cella* berkembang menjadi *Cellulae* (sel)
+        - Pada abda ke-17, sel pertama sekali di temukan oleh ilmuwan kebangsaan inggris **Robert Hooke**, menggunakan mikroskop mengamat isayatan gabus Quercus suber (ekgabus), dan menemukan ruang kosong (cella/cellula)
+    - **Schleiden** dan **Schwann** (ahli Botani dan ahli zoologi respectively): 
+        - Setiap makhluk hidup memiliki sel yang bersifat struktural (**sel merupakan unit yang struktural**)
+        - Tubuh organisme bersel tunggal berdiri atas sebuah sel 
+    - **Johannes Purkinje**: Didalam sel terdapat cairan yang berbentuk seperti gel/koloid yang disebut dengan Protoplasma (Nukeloplasma dan Sitoplasma) / Menemukan protoplasma didalam sel.
+    - **Robert Brown**: Menemukan inti sel didalam sel (Nukleus)
+    - **Rudolf Virchow**: Setiap sel berasal dari sel2 yang sebelumnya (*omne cellula e cellulae*) (**sel merupakan kesatuan pertumbuhan makhluk hidup**)
+    - **Felix Dujardin**: Bagian terpenting didalam sel adalah protoplasma
+    - **Anthony van Leewanhook**: Melihat sel yang hidup dibawah air tumbukan jerami dengan mikroshop
+    - **Max Schultze**: Protoplasma merupakan dasar2 fisik kehidupan (**sel merupakan unit yang fungsional**)
+    - **Watson dan Crick**: Penemu DNA didalam sel
