@@ -1,6 +1,7 @@
 # Internet dan Jaringan Komputer
 
-# DAFUQ INI POWERPOINTNYA TIDAK JELAS
+!! CEK PPT KELAS B
+
 - Pembagian jaringan komputer berdasarkan:
     - Cakupan dan Lokasi:
         - LAN: Local Area Network
@@ -48,3 +49,8 @@
         ![](https://i.ibb.co/6HHwV4L/image.png)
     - Komunikasi Data:
         ![]()
+- Perangkat Pendukung Akses Internet
+    - Hub/Switch
+    - Repeater
+    - Bridge
+    - Router
