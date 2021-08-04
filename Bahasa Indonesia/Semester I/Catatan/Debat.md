@@ -1,4 +1,4 @@
-# DEBAT
+# Debat
 
 - Pengertian Debat: Suatu kegiatan yang dimana seseorang menuangkan argumentasi (pendapat) dalam suatu topik antara dua kubuh (pihak) dalam mendiskusikan atau memutuskan masalah dan perbedaan.
 - Tujuan Debat:
