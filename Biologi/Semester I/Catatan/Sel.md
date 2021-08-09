@@ -42,3 +42,20 @@
     - **Anthony van Leewanhook**: Melihat sel yang hidup dibawah air tumbukan jerami dengan mikroshop
     - **Max Schultze**: Protoplasma merupakan dasar2 fisik kehidupan (**sel merupakan unit yang fungsional**)
     - **Watson dan Crick**: Penemu DNA didalam sel
+- Pembagian Sel (berdasarkan):
+    - Jumlah
+        - **Uniseluler**: Bersel satu (Contoh: Kingdom Monera)
+        - **Multiseluler**: Bersel banyak (Contoh: Manusia, Hewan, Fungi, Tumbuhan)
+    - Ada tidaknya membran inti/kariot/karion
+        - **Sel Prokariotik/Prokariota**: Tidak memiliki membran inti (Contoh: Archaebacteria dan Eubacteria)
+        - **Sel Eukariotik/Eukariota**: Memiliki membran inti (Contoh: Protista, Fungi, Plantae, dan Animalia)
+- Perbedaan Prokariotik vs Eukariotik
+	| Prokariotik                        | Eukariotik                                                   |
+	| ---------------------------------- | ------------------------------------------------------------ |
+	| Tidak memiliki membran inti        | Memiliki membran inti                                        |
+	| Tidak memiliki sistem  endomembran | Memiliki sistem endomembran                                  | 
+	| Hanya terdapat pada kingdom Monera | Terdapat pada kingdom Protista, Fungu, Plantae, dan Animalia |
+- Perbedaan Virus vs Sel
+    | Virus | Sel |
+    | ----- | --- |
+    |       |     |

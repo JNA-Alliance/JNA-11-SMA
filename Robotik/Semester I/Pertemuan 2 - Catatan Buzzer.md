@@ -1,4 +1,7 @@
-# Pemrograman Buzzer
+# Buzzer
+
+- Mengubah energi listrik menjadi energi suara.
+- Suara Buzzer dapat di jumpai pada: Suara sensor parking, komputer, kasir supermarket, retail security system, absensi pegawai secara digital, mesin EDC, termometer, dll. 
 
 1. Pemrograman dasar Buzzer
 
@@ -15,7 +18,7 @@ void loop() {
 ```
 
 2. Variasi Program Buzzer
-    - Variasi program buzzer menggunakan frekuensi tangga nada
+    - Variasi program buzzer menggunakan frekuensi tangga nada (Tone Frequency)
         - Pemanggilan: `digitalWrite(<buzzer>, <frequency>);`
             | Nada | Frekuensi |
             | ---- | --------- |
@@ -27,3 +30,4 @@ void loop() {
             | La   | 440       |
             | Si   | 494       |
             | Do'  | 523       |
+    - Dapat dijumpai di: Bel rumah, motion detector, dll.

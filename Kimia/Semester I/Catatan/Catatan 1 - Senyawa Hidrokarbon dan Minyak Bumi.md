@@ -23,6 +23,8 @@
         |Jumlah cabang|1|2|3|4|5|6|7|8|9|10|
         |---|---|---|---|---|---|---|---|---|---|---|
         |Awalan|Met-|Et-|Prop-|But-|A-|Heks-|Hept-|Okt-|Non-|Dek-|
+- Penamaan
+    - 
 
 ### Reference
 [Tata nama organik](https://www.wikiwand.com/id/Tata_nama_organik)
