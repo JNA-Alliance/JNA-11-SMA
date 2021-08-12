@@ -17,7 +17,7 @@
 	- **Impronte**: Cara berceramah tanpa persiapan.
 	- **Menghafal**: Ditulis dan dihafal.
 	- **Membaca Naskah**: Membaca teks dengan lengkap.
-	- **Teks Temporal**: 
+	- **Teks Temporal**: [!!] Needs fixing
 - Jenis-jenis 
 	- **Khusus**: Pendengar tertentu yg bersifat khusus berdasar materi.
 	- **Umum**: diajukan kepada masyarakat-masyarakat umum, tanpa di batasi.
