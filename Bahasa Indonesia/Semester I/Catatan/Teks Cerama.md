@@ -1,0 +1,28 @@
+# Teks Cerama
+
+- Teks yg berbentuk informasi 
+- memiliki pesan dan tujuan untuk memberikan nasehat.
+- Ada secara khusus dan secara umum.
+- Bersikap positif
+- Cerama merupakan komunikasi yang dilakukan 2 orang yaitu pencerama dan pendengar.
+- Orang yg memberikan cerama disebut pencerama orang dgn ilmu dan pengetahuan yg luas yg menguasai bidang /topik yg dibahas dgn informasi yg terkait.
+- unsur-unsur yg harus diperhatikan 
+	- **Penceramah**: Orang yg mneyampaikan materi/masalah kepada pendengar dengna maksud tertentu.
+	- **Materi**: Hal atau masalah yg disampaikan oleh penceramah kepada pendengar.
+	- **Pendengar**: Penerima nasehat-nasehat dari pencerama.
+	- **Media**: Alat yang digunakan penceramah tersebut.
+- Bisa dilakukan di banyak tempat secara langsung/tdk secara langsung(di rekam/tv/media), terutama tempat ibadah.
+- Setiap paragraf memuat informasi-informasi yang penting yg memuat gagasan pokok tsb.
+- Metode penceramah
+	- **Impronte**: Cara berceramah tanpa persiapan.
+	- **Menghafal**: Ditulis dan dihafal.
+	- **Membaca Naskah**: Membaca teks dengan lengkap.
+	- **Teks Temporal**: 
+- Jenis-jenis 
+	- **Khusus**: Pendengar tertentu yg bersifat khusus berdasar materi.
+	- **Umum**: diajukan kepada masyarakat-masyarakat umum, tanpa di batasi.
+- Cara memahami isi ceramah
+	- **Memahami Topik**
+	- **Menentukan Gagasan Pokok**
+	- **Mengenditifikasi Fakta**
+	- **Menentukan Kesimpulan**
