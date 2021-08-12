@@ -15,7 +15,7 @@
         - Memberi akses user-user melalui media dengan bandwidth tinggi
         - [!] Melakukan koneksi secara fisik antar device yang berdekatan
         - [!] Melakukan koneksi dengan device yang berdekatan secara fisik
-        - Teknologi yang dapat digunakan: Wireless & Kabel
+        - Teknologi yang dapat digunakan: Wireless & Kabel (RJ45)
     - MAN:
         - Cakupan lebih besar dari LAN tetapi lebih kecil dari WAN (Kota)
     - WAN: 
@@ -50,7 +50,16 @@
     - Komunikasi Data:
         ![]()
 - Perangkat Pendukung Akses Internet
-    - Hub/Switch
+    - Hub
+    - Switch
     - Repeater
     - Bridge
     - Router
+    - Modem
+    - Ethernet Card/Kartu Jaringan (NIC Network Interface Card): Perangkat yang memungkinkan komputer untuk berkomunikasi melalui jaringan internet. Memiliki MAC Address
+- Istilah-istilah Penting
+    - 3G: Generasi ketiga, biasanya pada teknologi selulerf
+    - 4G: Generasi keempat, biasanya pada teknologi seluler
+    - ADSL: Asymetric Digital Subscriber Line, sambungan internet kecepatan tinggi melalui kabel telepon
+    - Antenna Kaleng: Antenna WiFi mengunakan kaleng bekas
+    - Antenna Bazooka: Antenna Wifi menggunakan pipa uPVC yang ditutupi aluminium foil
