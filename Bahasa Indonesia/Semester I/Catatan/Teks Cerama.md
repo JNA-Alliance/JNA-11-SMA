@@ -1,26 +1,29 @@
 # Teks Cerama
 
-- Teks yg berbentuk informasi 
-- memiliki pesan dan tujuan untuk memberikan nasehat.
-- Ada secara khusus dan secara umum.
-- Bersikap positif
-- Cerama merupakan komunikasi yang dilakukan 2 orang yaitu pencerama dan pendengar.
-- Orang yg memberikan cerama disebut pencerama orang dgn ilmu dan pengetahuan yg luas yg menguasai bidang /topik yg dibahas dgn informasi yg terkait.
-- unsur-unsur yg harus diperhatikan 
-	- **Penceramah**: Orang yg mneyampaikan materi/masalah kepada pendengar dengna maksud tertentu.
+- Pengertian
+    - Merupakan tulisan yang terdiri dari beberapa paragraf yang isinya mengandung informasi atau pengetahuan atau ajakan kepada khalayak ataupun masyarakat yang mendengarkan.
+    - Mengandung pesan yang berisi **nasihat, petunjuk, atau petuah** (bersifat positif).
+    - Merupakan **komunikasi publik** yang dilakukan secara **searah** antara **2 pihak** (penceramah dengan pendengar/audience)
+    - Tujuannya adalah untuk didengarkan oleh orang banyak.
+	- Orang yang memberikan cerama disebut **penceramah**. Penceramah:
+        - Memiliki wawasan (ilmu dan pengetahuan) yang luas terhadap sesuatu hal
+        - Yang mengendalikan alur komunikasi.
+    - Terdapat ceramah umum dan spesifik.
+- Unsur-unsur
+	- **Penceramah**: Orang yg menyampaikan materi/masalah kepada pendengar dengna maksud tertentu.
 	- **Materi**: Hal atau masalah yg disampaikan oleh penceramah kepada pendengar.
-	- **Pendengar**: Penerima nasehat-nasehat dari pencerama.
-	- **Media**: Alat yang digunakan penceramah tersebut.
+	- **Pendengar**: Orang-orang yang menyimak materi yang disampaikan.
+	- **Media**: Alat yang digunakan untuk menyampaikan materi (papan tulis, layar penampil, perangkat komputer).
+- Metode-metode
+	- **Impromtu**: Tanpa melakukan persiapan. Biasanya dilakukan oleh orang yang sudah memiliki wawasan yang tinggi mengenai suatu topik.
+	- **Menghafal**: Ditulis dan dihafal.
+	- **Membaca**: Melakukan ceramah dengan naskah lengkap namun tidak dilakukan secara monoton. Jangan terfokus pada teksnya, sekali-sekali melirik teks.
+	- **Ekstemporal**: Menuliskan pokok2 pikiran sebagai catatan (hanya yang penting2 saja).
+- Jenis-jenis 
+	- **Khusus**: Pendengar tertentu yang bersifat khusus berdasar materi.
+	- **Umum**: Diajukan kepada masyarakat-masyarakat umum, tanpa di batasi.
 - Bisa dilakukan di banyak tempat secara langsung/tdk secara langsung(di rekam/tv/media), terutama tempat ibadah.
 - Setiap paragraf memuat informasi-informasi yang penting yg memuat gagasan pokok tsb.
-- Metode penceramah
-	- **Impronte**: Cara berceramah tanpa persiapan.
-	- **Menghafal**: Ditulis dan dihafal.
-	- **Membaca Naskah**: Membaca teks dengan lengkap.
-	- **Teks Temporal**: [!!] Needs fixing
-- Jenis-jenis 
-	- **Khusus**: Pendengar tertentu yg bersifat khusus berdasar materi.
-	- **Umum**: diajukan kepada masyarakat-masyarakat umum, tanpa di batasi.
 - Cara memahami isi ceramah
 	- **Memahami Topik**
 	- **Menentukan Gagasan Pokok**
