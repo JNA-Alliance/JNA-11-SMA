@@ -37,3 +37,8 @@
 - Seseorang yang ditahan harus segera diperiksa dalam waktu 2 hari merupakan isi dari *Haveas Corpus Act*.
 - Pajak dan hak-hak istimewa harus dengan izin parlemen merupakan isi dari *Pettition of Rights*
 - Perbedaan HAM Indonesia dengan Amerika: HAM di Amerika adalah HAM **sebebas-bebasnya**. Sedangkan di Indonesia adalah HAM **dibatasi hukum**.
+- Hak yang tidak diatur di UUD namun diatur dalam UU Nomor 39 Tahun 1999: **Hak Wanita dan Hak Anak**
+- Perwujudan HAM tidak dapat dilakukan secara mutlak karena **dapat menggangu HAM orang lain**
+- **Komnas HAM** yang menyelidiki pelanggaran HAM berat
+- Komnas HAM muncul pada tahun 90-an dari ide **Habibie**
+- 
