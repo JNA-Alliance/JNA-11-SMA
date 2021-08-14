@@ -1,0 +1,35 @@
+# Expression Of Giving Advice and Offer
+
+- Giving advice is to give (someone) a recommendation about what should be done.
+- **Examples of asking for advice**
+    - Do you think I ought to call the police?
+    - Do you have any ideas about how I can sell my motorbike?
+    - If you were me, what would you tell her?
+    - Do you have any advice for me?
+    - If you were in my position, would you forgive me?
+- **Expression of giving advice**
+    - **To do something**
+        - I think you'd better ...
+        - If I were you, I'd ...
+        - It would probably be a good idea ...
+        - Take my advice and ...
+        - I advice you to ...
+        - How about ... ?
+    - **To NOT do something**
+        - I don't think you should ...
+        - I would not ..., if I were you.
+        - You'd netter not ...
+- **Examples of giving advice**
+    - I would like you to take this medicine three times a day.
+    - I would like you to give up playing tennis.
+    - I suggest that you eat more fruit.
+    - I recommend that that would be treated right away.
+- **Expression of offering help/something**
+    - Can/may I help you?
+    - What can I do for you?
+    - Do you want me to join us?
+    - Would you like me to ...
+    - Let me ...
+    - I'll ... if you'd like
+    - I'll be happy to ... if you'd like
+    - I'd be glad to ..., if you'd like
