@@ -50,12 +50,51 @@
         - **Sel Prokariotik/Prokariota**: Tidak memiliki membran inti (Contoh: Archaebacteria dan Eubacteria)
         - **Sel Eukariotik/Eukariota**: Memiliki membran inti (Contoh: Protista, Fungi, Plantae, dan Animalia)
 - Perbedaan Prokariotik vs Eukariotik
-	| Prokariotik                        | Eukariotik                                                   |
-	| ---------------------------------- | ------------------------------------------------------------ |
-	| Tidak memiliki membran inti        | Memiliki membran inti                                        |
-	| Tidak memiliki sistem  endomembran | Memiliki sistem endomembran                                  | 
-	| Hanya terdapat pada kingdom Monera | Terdapat pada kingdom Protista, Fungu, Plantae, dan Animalia |
+	| Prokariotik                                              | Eukariotik                                                   |
+	| -------------------------------------------------------- | ------------------------------------------------------------ |
+	| Tidak memiliki membran inti                              | Memiliki membran inti                                        |
+	| Tidak memiliki sistem  endomembran                       | Memiliki sistem endomembran                                  |
+	| Hanya terdapat pada kingdom Monera (Archaea, Eubacteria) | Terdapat pada kingdom Protista, Fungu, Plantae, dan Animalia |
 - Perbedaan Virus vs Sel
-    | Virus | Sel |
-    | ----- | --- |
-    |       |     |
+    | Virus                                  | Sel                                   |
+    | -------------------------------------- | ------------------------------------- |
+    | Tidak memiliki inti sel                | Memiliki inti sel                     |
+    | Hanya memiliki salah satu DNA atau RNA | Memilik DNA dan RNA                   |
+    | Tidak memiliki sistem metabolisme      | Dapat bermetabolisme (proses kimiawi) |
+    | Dikatakan sebagai Aseluler             | Terdapat organel sel                  |
+- Struktur Sel
+    - Membran Sel
+        - Membran = Selaput pembungkus/pelindung
+        - Memiliki beberapa komponen
+            - Glikoprotein: Reseptor hormon dan nuerotransmitter
+            - Protein integral/intrinsik
+            - Glikolipid: Memban sel yang 
+            - Protein Periferal/entrinsik
+            - Fosfolipid bilayer
+                - Pada bagian ini terbagi menjadi dua bagian:
+                    - Kepala: Gugus Fosfat (Hidrofilik)
+                    - Ekor: Lipid (Hidrofobik)
+        - Fungsinya:
+            - Mengatur masuk dan keluarnya zat dari sel (transportasi zat)
+            - Melindungi isi sel
+        - Memiliki kemampuan sifat dalam transportasi zat:
+            - **Apermeabel**: Memiliki kekmampuan untuk tidak dapat dilalui oleh semua zat
+            - **Semi permeabel**: Membran sel yang memiliki kemampuan dapat menerima sebagian zat yang masuk kedalam sel
+            - **Permeabel**: Membran sel yang dapat dilalui oleh semua zat
+    - Nukleus/Inti Sel
+    - Sitoplasma
+    - Organel Sel
+- **Organel Sel**
+    - Orang-organ kecil yang terdapat didalam sitoplasma (tempat reaksi kimia/metabolisme organel sel)
+    - Beberapa organel sel yang dimiliki oleh sel hewan dan sel tumbuhan:
+        - Ribosom
+        - Retikulum Endoplasma (RE)
+        - Badan Golgi (Diktiosom)
+        - Lisosom
+        - Mitokondria
+        - Sitoskeleton
+        - Sentriol/Sentrosom
+        - Vakuola
+        - Badan Mikro
+        - Peroksisom
+        - Mikrotubulus
