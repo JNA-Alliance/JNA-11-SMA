@@ -11,7 +11,7 @@
     - Terdapat ceramah umum dan spesifik.
 - Unsur-unsur
 	- **Penceramah**: Orang yg menyampaikan materi/masalah kepada pendengar dengna maksud tertentu.
-	- **Materi**: Hal atau masalah yg disampaikan oleh penceramah kepada pendengar.
+	- **Materi**: Hal atau masalah yang disampaikan oleh penceramah kepada pendengar.
 	- **Pendengar**: Orang-orang yang menyimak materi yang disampaikan.
 	- **Media**: Alat yang digunakan untuk menyampaikan materi (papan tulis, layar penampil, perangkat komputer).
 - Metode-metode
@@ -24,8 +24,18 @@
 	- **Umum**: Diajukan kepada masyarakat-masyarakat umum, tanpa di batasi.
 - Bisa dilakukan di banyak tempat secara langsung/tdk secara langsung(di rekam/tv/media), terutama tempat ibadah.
 - Setiap paragraf memuat informasi-informasi yang penting yg memuat gagasan pokok tsb.
-- Cara memahami isi ceramah
+- Cara memahami isi cerama
 	- **Memahami Topik**
 	- **Menentukan Gagasan Pokok**
 	- **Mengenditifikasi Fakta**
 	- **Menentukan Kesimpulan**
+- Cara menyusun bagian penting teks cerama
+    - **Memahami Unsur Ceramah**: Calon penceramah harus menguasai dan perlu mempelajari orang2 yang akan menjadi pendengar/pembaca agar isi ceramah tersampaikan dengan baik
+    - **Menentukan Topik**: Aktualitas dan keunikan topik perlu diperhatikan untuk menarik hati pada pendengar/pembaca
+    - **Merumuskan Gagasan**: Gagasan dirumuskan secara detail dan runtut agar mudah dikembangkan dan harus orisinal, tidak mengambil gagasan orang lain
+    - **Menghimpun Data**: Data pendukung harus aktual atau tidak kedaluwarsa, boleh berupa hasil riset terakhir, wawancara, atau hasil berselancar di internet dengan sumber terpercaya
+    - **Melengkapi Bagian Teks**: Bagian teks selain materi dapat berupa penggunaan anekdot, analogi, metafora, ilustraso, dan lain2 perlu disisipkan pada bagian tertentu agar ceramah tidak terkesan monoton dan membosankan
+- Struktur
+    - **Pembuka**:
+    - **Isi**:
+    - **Penutup**:
