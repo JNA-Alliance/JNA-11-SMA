@@ -36,20 +36,24 @@
     - **Menghimpun Data**: Data pendukung harus aktual atau tidak kedaluwarsa, boleh berupa hasil riset terakhir, wawancara, atau hasil berselancar di internet dengan sumber terpercaya
     - **Melengkapi Bagian Teks**: Bagian teks selain materi dapat berupa penggunaan anekdot, analogi, metafora, ilustraso, dan lain2 perlu disisipkan pada bagian tertentu agar ceramah tidak terkesan monoton dan membosankan
 - Struktur
-    - **Pembuka**:
+    - **Pembuka**: 
+        - Salam pembuka, penghormatan, dan ucapan syukur mengawali teks.
+        - Bagian ini juga berisi kalimat pengantar untuk mengenalkan topik/isu yang dibahas (tesis).
+        - Dapat diawali dengan menceritakan ilustrasi peristiwa yang berkaitan dengan topik secara umum.
     - **Isi**:
+        - Berisi pamparan argumen sesuai sudut pandang penulis mengenai tesis Argumen didukung pula dengan referensi berupa fakta dan bukti yang relevan.
+        - Pada akhir pembahasa disampaikan pula simpulan berisi rekomendasi dan penegasan ulang tesis.
     - **Penutup**:
-
+        - 
 - Aspek kebahasaan
 	- **Efektif**: Tidak disampaikan secara berbelit-belit atau bertele-tele sehingga mapu menyampaikan isi dan pesan baik kepada audisi.
 	- **Luwes**: Tidah harus selalu formal dan terpaku pada tata bahasa tertentu dengan tujuan memberi kesan tidak kaku dan membosankan.
 	- **Berdaya Tarik**: Menggugah hati audiensi untuk terus menyimak.
 	- **Kreatif**: Keunikan bahasa mulai dari diksi,peribahasa,majas,pantun,ungkapan,hinga slang.
-
 - Kebahasaan dalam teks
-	- **Kata Sapaan**: menyapa audiensi sehingga memunculkan kesan sopan dan hormat.
-	- **Kata Ganti**: kata ganti orang pertama tunngal/jamak (saya,kita,dan kami)
-	- **Kata Teknis/Ilmiah**: digunakan dalam konteks tertentu untuk menjelaskan peristiwa atau teori yang mendukung argumen penceramah
-	- **Kata Kerja Mental** : memaparkan argumen yang melalui cara berpikir kritis berhungna dengan konteks topik, misalnya berasuransi, mengira, dan menyangsikan.
-	- **Konjungsi Kausalitas Dan Temporal**: Hubungan sebab akibat dan waktu sebagai dasar perbandingan atau pertentangan
-	- **Kalimat Interaktif**: keterengan modalitas yang bertujuan memersuasu audiensi untuk membaut suatu opini, misalnya harus, sebaiknya , seharusnya, dan barang kali.
+	- **Kata Sapaan**: menyapa audiensi sehingga memunculkan kesan sopan dan hormat (*saudara, hadirin, dan teman-teman*).
+	- **Kata Ganti**: kata ganti orang pertama tunggal/jamak yang merujuk kepada penceramah itu sendiri.(*saya, kita, dan kami*).
+	- **Kata Teknis/Ilmiah**: digunakan dalam konteks tertentu untuk menjelaskan peristiwa atau teori yang mendukung argumen penceramah (*periferal, rekonsiliasi, dan statuta*).
+	- **Kata Kerja Mental** : memaparkan argumen yang melalui cara berpikir kritis berhungna dengan konteks topik. (*berasuransi, mengira, dan menyangsikan*).
+	- **Konjungsi Kausalitas Dan Temporal**: Hubungan sebab akibat dan waktu sebagai dasar perbandingan atau pertentangan (*karena dan akhirnya*).
+	- **Kalimat Interaktif**: keterengan modalitas yang bertujuan memersuasu audiensi untuk membaut suatu opini (*harus, sebaiknya , seharusnya, dan barang kali*).
