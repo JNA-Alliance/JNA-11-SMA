@@ -39,3 +39,17 @@
     - **Pembuka**:
     - **Isi**:
     - **Penutup**:
+
+- Aspek kebahasaan
+	- **Efektif**: Tidak disampaikan secara berbelit-belit atau bertele-tele sehingga mapu menyampaikan isi dan pesan baik kepada audisi.
+	- **Luwes**: Tidah harus selalu formal dan terpaku pada tata bahasa tertentu dengan tujuan memberi kesan tidak kaku dan membosankan.
+	- **Berdaya Tarik**: Menggugah hati audiensi untuk terus menyimak.
+	- **Kreatif**: Keunikan bahasa mulai dari diksi,peribahasa,majas,pantun,ungkapan,hinga slang.
+
+- Kebahasaan dalam teks
+	- **Kata Sapaan**: menyapa audiensi sehingga memunculkan kesan sopan dan hormat.
+	- **Kata Ganti**: kata ganti orang pertama tunngal/jamak (saya,kita,dan kami)
+	- **Kata Teknis/Ilmiah**: digunakan dalam konteks tertentu untuk menjelaskan peristiwa atau teori yang mendukung argumen penceramah
+	- **Kata Kerja Mental** : memaparkan argumen yang melalui cara berpikir kritis berhungna dengan konteks topik, misalnya berasuransi, mengira, dan menyangsikan.
+	- **Konjungsi Kausalitas Dan Temporal**: Hubungan sebab akibat dan waktu sebagai dasar perbandingan atau pertentangan
+	- **Kalimat Interaktif**: keterengan modalitas yang bertujuan memersuasu audiensi untuk membaut suatu opini, misalnya harus, sebaiknya , seharusnya, dan barang kali.
