@@ -8,6 +8,11 @@
             - **Indische Partij**: Memperjuangkan hak penghidupan untuk mendapatkan kemerdekaan dan perlakuan yang sama.
             - **Perhimpunan Indonesia (1925)**: Memperjuangkan hak untuk menentukan nasib sendiri.
             - **Pendidikan Nasional Indonesia (1931)**: Memperjuangkan hak untuk menentukan nasib sendiri, hak untuk mengeluarkan pendapat, hak untuk berserikat dan berkumpul, hak persamaan di muka umum, dan hak untuk turut dalam penyelenggaraan negara.
+            - **Pergerakan Nasional Indonesia (RECAP SEMUA DIATAS)**:
+                1. Hak untuk mendapatkan pendidikan yang layak. Tidak ada perbedaan antara laki-laki dan perempuan dalam hal mendapatkan pendidikan serta rakyat biasa juga berhak mendapatkan pendidikan baik itu pendidikan agama maupun pendidikan umum.
+                2. Memajukan pertanian, peternakan, perdagangan dan industri.
+                3. Menghidupkan kembali kebudayaan - kebudayaan daerah yang terkikis oleh adanya budaya asing.
+                4. Hak untuk mempersatukan bangsa, bahasa, dan tanah air Indonesia.
     2. **Periode Sesudah Kemerdekaan (1945-Sekarang)**
         - **Periode 1945-1950**
             - Pemikiran HAM awal pasca kemerdekaan, menekankan pada:
