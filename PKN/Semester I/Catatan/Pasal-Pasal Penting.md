@@ -1,8 +1,45 @@
 # Pasal-Pasal Penting yang ditanya Mam
 
+- **Pasal 27 (1)**: Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.
 - **Pasal 27 (3)**: Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara
-- **Pasal 30 (1)**: Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara) 
 - **UU No. 39 Tahun 1999**: Tentang HAM
 - **UU No. 26 Tahun 2000**: Tentang Pengadilan HAM
 - **KEPRES No. 129 Tahun 1998**: Tentang Rencana Aksi Sosial Hak-hak Asasi Manusia (RANHAM)
 - **KEPRES No. 61 Tahun 2003**: Tentang RANHAM
+- **Pasal 28A**: Setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya
+- **Pasal 28B (1)**: Setiap orang berhak membentuk keluarga dan melanjutkan keturunan melalui perkawinan sah.
+- **Pasal 28B (2)**: Setiap anak berhak atas kelangsungan hidup, tumbuh, dan berkembang serta berhak atas perlindungan dari kekerasan dan diskriminasi.
+- **Pasal 28C (1)**: Setiap orang berhak mengembangkan diri melalui pemenuhan kebutuhan dasarnya, berhak mendapat pendidikan dan memperoleh manfaat dan ilmu pengetahuan dan teknologi, seni dan budaya, demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia. 
+- **Pasal 28C (2)**: Setiap orang berhak untuk memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa, dan negaranya.
+- **Pasal 28D (1)**: Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum. 
+- **Pasal 28D (2)**: Setiap orang berhak untuk bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja. 
+- **Pasal 28D (3)**: Setiap warga negara berhak memperoleh kesempatan yang sama dalam pemerintahan. 
+- **Pasal 28D (4)**: Setiap orang berhak atas status kewarganegaraan.
+- **Pasal 28E (1)**: Setiap orang bebas memeluk agama dan beribadat menurut agamanya, memilih pendidikan dan pengajaran, memilih pekerjaan, memilih kewarganegaraan, memilih tempat tinggal di wilayah negara dan meninggalkannya, serta hendak kembali. 
+- **Pasal 28E (2)**: Setiap orang berhak atas kebebasan meyakini kepercayaan menyatakan pikiran dan sikap, sesuai dengan hati nuruninya. 
+- **Pasal 28E (3)**: Setiap orang berhak atas kebebasan berserikat, berkumpul, dan mengeluarkan pendapat.
+- **Pasal 28F**: Setiap orang berhak untuk berkomunikasi dan memperoleh informasi untuk mengembangkan pribadi dan lingkungan sosialnya, serta berhak untuk mencari, memperoleh, memiliki, menyimpan, mengolah, dan menyampaikan informasi dengan menggunakan segala jenis saluran yang tersedia.
+- **Pasal 28H (1)**: Setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, dan medapatkan lingkungan hidup baik dan sehat serta berhak memperoleh pelayanan kesehatan. 
+- **Pasal 28H (2)**: Setiap orang mendapat kemudahan dan perlakuan khusus untuk memperoleh kesempatan dan manfaat yang sama guna mencapai persamaan dan keadilan. 
+- **Pasal 28H (3)**: Setiap orang berhak atas jaminan sosial yang memungkinkan pengembangan dirinya secara utuh sebagai manusia yang bermartabat. 
+- **Pasal 28H (4)**: Setiap orang berhak mempunyai hak milik pribadi dan hak milik tersebut tidak boleh diambil alih secara sewenang­wenang oleh siapa pun. 
+- **Pasal 28I (1)**: Hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi dihadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut adalah hak asasi manusia yang tidak dapat dikurangi dalam keadaan apa pun. 
+- **Pasal 28I (2)**: Setiap orang berhak bebas atas perlakuan yang bersifat diskriminatif atas dasar apa pun dan berhak mendapatkan perlindungan terhadap perlakuan yang bersifat diskriminatif itu. 
+- **Pasal 28I (3)**: Identitas budaya dan hak masyarakat tradisional dihormati selaras dengan perkembangan zaman dan peradaban. 
+- **Pasal 28I (4)**: Perlindungan, pemajuan, penegakan, dan pemenuhan hak asasi manusia adalah tanggung jawab negara, terutama pemerintah. 
+- **Pasal 28I (5)**: Untuk menegakan dan melindungi hak assi manusia sesuai dengan prinsip negara hukum yang demokratis, maka pelaksanaan hak asasi manusia dijamin, diatur, dan dituangkan dalam peraturan perundangan­undangan. 
+- **Pasal 28J (1)**: Setiap orang wajib menghormati hak asasi manusia orang lain dalam tertib kehidupan bermasyarakat, berbangsa, dan bernegara. 
+- **Pasal 28J (2)**: Dalam menjalankan hak dan kebebasannya, setiap orang wajib tunduk kepada pembatasan yang ditetapkan dengan undang­-undang dengan maksud semata­mata untuk menjamin pengakuan serta penghormatan atas hak kebebasan orang lain dan untuk memenuhi tuntutan yang adil sesuai dengan pertimbangan moral, nilai­nilai agama, keamanan, dan ketertiban umum dalam suatu masyarakat demokratis.
+- **Pasal 29 (2)**: Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu. 
+- **Pasal 30 (1)**: Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.
+- **Pasal 31 (1)**: Setiap warga negara berhak mendapat pendidikan
+- **Pasal 31 (2)**: Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya
+- **UU Nomor 5 Tahun 1998**: Tentang ratifikasi terhadap aturan anti kekejaman, penyiksaan, penanganan, atau penghukuman yang kejam, tidak berperikemanusiaan, dan merendahkan martabat.
+- **UU Nomor 9 TAhun 1998**: Tentang kebebasan menyetujui pendapat
+- **UU Nomor 11 Tahun 1998**: Tentang hak dan kewajiban buruh di Indonesia
+- **UU Nomor 8 Tahun 1999**: Tentang hak dan perlindungan konsumen.
+- **UU Nomor 19, 20 dan 21 Tahun 1999**: Tentang perburuhan. Dalam hal ini UU yang mengatur tentang penghapusan ekrja dipaksakan, upah minimum pekerja, dan diskriminsai dalam pekerjaan.
+- **UU Nomor 26 Tahun 1999**: Tentang pencabutan hukum subversi
+- **UU Nomor 39 Tahun 1999**: Tentang HAM.
+- **UU Nomor 40 Tahun 1999**: Tentang pers, hak dan mengambilnya.
+- **UU Nomor 26 TAhun 2006**: Tentang pengadilan terhadap pelanggar HAM.

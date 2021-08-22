@@ -56,5 +56,5 @@
     - Freedom of expression (kebebasan berbicara, mengeluarkan pendapat, berkumpul dan berorganisasi)
     - Freedom of information (kebebasan dalam hak pemberitaan)
     - Freedom from want (kebebasan dari kemiskinan dan kekurangan)
-- Perntayaan HAM Sedunia (***The Universal Declaration of Human Rights***)
+- Perntayaan HAM Sedunia (***The Universal Declaration of Human Rights*** oleh PBB)
     - Dilaksanakan di kota Paris tanggal 10 Desember 1948 yang terdiri dari 30 pasal yang meneryujab kepada semua anggota dan bangsa di dunia untuk menjamin dan mengalami hak2 asasi manusia yang dimuat di dalam konstitusi negara masing-masing
