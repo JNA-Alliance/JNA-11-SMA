@@ -15,3 +15,14 @@
 10. 痛苦 / Tòng kǔ / Menderita; kesakitan / 12, 11
 11. 掙扎 / Zhēng zhá / Memberontak (karena sakit) / 11, 4
 12. 手心 / Shǒu xīn / Telapak tangan / 4, 4
+13. 似乎 / Sì hū / Kelihatannya / 7, 5
+14. 情景 / Qíng jǐng / Suasana / 11, 12
+15. 打动 / Dǎ dòng / Mengetuk hati; mengharukan / 5, 6
+16. 照顧 / Zhào gù / Mengurus / 13, 21
+17. 宝贝 / Bǎo bèi / Sayang; Anak kesayangan / 8, 4
+18. 药水 / Yào shuǐ / Obat merah/batuk; Obat cair / 12 , 4
+19. 紗布 / Shā bù / Kain kasa / 10, 5
+20. 包扎 / Bāo zā / Perban; Kain kasa / 5, 4
+21. 伤口 / Shāng kǒu / Bekas lukaan / 6, 3
+22. 护士 / Hù shì / Perawat / 7, 3
+23. 伤 / Shāng / Luka / 6
