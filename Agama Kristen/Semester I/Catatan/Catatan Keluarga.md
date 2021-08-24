@@ -25,3 +25,7 @@
         1. Meninggalkan ayah dan ibunya (memiliki tanggung jawab)
         2. Bersatu dengan suami atau istrinya (tidak mengenal perceraian)
         3. Keduanya menjadi satu daging (tidak ada orang ketiga)
+    - Yohanes 2:1-11
+        - Dalam ayat ini merupakan pemaparan mukjizat pertama yang dilakukan oleh Tuhan Yesus yaitu mengubah air menjadi anggur
+        - Allah yang kita sembah yaitu Tuhan Yesus Kristus adalah Allah yang peduli dan menyatakan mukjizat-Nya ditengah-tengah keluarga yang membutuhkan pertolongan
+        - 
