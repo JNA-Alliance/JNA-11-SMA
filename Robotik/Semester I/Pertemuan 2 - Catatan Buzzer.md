@@ -19,7 +19,7 @@ void loop() {
 
 2. Variasi Program Buzzer
     - Variasi program buzzer menggunakan frekuensi tangga nada (Tone Frequency)
-        - Pemanggilan: `digitalWrite(<buzzer>, <frequency>);`
+        - Pemanggilan: `tone(<buzzer>, <frequency>);`
             | Nada | Frekuensi |
             | ---- | --------- |
             | Do   | 262       |
