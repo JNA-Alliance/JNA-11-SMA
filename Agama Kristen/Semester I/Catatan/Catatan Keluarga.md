@@ -28,4 +28,3 @@
     - Yohanes 2:1-11
         - Dalam ayat ini merupakan pemaparan mukjizat pertama yang dilakukan oleh Tuhan Yesus yaitu mengubah air menjadi anggur
         - Allah yang kita sembah yaitu Tuhan Yesus Kristus adalah Allah yang peduli dan menyatakan mukjizat-Nya ditengah-tengah keluarga yang membutuhkan pertolongan
-        - 
