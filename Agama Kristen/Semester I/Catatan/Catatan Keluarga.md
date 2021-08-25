@@ -4,8 +4,8 @@
     - Menurut KBBI, pengertian Keluarga: Ibu, Bapak, dan beserta anak-anaknya atau seisi rumah.
     - Rumah Tangga: Lebih bersifat material ekonomis, yaitu sesuatu yang berhubungan dengan urusan kehidupan dalam rumah seperti belanja dan sebagainya.
     - Terbagi menjadi:
-        - Keluarga Inti: Terdiri dari ayah, ibu, dan anak, atau keluarga yang terdiri dari pasangan suami istri dan anak-anaknya.
-        - Keluarga Besar: Disebut juga keluarga batih, terdiri dari semua orang berketurunan dari kakek dan nenek yang sama, termmasuk keturunan masing-masing istri dan suami.
+        - Keluarga Inti (Pokok/Batih): Terdiri dari ayah, ibu, dan anak, atau keluarga yang terdiri dari pasangan suami istri dan anak-anaknya.
+        - Keluarga Besar: Terdiri dari semua orang berketurunan dari kakek dan nenek yang sama, termmasuk keturunan masing-masing istri dan suami.
 - Fungsi keluarga
     1. **Reproduksi**: Keluarga adalah wadah resmi dari lahirnya anak yang memiliki hak dilindungi secara hukum.
     2. **Pengaturan Seksual**: Suami istri memiliki hak dan kewajiban melakukan hubungan seksual.
