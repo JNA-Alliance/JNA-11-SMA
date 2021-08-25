@@ -9,7 +9,7 @@
 7. **Keluaran 20:12**: Hormatilah ayahmu dan ibumu, supaya lanjut umurmu di tanah yang diberikan TUHAN, Allahmu, kepadamu
 8. **Efesus 6:1**: Hai anak-anak, taatilah orang tuamu di dalam Tuhan, karena haruslah demikian.
 9. **Efesus 6:4**: Dan kamu, bapa-bapa, janganlah bangkitkan amarah di dalam hati anak-anakmu, tetapi didiklah mereka di dalam ajaran dan nasihat Tuhan.
-10. **Amsal 22:6**: Didiklah orang muda menurut jalan yang patut baginya, maka pada masa tuanyapun ia tidak akan menyimpang daripada jalan itu.
+10. **Amsal 22:6**: Didiklah orang muda menurut jalan yang patut baginya, maka pada masa tuanya pun ia tidak akan menyimpang daripada jalan itu.
 11. **Yosua 24:15**: Tetapi jika kamu anggap tidak baik untuk beribadah kepada TUHAN, pilihlah pada hari ini kepada siapa kamu akan beribadah; allah yang kepadanya nenek moyangmu beribadah di seberang sungai Efrat, atau allah orang Amori yang negerinya kamu diami ini. (Tetapi aku dan seisi rumahku, kami akan beribadah kepada TUHAN!)"
 
 Pegunungan Arara - Tempat bahtera dibangun

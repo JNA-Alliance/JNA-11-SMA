@@ -2,6 +2,7 @@
 
 ## Konsep Hak dan Kewajiban Asasi Manusia
 - Hak asasi manusia merupakan hak dasar/hak pokok yang melekat pada diri manusia sebagai anugerah Tuhan Yang Maha Esa sejak dalam kandingan dan bersifar universal, tidak mengenal batasan umur, jenis kelamin, negara, ras, agama dan budaya dan tidak dapat dipisahkan dari eksistensi (keberadaan) manusia itu sendiri.
+- Hak Asasi Manusia di Indonesia bersumber dan bermuara pada pancasila.
 - Hak dasar/pokok tersebut adalah:
     - Hak Hidup
     - Hak Kemerdekaan Kebebasan
