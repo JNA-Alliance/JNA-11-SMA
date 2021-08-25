@@ -44,7 +44,12 @@
         - Berisi pamparan argumen sesuai sudut pandang penulis mengenai tesis Argumen didukung pula dengan referensi berupa fakta dan bukti yang relevan.
         - Pada akhir pembahasa disampaikan pula simpulan berisi rekomendasi dan penegasan ulang tesis.
     - **Penutup**:
-        - 
+        - Berisi ringksan materi yang telah dijelaskan sebelumnya. Simpulan ini sifatnya memperjelas dan mempertegaspernyataan sebelumnya yang telah disampaikan kepada pendengar.
+- Persamaan dan perbedaan Ceramah, Pidato, dan Khotbah:
+	- **Ceramah**: Merupakan penceramah oleh seseorang di hadapan banyak pendengar yang membicarakan suatu hal, seperti pengetahuan, ajakan, ajaran, atau yang lainnya.
+	- **Khotbah**: Merupakan pidato yang menguraikan tentang ujaran agama dan dilakukan pada saat ritual keagamaan.
+	- **Pidato**: Merupakan pembicaraan di depan umum  yang cenderung bersifat persuasif, biasanya dilakukan pada acara formal, seperti acara kenegaraan dan politik.
+	- **Sambutan**: Pidato yang dilakukan pada acara penyambutan tamu atau sejenisnya.
 - Aspek kebahasaan
 	- **Efektif**: Tidak disampaikan secara berbelit-belit atau bertele-tele sehingga mapu menyampaikan isi dan pesan baik kepada audisi.
 	- **Luwes**: Tidah harus selalu formal dan terpaku pada tata bahasa tertentu dengan tujuan memberi kesan tidak kaku dan membosankan.
