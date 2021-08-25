@@ -95,7 +95,7 @@ void loop(){
     noTone(buzzer);
     delay(delay_short);
 
-    delay(delay_short + 100);
+    delay(delay_short);
 
     tone(buzzer, 330);
     delay(delay_long);
