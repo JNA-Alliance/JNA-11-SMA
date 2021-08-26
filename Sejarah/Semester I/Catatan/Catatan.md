@@ -27,3 +27,4 @@ Akibat jatuhnya Konstantinopel ke Turki Utsmani, akses ke rempah-kempah Eropa ke
 - Gospel: Keinginan untuk menyebarkan agama Kristen ke seluruh dunia
 - Glory: Semangat untuk membangun kembali kejayaan bangsaya dengan kekuatan sendiri
 ```
+
