@@ -26,3 +26,7 @@
 21. 伤口 / Shāng kǒu / Bekas lukaan / 6, 3
 22. 护士 / Hù shì / Perawat / 7, 3
 23. 伤 / Shāng / Luka / 6
+24. 盼望 / Pàn wàng / Mengharapkan/menginginkan / 9, 11
+25. 亲人 / Qīn rén / Keluarga Besar (relatives) / 9, 2
+26. 光滑 / Guāng huá / Licin mengkilap (smooth) / 6, 13
+27. 盤旋 / Pán xuán / Memutar / 15, 11
