@@ -5,7 +5,7 @@
     - **SITOLOGI**: Cabang biologi yg mempelajari tentang sel
     - Terdapat sangat banyak sel didalam tubu hhidup dari berjuta-juta sampai triliunan sel
     - Unit terkecil penyusun suatu organisme / makhluk hidup.
-    - Unit terkecil penyusun tubuh makhluk hidup yg struktural dan fungsional.
+    - Unit terkecil penyusun tubuh makhluk hidup yang struktural dan fungsional.
 - Komponen Kimiawi
     - Anorganik:
         - 75% lebih mengandung air sebagai zat pelarut
@@ -87,14 +87,20 @@
 - **Organel Sel**
     - Orang-organ kecil yang terdapat didalam sitoplasma (tempat reaksi kimia/metabolisme organel sel)
     - Beberapa organel sel yang dimiliki oleh sel hewan dan sel tumbuhan:
-        - Ribosom
-        - Retikulum Endoplasma (RE)
-        - Badan Golgi (Diktiosom)
-        - Lisosom
-        - Mitokondria
-        - Sitoskeleton
-        - Sentriol/Sentrosom
-        - Vakuola
-        - Badan Mikro
-        - Peroksisom
-        - Mikrotubulus
+        - Ribosom: Sintesis Protein
+        - Retikulum Endoplasma (RE): 
+            - Kasar: Transpotasi protein
+            - Halus: Sintesis lemak
+        - Badan Golgi (Diktiosom): Mengemas protein & sekresi sel
+        - Lisosom: Pencernaan intra sel (menghasilkan enzim hidrolitik dalam peristiwa endositosis dan eksositosis)
+        - Mitokondria: Oksidasi/Respirasi sel (The Powerhouse)
+        - Sitoskeleton: 
+        - Sentriol/Sentrosom: Berperan dalam proses pembelahan sel 
+        - Vakuola: Menjaga dan mempertahankan tekanan turgor sel
+        - Badan Mikro: 
+        - Peroksisom: 
+        - Mikrotubulus: Mengatur pergerakan sel
+        - Plastida: Untuk proses fotosintesis, sintesis lipid, dll.
+            - Kloroplas: Mengandung klorofil
+            - Kromoplas: Mengandung pigmen
+            - Leukoplas
