@@ -1,6 +1,6 @@
 # Pernikahan Kristen
 
-- Dalam Kejadian 2:18 dikatakan: "Tidak baik kalau manusia itu sorang diri saa. Aku akan menjadikan penolong baginya yang *sepadan* dengan dia". Makna "sepadan di sini adalah:
+- Dalam Kejadian 2:18 dikatakan: "Tidak baik kalau manusia itu sorang diri saa. Aku akan menjadikan penolong baginya yang *sepadan* dengan dia. Makna "sepadan" di sini adalah:
     1. Bentuk keseimbangan antara laki-laki dan perempuan sebagai pasangan suami dan istri, keseimbangan antara pemenuhan kebutuhan jasmani dan rohani pasangannya.
     2. Masing-masing merendahkan hati untuk menerima kekurangan maupun kelebihan pasangannya.
     3. Relasi yang sehat dan saling membangun antara suami dan istri, terutama melalui komunikasi dua arah saling terbuka dan jujur.
