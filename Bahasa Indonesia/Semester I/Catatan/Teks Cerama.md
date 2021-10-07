@@ -42,6 +42,7 @@
         - Dapat diawali dengan menceritakan ilustrasi peristiwa yang berkaitan dengan topik secara umum.
     - **Isi**:
         - Berisi pamparan argumen sesuai sudut pandang penulis mengenai tesis Argumen didukung pula dengan referensi berupa fakta dan bukti yang relevan.
+        - Materi disampaikan secara sistematis, sederhana-kompleks, umum-khusus, sebab-akibat atau sebaliknya.
         - Pada akhir pembahasa disampaikan pula simpulan berisi rekomendasi dan penegasan ulang tesis.
     - **Penutup**:
         - Berisi ringksan materi yang telah dijelaskan sebelumnya. Simpulan ini sifatnya memperjelas dan mempertegaspernyataan sebelumnya yang telah disampaikan kepada pendengar.
@@ -62,3 +63,9 @@
 	- **Kata Kerja Mental** : memaparkan argumen yang melalui cara berpikir kritis berhungna dengan konteks topik. (*berasuransi, mengira, dan menyangsikan*).
 	- **Konjungsi Kausalitas Dan Temporal**: Hubungan sebab akibat dan waktu sebagai dasar perbandingan atau pertentangan (*karena dan akhirnya*).
 	- **Kalimat Interaktif**: keterengan modalitas yang bertujuan memersuasu audiensi untuk membaut suatu opini (*harus, sebaiknya , seharusnya, dan barang kali*).
+- Cara Menyusun Bagian Penting Teks Ceramah
+	- **Memahami unsur ceramah**: Calon penceramah harus menguasai topik dan perlu mempelajari orang-orang yang akan menjadi pendengar/pembaca agar isi ceramah tersampaaikan dengan baik.
+	- **Menentukan topik**: Hal ini merupkan aktualisasi keunikan topik perlu diperhatikan untuk menarik hati para pendengar/pembaca
+	- **Merumuska gagasan**: Gagasan dirumuskan secara detail dan runtut agar mudah dikembangkan dan harus orisional, tidak mengambil gagasan orang lain. 
+	- **Menghimpun data**: Data pendukung harus aktual, atau tidak kadaluwarsa boleh berupa hasil riset terakhir, wawancara atau dari internet dengan sumber terpercaya. 
+	- **Melangkapi bagian teks**: Selain materi dapat berupa anekdot, analogi, metafora, ilustrasi dan lain-lain. 
