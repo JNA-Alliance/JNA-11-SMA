@@ -1,0 +1,39 @@
+# Substansi Hak Dan Kewajiban Asasi Manusia Dalam Pancasila
+
+- Hak dan kewajiban asasi manusia dalam nilai dasar Pancasila merupakan suatu nilai yang bersifat abstrak dan tetap, yang terlepas dari pengaruh perubahan waktu. 
+- Nilai dasar berkenaan dengan eksistensi sesuatu, mencakup cita-cita, tujuan, tatanan dasar dan ciri khasnya. 
+- Nilai-nilai dasar dari Pancasila adalah nilai 1 – 5 yang merupakan lima prinsip dasar yang menjadi tolak ukur identitas bangsa Indonesia
+- Hubungan antara hak dan kewajiban asasi manusia dalam nilai dasar Pancasila:
+    - **Nilai Ketuhanan Yang Maha Esa**: memberikan jaminan dan hak bagi setiap warga negara untuk memeluk agama, beribadah dan menghormati perbedaan agama.
+    - **Nilai Kemanusiaan yang Adil dan Beradab**: memberikan jaminan dan hak bagi setiap warga negara untuk mendapatkan perlakuan yang adil dan setara baik dihadapan hukum dan undang-undang, pendidikan, penghidupan yang layak dan kesejahteraan.
+    - **Nilai Persatuan Indonesia**: menuntut kewajiban bagi seluruh warga negara untuk memelihara persatuan dan kesatuan Indonesia.
+    - **Nilai Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan**: dalam Permusyawaratan/Perwakilan dibuktikan dengan adanya sistem demokrasi yaitu dari rakyat oleh rakyat dan untuk rakyat “Democrasition is government from the people by the people and for the people” oleh Abraham Lincoln.
+    - **Nilai Keadilan Sosial bagi Seluruh Rakyat Indonesia**: menegaskan hak-hak yang harus diterima oleh setiap warga negara berupa keadilan dalam pendidikan, kesempatan mengembangkan diri, kebebasan berpendapat dll yang berkaitan dengan hak dasar manusia.
+- Landasan Instrumen HAM:
+    - Sebelum amandemen (**Pasal 27 – 34 UUD 1945**).
+    - Sesudah amandemen (**Bab X-A Pasal 28A – 28J UUD 1945**).
+    - **Undang-Undang No 39 Tahun 1999 tentang HAM**.
+    - **Ketetapan MPR No XV II/MPR/1998 tentang HAM**.
+    - **Keputusan Presiden No 50 Tahun 1999 tentang Komnas HAM**.
+    - **Undang-Undang No 26 Tahun 2000 tentang Pengadilan HAM**.
+- HAM yang tercantum dalam UUD 1945, Hak asasi manusia sebagai:
+    - Hak segala bangsa (alinia Pembukaan UUD 1945).
+    - Hak warga negara (Batang Tubuh UUD 1945 pasal 27, 28, 28D ayat (3), 30, 31).
+        - Pasal 27:
+            - Kedudukan sama dihadapan hukum dan pemerintahan
+            - Berhak atas pekerjaan dan penghidupan yang layak
+            - Berhak dan wajib ikut serta dalam upaya pembelaan negara
+        - Pasal 28:
+            - Kebebasan berserikat dan berkumpul, mengeluarkan pikiran
+        - Pasal 28D:
+            - Berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum
+            - Berhak memperoleh kesempatan yang sama dalam pemerintahan.
+        - Pasal 30:
+            - Tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan negara
+        - Pasal 31:
+            - Berhak mendapatkan pendidikan
+            - Wajib mengikuti pendidikan dasar
+    - Hak tiap-tiap penduduk (Batang Tubuh UUD 1945 pasal 29 ayat 2).
+        - Pasal 29:
+            - Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu.
+    - Hak perorangan/individu (Batang Tubuh UUD 1945 pasal 28A – 28J).

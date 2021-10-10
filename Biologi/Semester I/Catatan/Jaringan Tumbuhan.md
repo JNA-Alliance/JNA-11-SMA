@@ -8,4 +8,7 @@
     - **Jaringan Meristem (Jaringan Muda)**
         - Disbut juga sebagai jaringan embrional
         - Jaringan yang sel-selnya masih aktif membelah secara mitosis, sehingga tumbuhan mengalami pertambahan tinggi dan volume
-    - **Jaringan Dewasa**
+
+# Struktur Jaringan Tumbuhan
+- Jaringan tumbuhan: Kumpulan sel yang mempunyai bentuk, struktur, dan fungsi yang sama.
+- 
