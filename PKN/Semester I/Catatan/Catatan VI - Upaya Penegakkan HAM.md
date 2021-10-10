@@ -1,0 +1,59 @@
+# Upaya Penegakan Hak Asasi Manusia
+- Perlindungan HAM merupakan kewajiban utama pemerintah (UUD Pasal 28H ayat 4, menyatakan bahwa perlindungan pemajuan, penegakan dan pemenuhan HAM adalah tanggung jawab negara terutama pemerintah)
+- Rumusan Deklarasi Universal Hak Asasi Manusia (**DUHAM**) PBB berisi:
+    - Kovonan Internasional tentang Hak Sipil dan Politik
+        - Hak hidup
+        - Hak bebas dari penyiksaan dan perlakuan tidak manusiawi
+        - Hak bebas dari perbudakan dan kerja paksa
+        - Hak atas kebebasan dan keamanan pribadi
+        - Hak atas kebebasan bergerak dan berpindah
+        - Hak atas pengakuan dan perlakuan yang sama dihadapan hukum
+        - Hak untuk bebas berfikir, berkeyakinan dan beragama
+        - Hak untuk bebas berpendapat dan berekspresi
+        - Hak untuk berkumpul dan berserikat
+        - Hak untuk turut serta dalam pemerintahan
+    - Kovonan Internasional tentang Hak Ekonomi, Sosial Budaya
+    - *Optional Protocol*: adanya kemungkinan seseorang warga negara mengadukan pelanggaran HAM kepada Komisi HAM PBB (*The Human Rights Committee*) setelah melalui upaya pengadilan di negaranya
+- Dalam hal pelanggaran HAM, jika negara tidak mau menyelediki, memproses dan mengadili kasus HAM, negara tersebut disebut sebagai *unwilling/unwillingness*
+- Jika negara tidak mampu disebut *unable*, kasus pelanggaran HAM tersebut akan dilimpahkan kepada *Mahkamah Pidana Internasional*
+- Kewajiban negara dalam penegakan HAM terdiri dari dua unsur pokok yang harus dijalankan:
+    - Proteksi (*Protection*):
+        - Mengharuskan negara menjamin dan melindungi HAM. 
+        - Negara membuat peraturan secara konstitusional agar semua warganya dapat menikmati hak-hak dasar yang seharusnya dimiliki. 
+        - Contoh konkrit proteksi: Negara membentuk peraturan perundang-undangan untuk memberikan perlindungan, pemajuan, pemenuhan HAM
+    - Realisasi (*Realization*):
+        - Kewajiban negara untuk bertindak secara aktif dalam memenuhi HAM. 
+        - Contoh konkrit realisasi: Menindak pelaku pelanggaran HAM dengan hukuman seadil-adilnya
+    - Kewajiban dan tanggung jawab negara terhadap HAM yaitu untuk:
+        - Menghormati (*respect*) hak asasi manusia.
+        - Melindungi (*protect*) hak asasi manusia.
+        - Memenuhi (*fulfill*) hak asasi manusia.
+        - Memajukan / mengembangkan / meningkatkan (*promote*) hak asasi manusia.
+- Negara Indonesia sebagai negara hukum sesuai pasal 1 ayat (3) UUD NRI Tahun 1945 wajib memberikan perlindungan terhadap hak asasi manusia. Hal ini sesuai dengan ciri-ciri negara hukum
+- Pengakuan dan penghargaan HAM di Indonesia dimulai sejak amandemen kedua UUD NRI Tahun 1945 dengan didirikannya Komisi Nasional Hak Asasi Manusia (*Komnas HAM*) dan didirikannya Pengadilan HAM di Indonesia
+- Apabila HAM dalam suatu negara terabaikan atau dilanggar dengan sengaja serta penderitaan yang ditimbulkan tidak dapat diatasi secara adil, negara tersebut tidak dapat disebut sebagai negara hukum dan demokrasi dalam arti sesungguhnya
+- Makna Perlindungan, Pemajuan dan Pemenuhan HAM
+    - Pengertian
+        - Menurut *rights based theory*, semua orang mempunyai hak yang melekat pada dirinya dan harus dihormati oleh negara.
+        - Pelanggaran HAM secara garis besar didominasi oleh yang mempunyai kekuatan dan kekuasaan terhadap orang yang lemah.
+        - Pelanggaran HAM tidak semata-mata melanggar undang-undang tetapi juga membuktikan menurunnya penghargaan kepada harkat dan martabat manusia.
+    - Perlindungan HAM yang paling utama dilakukan melalui:
+        - Pembentukan instrumen hukum perlindungan HAM oleh pemerintah karena negaralah yang memiliki tugas utama untuk melindungi hak-hak asasi warga negaranya
+        - Mendirikan lembaga-lembaga baru untuk memberikan perlindungan hak asasi manusia seperti:
+            - Komisi Nasional Hak Asasi Manusia
+            - Komisi Ombudsman Nasional
+            - Dibentuknya Pengadilan HAM ad hoc
+    - Upaya Pemajuan HAM yang telah dilakukan di Indonesia antara lain:
+        - Indonesia masuk dalam keanggotaan Komisi HAM PBB tahun 1991
+        - Melalui berbagai macam institusi seperti:
+            - Komisi Nasional Hak Asasi Manusia (Komnas HAM) berdasarkan keputusan Presiden No 50 Tahun 1993
+            - Pengesahan Komnas Anti Kekerasan terhadap Wanita dengan Keputusan Pemerintah No 181 Tahun 1998
+            - Pembentukan Kementrian HAM pada tahun 1999 diubah menjadi Direktorat Jenderal Perlindungan HAM dalam naungan Kementrian Hukum dan HAM
+            - Dibentuk UU No 39 Tahun 1999 tentang HAM
+            - Dibentuk UU No 26 Tahun 2000 tentang Pengadilan HAM
+            - Dibentuk Peraturan Presiden No 75 Tahun 2015 tentang Rencana Aksi Nasional Hak Asasi Manusia Tahun 2015 – 2019
+    - Pemenuhan HAM
+        - Pemenuhan HAM erat kaitannya dengan penegakan hukum. Apabila penegakan hukum tidak berhasil dilakukan tentang pemenuhan HAM tidak akan dapat terwujud
+        - Dalam penegakan hukum, banyak faktor yang sangat berpengaruh, salah satunya adalah aparat penegak hukum itu sendiri
+        - Aparat penegak hukum merupakan penyelenggaraan negara yang bertugas melindungi dan memberikan jaminan HAM secara langsung kepada warga masyarakat
+        - Oleh karena itu, pembenahan sistem peradilan baik itu kemauan dari aparat penegak hukum maupun kesadaran kritis masyarakat yang sangat diperlukan demi terciptanya keseimbangan dan kepastian hukum dalam rangka pemenuhan hak asasi manusia
