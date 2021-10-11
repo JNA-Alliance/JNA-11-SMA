@@ -12,7 +12,7 @@
 - Kelahiran HAM dalam bentuk peraturan tertulis berawal dari dunia barat di Inggris pada tahun 1215 yaitu *Magna Charta*: Masyarakat menentang kepemimpinan Raja John yang sewenang-wenang terhadap rakyat dan bangsawan dalam arti menentang kekuasaan raja secara absolut.
 - *Magna Charta* atau Piagam Agung menjadi tanda bagi lahirnya perlindungan terhadap HAM yang menjadi inspirasi munculnya perlindungan HAM.
 - Dalam perwujudannya hak asasi manusia tidak dapat dilaksanakan secara mutlak karena dapat melanggar hak asasi orang lain. Memperjuangkan hak sendiri dengan mengabaikan hak orang lain merupakan tindakan yang tidak manusiawi.
-- Kita wajib menyadari bahwa hak2 asasi kita selalu berbatasan dengan hak2 asasi orang lain, karena itulah ketaatan terhadap aturan menjadi penting.
+- Kita wajib menyadari bahwa hak-hak asasi kita selalu berbatasan dengan hak-hak asasi orang lain, karena itulah ketaatan terhadap aturan menjadi penting.
 
 ## Sejarah Perkembangan HAM di Dunia
 - Dokumen HAM di Inggris
@@ -25,7 +25,7 @@
             - Menuntut raja untuk segera menegakkan hak dan keadilan bagi rakyat
     2. ***Petition of Rights* (1628)**
         - Pemerintahan Charles I
-        - Pajak dan hak2 istimewa harus dengan izin parlemen
+        - Pajak dan hak-hak istimewa harus dengan izin parlemen
         - Orang tidak boleh ditangkap tanpa tuduhan yang sah
         - Dalam keadaan damai, tentara tidak boleh menjalankan hukum perang
     3. ***Habeas Corpus Act* (1679)**
@@ -34,19 +34,19 @@
     4. ***Bill of Rights* (1689)**
         - Kebebasan dalam pemilihan anggota parlemen
         - Kebebasan berbicara dan mengeluarkan pendapat
-        - Pajak, undang2, dan pembentukan tentara tetap harus seizin parlemen
-        - Hak warnga negara untuk memeluk agama menurut kepercayaan masing2
+        - Pajak, undang-undang, dan pembentukan tentara tetap harus seizin parlemen
+        - Hak warnga negara untuk memeluk agama menurut kepercayaan masing-masing
         - Parlemen berhak untuk mengubah keputusan raja
 - Dokumen HAM di Amerika: ***Declaration of Independence of The United States* (1776)**
-    - Bahwa semua orang diciptakan sama, dikaruniai Tuhan hak2 untuk hidup, kemerdekaan, dan mengejar kebahagiaan.
+    - Bahwa semua orang diciptakan sama, dikaruniai Tuhan hak-hak untuk hidup, kemerdekaan, dan mengejar kebahagiaan.
     - Hak-hak:
         - **Hak hidup (*life*)**
         - **Hak kemerdekaan (*liberty*)**
         - **Hak milik (*property*)**
 - Dokumen HAM di Perancis: ***Declaration Des Droits de L'homme et du Citoyen* (1789)**
-    - Pernyataan hak2 asasi manusia dan warga negara sebagai hasil Revolusi Prancis di bawah pimpiunan **Jendral Laffayete** ini antara lain menyebutkan:
-        - Manusia dilahirkan bebas dan mempunyai hak2 yang sama
-        - Hak2 tersebut antara lain hak kebebasan, hak miliki, dan hak keamanan
+    - Pernyataan hak-hak asasi manusia dan warga negara sebagai hasil Revolusi Prancis di bawah pimpiunan **Jendral Laffayete** ini antara lain menyebutkan:
+        - Manusia dilahirkan bebas dan mempunyai hak-hak yang sama
+        - Hak-Hak tersebut antara lain hak kebebasan, hak miliki, dan hak keamanan
         - Hak-hak
             - **Hak kemerdekaan (*liberte*)**
             - **Hak kesamaan (*egalite*)**
@@ -58,7 +58,7 @@
     - Freedom of information (kebebasan dalam hak pemberitaan)
     - Freedom from want (kebebasan dari kemiskinan dan kekurangan)
 - Perntayaan HAM Sedunia (***The Universal Declaration of Human Rights*** oleh PBB)
-    - Dilaksanakan di kota Paris tanggal 10 Desember 1948 yang terdiri dari 30 pasal yang meneryujab kepada semua anggota dan bangsa di dunia untuk menjamin dan mengalami hak2 asasi manusia yang dimuat di dalam konstitusi negara masing-masing
+    - Dilaksanakan di kota Paris tanggal 10 Desember 1948 yang terdiri dari 30 pasal yang meneryujab kepada semua anggota dan bangsa di dunia untuk menjamin dan mengalami hak-hak asasi manusia yang dimuat di dalam konstitusi negara masing-masing
 - Hubungan antara Pancasila dan HAM:
     1. Sila Ketuhanan yang maha Esa menjamin hak kemerdekaan untuk memeluk agama, melaksanakan ibadah dan menghormati perbedaan agama. Sila tersebut mengamanatkan bahwa setiap warga negara bebas untuk memeluk agama dan kepercayaannya masing-masing. Hal ini selaras dengan Deklarasi Universal tentang HAM (Pasal 2) yang mencantumkan perlindungan terhadap HAM
     2. Sila kemanusiaan yang adil dan beradab menempatkan hak setiap warga negara pada kedudukan yang sama dalam hukum serta memiliki kewajiban dan hak-hak yang sama untuk mendapat jaminan dan perlindungan undang-undang. Sila Kedua, mengamanatkan adanya persamaan derajat, persamaan hak dan persamaan kewajiban antara sesama manusia sebagaimana tercantum dalam Pasal 7 Deklarasi HAM PBB yang melarang adanya diskriminasi.
@@ -99,7 +99,7 @@
         - **Periode 1966-1998 (Orde Baru, Soekarno)**
             - Periode ini dikenal dengan masa pemerintahan Orde Baru, Pemikiran HAM dibagi kedalam tiga kurun waktu
                 - **Tahun 1967**: Pemerintah berusaha melindungi kebebasan dasar manusia yang ditandai dengan adanya hak uji material yang diberikan kepada Makaman Agung
-                - **Tahun 1970-1980**: Pemerintah cenderung melakukan pemasungan HAM dengan sikap detensif yang tercermin dalam produk hukum yang bersifar restriktif (membatasi) HAM. Kebijakan pemerintah tersebut didsarkan dengan alasan bahwa HAM adalah produk pemikiran barat yang dianggap tidak sesuai dengan nilai2 luhur budaya bangsa yang tercermin dalam pancasila.
+                - **Tahun 1970-1980**: Pemerintah cenderung melakukan pemasungan HAM dengan sikap detensif yang tercermin dalam produk hukum yang bersifar restriktif (membatasi) HAM. Kebijakan pemerintah tersebut didsarkan dengan alasan bahwa HAM adalah produk pemikiran barat yang dianggap tidak sesuai dengan nilai-nilai luhur budaya bangsa yang tercermin dalam pancasila.
                 - **Tahun 1990-an**: Pembentukan lembaga penegak HAM seperti Komisi Nasional (KOMNAS) HAM pada tahun 1993
         - **Periode 1998-Sekarang**: Pemerintah melakukan amandemen UUD NRI Tahun 1945 untuk menjamin HAM
             - Pemerintah menetapkan **UU No. 39 Tahun 1999** tentang HAM dan **UU No. 26 Tahun 2000** tentang Pengadilan HAM
@@ -108,7 +108,7 @@
 - RANHAM
     - Adalah dokumen yang memuat sasaran, strategi, dan fokus kegiatan prioritas rencana aksi nasional hak asasi manusia Indonesia
     - Digunakan sebagai acuan kementrian lembaga pemerintah, daerah dalam melaksanakan penghormatan, perlindungan, pemenuhan, penegakan dan pemajuan HAM di Indonesia.
-    - Sasarn umum RANHAM adalah meningkatkan penghormatan, perlindungan, pemenuhan, penegakanm dan pemajuan HAM di Indonesia bagi seluruh lapisan masyarakat Indonesia oleh negara terutama pemerintah dengan mempertimbangkan nilai2 agama, moral, adat-istiadat, budaya, keamanan, ketertiban umum, dan kepentingan bangsa Indonesia
+    - Sasarn umum RANHAM adalah meningkatkan penghormatan, perlindungan, pemenuhan, penegakanm dan pemajuan HAM di Indonesia bagi seluruh lapisan masyarakat Indonesia oleh negara terutama pemerintah dengan mempertimbangkan nilai-nilai agama, moral, adat-istiadat, budaya, keamanan, ketertiban umum, dan kepentingan bangsa Indonesia
 
 # Makna Hak Asasi Manusia
 
@@ -229,7 +229,7 @@
                 - Perbudakan
                 - Pengusiran atau pemindahan penduduk secara paksa
                 - Perampasan kemerdekaan atau perampasan kebebasan fisik lain secara sewenang-wenang
-                - Penyiksaan, pemerkosaan, perbudakan seksual, pelcaruan secara paksa, pemaksaan kehamilan, pemandulan atau sterilisasi secara paksa, atau bentuk2 kekerasan seksual lain yang setara
+                - Penyiksaan, pemerkosaan, perbudakan seksual, pelcaruan secara paksa, pemaksaan kehamilan, pemandulan atau sterilisasi secara paksa, atau bentuk-bentuk kekerasan seksual lain yang setara
                 - Penganiyaan terhadap suatu kelompok tertentu atau perkumpulan yang didasari persamaan paham politik, etnis, budaya, agama, jenis kelamin, atau alasan lain yang diakui secara universal sebagai hal yang dilarang.
                 - Kejahatan apartheid.
 - Penyebab Pelanggaran HAM.
@@ -348,9 +348,9 @@
     - kratos (pemerintah), kratein (merintah)
     - Artinya: Pemerintahan rakyat. Rakyatlah yang memegang kekuasaan dalam suatu negara. Hal ini sesuai dengan bunyi **pasal 1 ayat (2) UUD 1945**
 - Pengertian demokrasi menurut
-    - **Philippe C. Schmitter**: Suatu sispem pemerintahan di mana pemerintah dimintai tanggung jawab atas tindakan2 mereka di wilayah publik oleh warga negara, yang bertindak secara tidak langsung melalui kompetisi dan kerja sama dengan para wakil mereka yang telah terpilih.
+    - **Philippe C. Schmitter**: Suatu sispem pemerintahan di mana pemerintah dimintai tanggung jawab atas tindakan-tindakan mereka di wilayah publik oleh warga negara, yang bertindak secara tidak langsung melalui kompetisi dan kerja sama dengan para wakil mereka yang telah terpilih.
     - **Ensiklopedi Populer Politik Pembangunan Pancasila**: Suatu pola pemerintahan di mana kekuiasaan untuk memerintah bersal dari mereka yang diperintah.
-    - **Henry Mayo**: Sistem yang menunjukkan bahwa kebijakan umum ditentukan atas dasar mayoritas oleh wakil2 yang diawasi secara efektif oleh rakyat dalam pemilihan2 berkala yang didasarkan atas prinsip kesamaan politik dan diselenggaralan dalam suasana terjaminnya kebebasan politik. 
+    - **Henry Mayo**: Sistem yang menunjukkan bahwa kebijakan umum ditentukan atas dasar mayoritas oleh wakil-wakil yang diawasi secara efektif oleh rakyat dalam pemilihan-pemilihan berkala yang didasarkan atas prinsip kesamaan politik dan diselenggaralan dalam suasana terjaminnya kebebasan politik. 
     - **Solly Lubis**: Pemerintahan di mana  kekuasaan negara terletak di tangan sejumlah besar dari rakyat dan menjalankan kekuasaan itu untuk kepentingan semua orang.
 - Ciri pokok berjalannya proses demokrasi di suatu negara
     - Pemerintah menjalankan kehendak dan kepentingan rakyat
@@ -372,7 +372,7 @@
             - Contoh: Musyawarah ditingkat RT dan RW yang dapat dihadiri seluruh warga.
         - **Demokrasi tidak langsung / perwakilan**
             - Rakyat memilih wakil-wakilnya sebagai pemegang kehendak rakyat dalam pemilihan umum untuk membuat kekuasaan politik.
-            - Alasan digunakan di negara2 modern:
+            - Alasan digunakan di negara-negara modern:
                 - Penduduk negara yang selalu bertambah, sehingga mengumpulkan seluruh penduduk untuk musyawarah, disuatu tempat tidak mungkin dilakukan
                 - Masalah yang dihadapi oleh pemerintah makin rumit dan tidak lagi sederhana
                 - Setiap warga negara mempunyai kesibukan sendiri sehingga masalah mengenai pemerintah diserahkan kepada orang yang memiliki keahlian dibidang pemerintahan negara
