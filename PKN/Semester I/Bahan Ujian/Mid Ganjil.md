@@ -1,7 +1,7 @@
 # Hak Asasi Manusia
 
 ## Konsep Hak dan Kewajiban Asasi Manusia
-- Hak asasi manusia merupakan hak dasar/hak pokok yang melekat pada diri manusia sebagai anugerah Tuhan Yang Maha Esa sejak dalam kandingan dan bersifar universal, tidak mengenal batasan umur, jenis kelamin, negara, ras, agama dan budaya dan tidak dapat dipisahkan dari eksistensi (keberadaan) manusia itu sendiri.
+- Hak asasi manusia merupakan hak dasar/hak pokok yang melekat pada diri manusia sebagai anugerah Tuhan Yang Maha Esa sejak dalam kandungan dan bersifat **universal, tidak mengenal batasan umur, jenis kelamin, negara, ras, agama dan budaya dan tidak dapat dipisahkan dari eksistensi (keberadaan) manusia itu sendiri**.
 - Hak Asasi Manusia di Indonesia bersumber dan bermuara pada pancasila.
 - Hak dasar/pokok tersebut adalah:
     - Hak Hidup
@@ -20,13 +20,13 @@
         - Pemerintahan Raja John Lockland
         - Mengurangi kekuasaan raja secara absolut, yaitu mencakup:
             - Rakyat Inggris menuntut kepada raja agar berlaku adil terhadap rakyat
-            - Menuntut agar daja dihukum atau didenda berdasarkan kesamaan dan sesuai dengan pelanggaran yang dilakukannya
+            - Menuntut agar raja dihukum atau didenda berdasarkan kesamaan dan sesuai dengan pelanggaran yang dilakukannya
             - Menuntut raja untuk menyampaikan pertanggungjawabannya kepada rakyat, dan
-            - Menuntut raja unmtuk segera menegakkan hak dan keadilan bagi rakyat
+            - Menuntut raja untuk segera menegakkan hak dan keadilan bagi rakyat
     2. ***Petition of Rights* (1628)**
         - Pemerintahan Charles I
         - Pajak dan hak2 istimewa harus dengan izin parlemen
-        - Orang tidak boleh ditangkan tanpa tuduhan yang sah
+        - Orang tidak boleh ditangkap tanpa tuduhan yang sah
         - Dalam keadaan damai, tentara tidak boleh menjalankan hukum perang
     3. ***Habeas Corpus Act* (1679)**
         - Seseorang yang ditahan segera diperiksa dalam waktu 2 hari setelah penahanan
@@ -40,17 +40,17 @@
 - Dokumen HAM di Amerika: ***Declaration of Independence of The United States* (1776)**
     - Bahwa semua orang diciptakan sama, dikaruniai Tuhan hak2 untuk hidup, kemerdekaan, dan mengejar kebahagiaan.
     - Hak-hak:
-        - Hak hidup (life)
-        - Hak kemerdekaan (liberty)
-        - Hak milik (property)
+        - **Hak hidup (*life*)**
+        - **Hak kemerdekaan (*liberty*)**
+        - **Hak milik (*property*)**
 - Dokumen HAM di Perancis: ***Declaration Des Droits de L'homme et du Citoyen* (1789)**
     - Pernyataan hak2 asasi manusia dan warga negara sebagai hasil Revolusi Prancis di bawah pimpiunan **Jendral Laffayete** ini antara lain menyebutkan:
         - Manusia dilahirkan bebas dan mempunyai hak2 yang sama
         - Hak2 tersebut antara lain hak kebebasan, hak miliki, dan hak keamanan
         - Hak-hak
-            - Hak kemerdekaan (liberte)
-            - Hak kesamaan (egalite)
-            - Persaudaraan (fraternite)
+            - **Hak kemerdekaan (*liberte*)**
+            - **Hak kesamaan (*egalite*)**
+            - **Persaudaraan (*fraternite*)**
 - ***Atlantic Charter*** (5 kebebasan dasar manusia) oleh Franklin D. Roosevelt dan Winston Churchill (14 Agustus 1941)
     - Freedom from fear (kebebasan dari rasa takut)
     - Freedom from religion (kebebasan untuk beragama dan beribadah)
@@ -338,3 +338,115 @@
     - Pengadilan yang bertugas dan berwenang memeriksa dan memutus perkara pelanggaran HAM yang berat
     - Penyelidikan HAM berwenang memeriksa dan memutus perkara pelanggaran HAM berat yang dilakukan di luar batas teritorial wilayah negara R.I oleh WNI
 - **Asas retroaktif** merupakan dasar yang memperbolehkan suatu peraturan perundang-undangan dapat berlaku surut kebelakang. Hal ini berbeda dengan kejahatan biasa (*ordinary crime*) yang perbuatannya baru dapat dihukum setelah ada hukumnya/undang-undangnya terlebih dahulu. Asas yang berlaku dalam penanganan kasus biasa disebut asas legalitas
+
+# Sistem dan Dinamika Demokrasi di Indonesia
+
+- Menurut Abraham Lincoln, “*Democracy is government of the people, by the people, and for the people*” (demokrasi adalah pemerintahan dari rakyat, oleh rakyat dan untuk rakyat)
+- Istilah “demokrasi” pada awalnya berasal dari wilayah Yunani Kuno di abad ke 5 SM.
+- Secara analogis kata demokrasi berasal dari bahasa Yunani yaitu:
+    - demos (rakyat)
+    - kratos (pemerintah), kratein (merintah)
+    - Artinya: Pemerintahan rakyat. Rakyatlah yang memegang kekuasaan dalam suatu negara. Hal ini sesuai dengan bunyi **pasal 1 ayat (2) UUD 1945**
+- Pengertian demokrasi menurut
+    - **Philippe C. Schmitter**: Suatu sispem pemerintahan di mana pemerintah dimintai tanggung jawab atas tindakan2 mereka di wilayah publik oleh warga negara, yang bertindak secara tidak langsung melalui kompetisi dan kerja sama dengan para wakil mereka yang telah terpilih.
+    - **Ensiklopedi Populer Politik Pembangunan Pancasila**: Suatu pola pemerintahan di mana kekuiasaan untuk memerintah bersal dari mereka yang diperintah.
+    - **Henry Mayo**: Sistem yang menunjukkan bahwa kebijakan umum ditentukan atas dasar mayoritas oleh wakil2 yang diawasi secara efektif oleh rakyat dalam pemilihan2 berkala yang didasarkan atas prinsip kesamaan politik dan diselenggaralan dalam suasana terjaminnya kebebasan politik. 
+    - **Solly Lubis**: Pemerintahan di mana  kekuasaan negara terletak di tangan sejumlah besar dari rakyat dan menjalankan kekuasaan itu untuk kepentingan semua orang.
+- Ciri pokok berjalannya proses demokrasi di suatu negara
+    - Pemerintah menjalankan kehendak dan kepentingan rakyat
+    - Adanya pemisahan dan pembagian kekuasaan pemerintah
+    - Adanya mekanisme dan tanggung jawab dari pemerintah
+- Kriteria menentukan situasi demokratis
+    - **Kekuasaan**: Negara harus menghormati hak warganya dengan mendukung untuk ikut berpartisipasi dalam kegiatan politik dan pemerintahan
+    - **Keadilan**: Adanya perlakuan yang sama di depan hukum bagi setiap warga negara
+    - **Kesejahteraan**: Adanya kesempatan yang sama untuk menikmati hasil pembangunan dan penghidupan yang layak sesuai dengan kemanusiaan.
+    - **Peradaban**: Adanya kesempatan pengembangan pendidikan, kreativitas, dan kebebasan dalam berkarya atau berinovasi.
+    - **Afeksi**: Hubungan antara rakyat dan wakil rakyat di lembaga perwakilan.
+    - **Keamanan**: Adanya jaminan keamanan dan keselamatan bagi seluruh warga negara dalam kehidupan mereka.
+    - **Kebebasan**: Adanya kebebasan dalam berpikir, berbicara, dan mengemukakan pendapat sesuai dengan aturan yang berlaku.
+- Klasifikasi Demokrasi
+    - Berdasarkan cara menyampaikan pendapat
+        - **Demokrasi Langsung**
+            - Rakyat dapat menyalurkan hak dan pendapatnya tanpa perwakilan dan diikutsertakan dalam proses pengambilan keputusan.
+            - Demokrasi ini dapat dilakukan jika rakyat suatu negara tidak terlalu banyak.
+            - Contoh: Musyawarah ditingkat RT dan RW yang dapat dihadiri seluruh warga.
+        - **Demokrasi tidak langsung / perwakilan**
+            - Rakyat memilih wakil-wakilnya sebagai pemegang kehendak rakyat dalam pemilihan umum untuk membuat kekuasaan politik.
+            - Alasan digunakan di negara2 modern:
+                - Penduduk negara yang selalu bertambah, sehingga mengumpulkan seluruh penduduk untuk musyawarah, disuatu tempat tidak mungkin dilakukan
+                - Masalah yang dihadapi oleh pemerintah makin rumit dan tidak lagi sederhana
+                - Setiap warga negara mempunyai kesibukan sendiri sehingga masalah mengenai pemerintah diserahkan kepada orang yang memiliki keahlian dibidang pemerintahan negara
+        - **Demokrasi perwakilan dengan sistem pengawasan langsung dari rakyat / Referendum**
+            - Rakyat memilih wakilnya untuk duduk di dalam lembaga perwakilan rakyat, tetapi wakil rakyat dalam menjalankan tugasnya diawasi rakyat melalui referendum.
+            - Contoh: Negara Swiss
+            - Jenis Referendum:
+                - **Referendum Wajib**: Dilaksanakan untuk meminta persetujuan rakyat terhadap hal yang dianggap sangat penting dan mendasar. (Contoh: Perubahan mendasar dalam undang-undang dasar).
+                - **Referendum tidak wajib**: Dilaksanakan jika dalam waktu tertentu setelah suatu RUU diumumkan sejumlah rakyat mengusulkan diadakan referendum, jika dalam waktu tertentu tidak ada permintaan dari rakyat, RUU itu dapat menjadi undang-undang yang bersifat tetap.
+                - **Referendum konsultatif**: Hanya sebatas persetujuan saja, pemerintah meminta pertimbangan pada ahli bidang tertentu yang berkaitan dengan permasalahan tersebut.
+    - Berdasarkan titik berat perhatian
+        - **Demokrasi formal**: 
+            - Demokrasi yang menjunjung tinggi persamaan dalam bidang politik, tanpa mengurangi atau menghilangkan kesenjangan dalam bidang ekonomi. 
+            - Individu diberi kebebasan yang luas, disebut juga demokrasi liberal yang ditetapkan di negara yang berpaham liberal.
+        - **Demokrasi materiil**: 
+            - Demokrasi yang memandang manusia mempunyai kesamaan dalam bidang sosial-ekonomi, sehingga persamaan dalam bidang politik tidak menjadi prioritas.
+            - Untuk mengurangi perbedaan dalam bidang ekonomi, parpol yang berkuasa yang mengatasnamakan negara, menjadikan segala sesuatu sebagai hak milik negara
+            - Hak milik pribadi tidak diakui
+            - Hak manusia bidang politik dihilangkan
+            - Diterapkan di negara berpaham sosialis komunis
+        - **Demokrasi Campuran (gabungan)**
+            - Demokrasi yang merupakan campuran dari demokrasi formal dan demokrasi materiil
+            - Berupaya mengambil kebaikan dan membuang keburuka dari demokrasi formal dan materiil
+            - Diterapkan pada negara yang tidak berpaham liberal maupun sosialis komunis
+    - Berdasarkan Wewenang dan Hubungan Antaralat Kelengkapan Negara
+        - **Demokrasi Parlementer**: Demokrasi dengan pemerintahan yang dikuasai oleh parlemen, kedudukan kepala negara adalah sebagai simbol dan tidak dapat diganggu gugat
+            - Parlemen lebih kuat dari pemerintah
+            - Menteri bertanggung jawab kepada parlemen
+        - **Demokrasi Presidensiil**: Demokrasi dengan pemerintahan yang dijalankan oleh Presiden, Presiden sebagai kepala negara sekaligus sebagai kepala pemerintahan.
+            - Kekuasaan eksekutif dijalankan berdasarkan kedaulatan yang dipilij dari dan oleh rakyat secara langsung atau melalui badan perwakilan
+            - Presiden mengangkat dan memberhentikan menteri
+            - Menteri bertanggung jawab kepada Presiden
+            - Presiden dan parlemen mempunyai kedudukan yang sama dan tidak dapat saling membubarkan
+- Ciri-Ciri Demokrasi:
+    - **Henry B. Mayo** dalam bukunya Introduction to Democratis Theory, memberikan ciri-ciri demokrasi dari sejumlah nilai (*values*) yaitu:
+        - Menyelesaikan perselisihan dengan damai dan secara melembaga
+        - Menjamin terselenggaranya perubnahan secara damai dalam suatu masyarakat yang sedang berubah
+        - Menyelenggarakan pergantian pimpinan secara teratur
+        - Membatasi pemakaian kekerasan sampai minimum
+        - Mengakui serta menganggap wajar adanya keanekaragaman dalam masyarakat
+        - Menjamin tegaknya keadilan
+    - **G. Bingham Powell** (2009) menyebutkan lima (5) kriteria terwujudnya demokrasi yaitu
+        - Legitimasi pemerintah
+        - Klaim pemerintah berdasarkan pemili yang kompetitif dan dilaksanakan secara berkala
+        - Kebanyakan orang dewasa dapat ikut serta dalam proses pemilu.
+        - Para pemilih tidak dapat dipaksa dan suara mereka adalah rahasia.
+        - Para warga negara memiliki kebebasan berbicara, kebebasan pers, kebebasan berkumpul, kebebasan berorganisasi, serta membentuk partai politik.
+- Secara umum terjadi
+    - Kekuasaan dominasi eksekutif dalam merumuskan kebijakan dalam pembangunan ekonomi, sehingga masyarakat dapat mengakses kebutuhan-kebutuhan hidupnya dengan mudah, yang menyebabkan pertumbuan ekonomi meningkat
+    - Kekuasaan yang dominatif ini memiliki kelemahan, yaitu membuat pelaksanaan demokrasi menjadi bersifat toriter dibandingkan dengan konsensus (*musyawarah atau mufakat*) yang membuat nilai-nilai dalam masyarakat terabaikan seperti:
+        - Kurangnya jaminan hak asasi manusia
+        - Kurangnya kedudukan warga negara yang sama didepan hukum dan pengadilan
+        - Kurangnya pembatasan hak berpendapat
+
+# Prinsip-Prinsip Demokrasi
+
+- Menurut Melvin I Urofsky, terdapat 11 prinsip-prinsip dasar yang harus ada disuatu negara demokrasi yaitu:
+    - Konstitualisme (*constitutionalism*)
+    - Pemilihan yang demokratis (*democratic elections*)
+    - Negara dan pemerintah daerah (*state and local governments*)
+    - Pembuatan hukum (*creation of law*)
+    - Peradilan yang independen (*an independent judiciary*)
+    - Kekuasaan presiden (*power of the presidency*)
+    - Media yang bebas (*role of free media*)
+    - Peran kelompok kepentingan (*role of interest groups*)
+    - Hak publik untuk tahu (*public right to know*)
+    - Melindungi hak-hak minoritas (*protecting minority rights*)
+    - Kontrol sipil terhadap militer (*civilian control of the military*)
+- Tingkat Persamaan dalam Masyarakat
+    - **Persamaan politik** mencakup dua hal yang terpisah yaitu:
+        - Persamaan hak suara
+        - Persamaan untuk dipilih sebagai pejabat pemerintah
+    - **Persamaan di depan hukum**
+    - **Persamaan kesempatan**
+    - **Persamaan ekonomi**
+    - **Persamaan sosial**
+- Desentralisasi adalah penyerahan wewenang pemerintahan oleh pemerintah pusat kepada daerah otonom untuk mengatur dan mengurus urusan pemerintahan dalam sistem NKRI.

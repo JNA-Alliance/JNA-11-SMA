@@ -1,7 +1,7 @@
 # Hak Asasi Manusia
 
 ## Konsep Hak dan Kewajiban Asasi Manusia
-- Hak asasi manusia merupakan hak dasar/hak pokok yang melekat pada diri manusia sebagai anugerah Tuhan Yang Maha Esa sejak dalam kandingan dan bersifar universal, tidak mengenal batasan umur, jenis kelamin, negara, ras, agama dan budaya dan tidak dapat dipisahkan dari eksistensi (keberadaan) manusia itu sendiri.
+- Hak asasi manusia merupakan hak dasar/hak pokok yang melekat pada diri manusia sebagai anugerah Tuhan Yang Maha Esa sejak dalam kandungan dan bersifat **universal, tidak mengenal batasan umur, jenis kelamin, negara, ras, agama dan budaya dan tidak dapat dipisahkan dari eksistensi (keberadaan) manusia itu sendiri**.
 - Hak Asasi Manusia di Indonesia bersumber dan bermuara pada pancasila.
 - Hak dasar/pokok tersebut adalah:
     - Hak Hidup
@@ -20,13 +20,13 @@
         - Pemerintahan Raja John Lockland
         - Mengurangi kekuasaan raja secara absolut, yaitu mencakup:
             - Rakyat Inggris menuntut kepada raja agar berlaku adil terhadap rakyat
-            - Menuntut agar daja dihukum atau didenda berdasarkan kesamaan dan sesuai dengan pelanggaran yang dilakukannya
+            - Menuntut agar raja dihukum atau didenda berdasarkan kesamaan dan sesuai dengan pelanggaran yang dilakukannya
             - Menuntut raja untuk menyampaikan pertanggungjawabannya kepada rakyat, dan
-            - Menuntut raja unmtuk segera menegakkan hak dan keadilan bagi rakyat
+            - Menuntut raja untuk segera menegakkan hak dan keadilan bagi rakyat
     2. ***Petition of Rights* (1628)**
         - Pemerintahan Charles I
         - Pajak dan hak2 istimewa harus dengan izin parlemen
-        - Orang tidak boleh ditangkan tanpa tuduhan yang sah
+        - Orang tidak boleh ditangkap tanpa tuduhan yang sah
         - Dalam keadaan damai, tentara tidak boleh menjalankan hukum perang
     3. ***Habeas Corpus Act* (1679)**
         - Seseorang yang ditahan segera diperiksa dalam waktu 2 hari setelah penahanan
@@ -40,17 +40,17 @@
 - Dokumen HAM di Amerika: ***Declaration of Independence of The United States* (1776)**
     - Bahwa semua orang diciptakan sama, dikaruniai Tuhan hak2 untuk hidup, kemerdekaan, dan mengejar kebahagiaan.
     - Hak-hak:
-        - Hak hidup (life)
-        - Hak kemerdekaan (liberty)
-        - Hak milik (property)
+        - **Hak hidup (*life*)**
+        - **Hak kemerdekaan (*liberty*)**
+        - **Hak milik (*property*)**
 - Dokumen HAM di Perancis: ***Declaration Des Droits de L'homme et du Citoyen* (1789)**
     - Pernyataan hak2 asasi manusia dan warga negara sebagai hasil Revolusi Prancis di bawah pimpiunan **Jendral Laffayete** ini antara lain menyebutkan:
         - Manusia dilahirkan bebas dan mempunyai hak2 yang sama
         - Hak2 tersebut antara lain hak kebebasan, hak miliki, dan hak keamanan
         - Hak-hak
-            - Hak kemerdekaan (liberte)
-            - Hak kesamaan (egalite)
-            - Persaudaraan (fraternite)
+            - **Hak kemerdekaan (*liberte*)**
+            - **Hak kesamaan (*egalite*)**
+            - **Persaudaraan (*fraternite*)**
 - ***Atlantic Charter*** (5 kebebasan dasar manusia) oleh Franklin D. Roosevelt dan Winston Churchill (14 Agustus 1941)
     - Freedom from fear (kebebasan dari rasa takut)
     - Freedom from religion (kebebasan untuk beragama dan beribadah)
