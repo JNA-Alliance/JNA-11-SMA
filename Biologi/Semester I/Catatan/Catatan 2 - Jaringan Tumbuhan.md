@@ -1,0 +1,154 @@
+# Jaringan Tumbuhan
+
+- Jaringan: Sekelompok sel yang sudah mengalami diferensiasi yang mempunyai asal, struktur, dan fungsi yang sama.
+- Proses pembelahan sel pada makhluk hidup:
+    - Meiosis
+    - Mitosis
+- Pembagian Jaringan Tumbuhan:
+    - **Jaringan Meristem (Jaringan Muda)**
+        - Disbut juga sebagai jaringan embrional
+        - Jaringan yang sel-selnya masih aktif membelah secara mitosis, sehingga tumbuhan mengalami pertambahan tinggi dan volume
+
+# Struktur Jaringan Tumbuhan
+- Jaringan tumbuhan: Kumpulan sel yang mempunyai bentuk, struktur, dan fungsi yang sama.
+- Pembagian Berdasarkan Tipe dan Fungsinya
+    - **Jaringan Meristem**: Jaringan yang aktif membelah dan belum mengalami diferensiasi 
+        - Ciri-ciri
+            - Memiliki dinding sel yang tipis
+            - Nukleus berukuran besar
+            - Mengandung sitoplasma padat
+            - Vakuola kecil atau bahkan tidak ada
+            - Tidak menyimpan cadangan makanan
+            - Bersifat totipotensi tinggi (totipotensi = kemampuan sel untuk tumbuh dan berkembang menjadi individu lengkap seperti induknya)
+        - Pembagian Berdasarkan Asal Pembentukannya
+            - **Promeristem** (*primodial meristem*/Tunas Apikal)
+                - Merupakan tahap paling muda dari perkembangan meristem.
+                - Dapat ditemui di ujung akar dan tunas
+            - **Meristem Primer**
+                - Berasal dari Promeristem
+                - Jaringan muda berasal dari sel embrionik
+                - Terdapat pada ujung batang dan akar
+                - Membuat akar dan batang bertambah panjang
+            - **Meristem Sekunder** (*kambium*)
+                - Jaringan dewasa yang berhenti tumbuh, tetapi menjadi embrional kembali
+                - Terdiri dari kambium (pada akar dan batang) dan kambium gabus (pada kulit batang)
+                - Membuat tumbuhan bertambah lebar & besar
+        - Pembagian Meristem Berdasarkan Letaknya
+            - **Meristem Apikal**
+                - Terdapat di ujung pucuk utama, pucuk lateral, dan akar
+                - Mengakibatkan akar bertambah panjang dan batang bertambah tinggi
+            - **Meristem Interkalar**
+                - Terdapat diantara jaringan dewasa dan pangkal ruas batang
+                - Mengakibatkan ruas batang bertambah panjang
+                - Memiliki bagian-bagian berikut:
+                    - Epidermis
+                    - Kambium
+                    - Xilem (arah ke dalam dari kambium)
+                    - Floem (arah ke luar dari kambium)
+                    - Kambium Vaskuler/Gabus pada bagian luar yang menyebabkan antar ruas batang semakin panjang seperti bambu
+            - **Meristem Lateral**
+                - Terletak sejajar dengan permukaan organ tempat ditemukannya
+                - Terletakpad abagian samping
+                - Contoh: Kambium dan Kambium Vaskuler/Gabus (felogen)
+                - Menyebabkan batang mernjadi semakin lebar
+                - Memiliki bagian-bagian berikut:
+                    - Kambium Vaskuler
+                    - Xilem dan Floem
+                    - Akar lateral (akar cabang)
+    - **Jaringan Dewasa**: Jaringan yang selnya sudah berhenti membelah dan mengalami diferensiasi
+        - Ciri-ciri
+            - Ukuran sel relatif besar
+            - Terdapat ruang antar sel
+            - Dinding sel mengalami penebalan
+            - Vakuolanya besar
+            - Sitoplasmanya sedikit
+        - Pembagian Berdasarkan Fungsinya
+            - **Jaringan Pelindung**
+                - **Jaringan Epidermis**
+                    - Ciri-ciri
+                        - Terletak di bagian paling luar, menutupi permukaan tubuh tumbuhan.
+                        - Terdiri atas 1 lapis sel yang tersusun rapat tanpa ruang antarsel.
+                        - Hidup tanpa klorofil.
+                    - Fungsi:
+                        - Sebagai pelindung.
+                        - Menyerap air dan mineral.
+                        - Menyeskresikan lapisan lilin (kutikula) yang bisa mencegah evaporasi pada batang dan daun.
+                    - Sel Epidermis dapat berkembang menjadi alat tambahan yang disebut derivat epidermis
+                    - Derivat Epidermis:
+                        - **Stomata** (mulut daun): Berfungsi untuk pertukaran gas
+                        - **Trikoma**: Berupa rambut sisik (contohnya pada bagian bawah daun durian)
+                        - **Sel Kipas** (*Buliform*): Untuk menyimpan air dan mengurangi penguapan
+                        - **Spina**: Berupa duri (contohnya pada batang buganfil)
+                        - **Velamen**: Berfungsi untuk menimbun air yang diperolehnya dan mengikat oksigen (contohnya pada tanaman anggrek)
+                        - **Sel Kersik**: Menyebabkan batang menjadi keras
+                        - **Kutikula**: Dibentuk oleh kutin, umumnya tertutup oleh bahan yang bersifat lilin, merupakan lapisan datar atau berbentuk batang.
+                - **Jaringan Gabus**
+                    - Berfungsi sebagai pelindung menggantikan epidermis yang sudah rusak (menebal)
+                    - Terdiri dari:
+                        - Peridernis
+                            - Felem
+                            - Felogen
+                            - Feloderm
+                        - Endodermis
+                            - Xylem
+                            - Kambium Vaskuler
+                            - Floem
+            - **Jaringan Dasar**
+                - Jaringan Parenkim
+                    - Ciri-ciri
+                        - Tersusun dari sel-sel hidup yang berukuran besar
+                        - Terletak hampir disemua bagian tumbuhan
+                        - Sel penyusun renggang, terdapat ruang antar sel yang berguna untuk pertukaran gas
+                        - Dinding sel tipis
+                        - Vakuolanya besar untuk cadangan makanan
+                        - Sel berbentuk segi banyak atau polihedral dengan dinding sel primer
+                        - Dapat bersifat meristermatik
+                    - Pembagian Berdasarkan Fungsi
+                        - **Parenkim Asimilasi** (*Klorenkim*): Melakukan fotosintesis, terdapat pada bagian tumbuhan yang berwarna hijau yang mengandung klorofil
+                        - **Parenkum Udara** (*Aerenkim*): Terdapat pada alat pengapung tumbuhan hidrofit seperti eceng gondok
+                        - **Parenkim Penimbun**: Tempat penyimpan cadangan makanan (contoh: umbi, akar rimpang, biji, dan empulur batang)
+                        - **Parenkim Penutup Luka** (*Reflogen*): Regenerasi parenkim baru
+                        - **Parenkim Pengangkut**: Terdapat pada Xylem dan Floem
+                        - **Parenkim Air**: Menyimpan air, contohnya pada tanaman xerofit dan epifit yang batangnya berlendir dan hidup di tempat panas
+                    - Pembagian Berdasarkan Bentuknya
+                        - **Parenkim Palisade**: Sel berbentuk tegak, banyak kloroplas, terdapat pada mesofil daun
+                        - **Parenkim Bunga Karang** (*Spons*): Bentuk sel tidak teratur, banyak ruang antar sel, terdapat pada mesofil daun.
+                        - **Parenkim Bintang** (*Aktinenkim*): Bentuk sel seperti bintang, contohnya pada tangkai bunga *Canna* sp.
+                        - **Parenkim Lipatan**: Dinding sel melipat ke dalan, berkloroplas, contohnya pada mesofil daun pinus dan padi.
+            - **Jaringan Penguat** (*Jaringan Mekanik*)
+                - Merupakan jaringan yang menunjang bentuk tubuh tumbuhan, selnya kuat dan tebal, serta telah mengalami spesialisasi.
+                - Fungsi:
+                    - Sebagai penegak dan penguat daun
+                    - Melindungi embrio biji
+                    - Melindungi tumbuhan dari gangguan mekanis
+                    - Memperkuat jaringan aerenkim
+                    - Melindungi jaringan pengangkut
+                - Pembagian berdasarkan bentuk dan sifatnya
+                    - **Jaringan Kolenkim**
+                        - Ciri-ciri
+                            - Merupakan organ penguat pada organ tumbuhan yang masih aktif membelah
+                            - Terdapat pada akar, batang, daun, bunga, dan buah yang terkena cahaya matahari.
+                            - Tersusun atas sel hidup
+                            - Dinding sel tidak ada lignin tetapi mengandung selulosa, pektin, dan hemiselulosa
+                            - Penguat utama organ tumbuhan yang masih muda
+                        - Bentuk-bentuk
+                            - **Kolenkim Angular**: Penebalan di bagian sudut daun, seperti seledri
+                            - **Kolenkim Lamellar**: Penebalan dibagian dinding sel tangensial (contoh pada bagian batang & daun)
+                            - **Kolenkim Annular**: Dinding sel menebal secara merata (contohnya pada daun wortel)
+                            - **Kolenkim Lakunar**: Penebalan pada ruang antar sel
+                    - **Jaringan Sklerenkim**
+                        - Merupakan jaringan penguat pada organ tumbuhan yang telah berhenti membelah dan tidak mengalami penumbuhan
+                        - Terjadi penebalan merata di seluruh dinding sel yang merupakan sel mati
+                        - Dinding sekunder tebal dan disusun oleh lignin
+                        - Jaringan berupa:
+                            - **Serabut Sklerenkim**: Sel yang berbentuk serat (contoh: tanaman *Agave* dan *Hibiscus canabinus*)
+                            - **Sklereid/Sel batu**: Sel mati saat dewasa tapi protoplasmanya tetap aktif (contoh: buah pir, daun dan kulit biji dikotil, batok kelapa)
+            - **Jaringan Pengangkut**
+                - **Jaringan Xylem**
+                    - Berperan mengangkut air dan zat hara dari akar ke daun
+                    - Sel tersusun atas sel yang sudah mati dengan dinding sekunder yang tebal dan tersusun atas lignin
+                    - Tersusun dari
+                        - Unsur trakeal (trakea dan trakeid)
+                        - Serabut xilem
+                        - Parenkim xilem 
+                - Jaringan Floem
