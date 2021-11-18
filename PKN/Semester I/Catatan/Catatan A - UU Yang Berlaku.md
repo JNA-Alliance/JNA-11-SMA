@@ -1,0 +1,10 @@
+- UUD 1945: 18 Agustus 1945 - 27 Desember 1949
+- UUD RIS / Republik Indonesia Serikat: 27 Desember 1949 - 17 Agustus 1950
+    - Sistem Parlementer
+- Demokrasi Liberal (UUD Sementara / UUDS 1950): 17 Agustus 1950 - 5 Juli 1959
+    - KEMBALI KE NEGARA KESATUAN
+    - Tapi sistem kabinet tetap menahan sistem kabinet Parlementer
+- Demokrasi Terpimpin (Orla, Orde Lama): 5 Juli 1959 - 11 Maret 1966
+- Supersemar (Orba, Orde Baru): 11 Maret 1966 - 21 Mei 1998
+- Transformasi (trasisi ke reformasi): 21 Mei 1998 - 20 Oktober 1999
+- Reformasi: 20 Oktober 1999 - Sekarang
