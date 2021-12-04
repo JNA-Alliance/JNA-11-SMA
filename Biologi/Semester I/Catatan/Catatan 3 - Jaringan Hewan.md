@@ -79,9 +79,93 @@
                     - ![3-Gambar Epitel Kompleks](https://i.ibb.co/1nbv7nd/image.png)
                     - Terbagi atas:
                         - **Pipih Berlapis**
+                            - Disusun lebih dari satu sel yang rapat.
+                            - Terdapat pada jaringan kulit, bagina, rongga mulut, esofagus, anus, dan kornea mata.
+                            - Berfungsi dalam proteksi (perlindungan)
                         - **Kubus Berlapis**
+                            - Terdapat pada kelenjar keringat dan kelenjar minyak.
+                            - berfungsi untuk proteksi, sekresi, ekskresi, dan absorpsi.
                         - **Silindris Berlapis**
+                            - Tersusun atas sel-sel dengan lapisan basal yang relatif pendek dan berbentuk polihedral tidak teratur.
+                            - Terdapat pada uretra laring, faring, dan kelenjar ludah.
+                            - Berfugnsi untuk proteksi dan sekresi.
                         - **Transisional**
+                            - Tersusun dari sel2 yang bentuknya dapat berubah-ubah sesuai aktivitasnya
+                            - Terdapat pada organ yang dapat mengalami peregangan, misalnya ureter, vesika urinaria, pelvis renalis, dan uretra.
     2. Ikat
+        - Jaringan yang selalu berhubungan dengan jaringan2 lainnya atau organ2.
+        - Ciri-ciri
+            - Berkembang dari **mesenkim** yang berasal dari mesoderm (lapisan tengah embrio).
+            - Tidak berimpitan rapat (tersebar).
+            - Memiliki komponen interseluler yang disebut matriks.
+        - Fungsi:
+            - **Melekatkan suatu jaringan ke jaringan yang lain**
+            - **Membungkus organ2**
+            - **Mengisi rongga diantara organ2**
+            - **Menghasilkan imunitas**
+        - Komponen:
+            - **Matriks (Bahan Intersel)**
+                - **Serabut Kolagen**: Berwarna putih, daya renggang yang tinggi dan elastisitas rendah (Tendon)
+                - **Serabut Elastis**: Berwarna kuning, daya elastisitas tinggi (Bantalan lemak, pembuluh darah, dan ligamen)
+                - **Serabut Retikuler**: Berbentuk jaringa, elastisitas rendah; menghubungkan jaringan ikat dengan jaringan lain (Sel darah > Sistem saraf)
+            - **Sel Penyusun**
+                - **Sel Lemak**: Sel-sel yang terspesialisasi untuk penyimpanan lemak
+                - **Fibroblas**: Protein berbentuk serat, berfungsi untuk bahan pembentuk matriks
+                - **Makrofag**: Bertugas untuk memakan kuman/bakteri patogen/zat asing yang masuk kedalam jaringan
+                - **Leukosit**: Sel darah putih, antibodi
+                - **Sel Mast**: Penghasil Heparin (pembekuan darah) dan Histamin (peningkat permeabilitas kapiler darah)
+        - Jenis:
+            - Jaringan Ikat Biasa
+                - **Padat**:
+                    - ![3-Jaringan Ikat Biasa Padat](https://i.ibb.co/bB7WVt7/image.png)
+                    - Struktur serat kolagen yang bersifat padat.
+                    - Terdiri dari 2 macam:
+                        - **Padat Teratur**: Berkas kolagen tersusun teratur ke satu arah (Tendon)
+                        - **Padat Tidak Teratur**: Berkas kolagen menyebar ke jaringan (lapisan dermis kulit (Jangat))
+                - **Longgar**:
+                    - ![3-Jaringan Ikat Biasa Longgar](https://i.ibb.co/W5QFrmV/image.png)
+                    - Stukrtur kolagen bersifat longgar dan fleksibel.
+                    - Fungsi:
+                        - **Penykong**
+                        - **Penisi ruang diantara organ**
+                        - **Memberi bentuk organ dalam (kelenjar limfa, sumsum tulang dan hati)**
+                        - **Menyediakan makanan bagi jaringan yang diselubunginya**
+            - Jaringan Ikat Sifat Khusus
+                - Fungsi:
+                    - **Menyimpan energi dalam bentuk lemak**
+                    - **Menahan jaringan dari goncangan**
+                    - **Membentyuk sel darah**
+                - **Tulang Rawan (Kartilago)**:
+                    - Bersifat kuat dan lentur.
+                    - Tersusun atas:
+                        - **Jaringan ikat berserabut tebal**
+                        - **Matriks yang bersifat elastis**
+                        - **Sel tulang rawan (Kondrosit) yang terletak di dalam rongga kecil (lakuna)**
+                    - Jenis-jenis:
+                        - **Tulang Rawan Elastis**: 
+                            - ![3-Tulang Rawan Elastis](https://i.ibb.co/ysxrXX1/image.png)
+                            - Mengandung serabut elastis dan kolagen. 
+                            - Terdapat pada daun telinga, epiglotis, dan bronkiolus.
+                        - **Tulang Rawan Hialin**: 
+                            - ![3-Tulang Rawan Hialin](https://i.ibb.co/gWWxbDk/image.png)
+                            - Mengandung serabut kolagen yang halus, berwarna kuning kebiruan. 
+                            - Terdapat pada ujung tulang rusuk, dan permukaan tulang persendian.
+                        - **Tulang Rawan Fibrosa**:
+                            - ![3-Tulang Rawan Fibrosa](https://i.ibb.co/thK6YYp/image.png) 
+                            - Mengandung serabut kolagen yang padat dan kasar.
+                - **Tulang Keras (Osteon)**:
+                    - ![3-Tulang Keras Jenis](https://i.ibb.co/jy2hcmV/image.png)
+                    - Merupakan jaringan ikat yang mengandung mineral.
+                    - Disusun oleh sel tulang (Osteosit) yang terletak didalam lakuna.
+                    - Osteosit satu dengan lainnya saling berhubungan melalui kanikuli.
+                    - Jenis-jenis:
+                        - **Tulang Kompak**: Terdapat Sistem Havers; Mengandung pembuluh darah dan saraf sebagai penyuplai zat makanan untuk menghidupi tulang.
+                        - **Tulang Spons**: Tidak terdapat Sistem Havers; Terdiri dari trabekula tulang yang bercabang.
+            - Jaringan Darah
+                - Sel Darah
+                - Plasma Darah
+            - Jaringan Getah Bening/Limfa
+                - Limfosit
+                - Granulosit
     3. Otot
     4. Saraf
