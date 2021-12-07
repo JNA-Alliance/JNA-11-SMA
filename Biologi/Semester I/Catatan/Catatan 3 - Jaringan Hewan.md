@@ -65,7 +65,7 @@
                             - Berfungsi dalam proteksi, sekresi, & absorpsi.
                         - **Silindris/Batang Selapis**:
                             - Di antara selnya terdapat sel goblet, yaitu sel yang menghasilkan lendir.
-                            - Terdapat pada epitel lambung, usus halis, dan bagian saluran pencernaan lainnya.
+                            - Terdapat pada epitel lambung, usus halus, dan bagian saluran pencernaan lainnya.
                             - Berfungsi dalam proteksi, sekresi, difusi & absorpsi
                         - **Silindris/Batang Berlapis Bersilia**
                             - Terdapat pada uterus, saluran uterus, vas deferens, dan bronkus intrapulmoner
@@ -81,14 +81,14 @@
                         - **Pipih Berlapis**
                             - Disusun lebih dari satu sel yang rapat.
                             - Terdapat pada jaringan kulit, bagina, rongga mulut, esofagus, anus, dan kornea mata.
-                            - Berfungsi dalam proteksi (perlindungan)
+                            - Berfungsi dalam proteksi (perlindungan): epidermis kulit, bagian dalam mulut, esofagus, dan vagina.
                         - **Kubus Berlapis**
                             - Terdapat pada kelenjar keringat dan kelenjar minyak.
                             - berfungsi untuk proteksi, sekresi, ekskresi, dan absorpsi.
                         - **Silindris Berlapis**
                             - Tersusun atas sel-sel dengan lapisan basal yang relatif pendek dan berbentuk polihedral tidak teratur.
                             - Terdapat pada uretra laring, faring, dan kelenjar ludah.
-                            - Berfugnsi untuk proteksi dan sekresi.
+                            - Berfungsi untuk proteksi dan sekresi.
                         - **Transisional**
                             - Tersusun dari sel2 yang bentuknya dapat berubah-ubah sesuai aktivitasnya
                             - Terdapat pada organ yang dapat mengalami peregangan, misalnya ureter, vesika urinaria, pelvis renalis, dan uretra.
@@ -104,6 +104,7 @@
             - **Mengisi rongga diantara organ2**
             - **Menghasilkan imunitas**
         - Komponen:
+            - ![3-Komponen Jaringan Ikat](https://i.ibb.co/NNjj1tV/image.png)
             - **Matriks (Bahan Intersel)**
                 - **Serabut Kolagen**: Berwarna putih, daya renggang yang tinggi dan elastisitas rendah (Tendon)
                 - **Serabut Elastis**: Berwarna kuning, daya elastisitas tinggi (Bantalan lemak, pembuluh darah, dan ligamen)
@@ -127,7 +128,7 @@
                     - Stukrtur kolagen bersifat longgar dan fleksibel.
                     - Fungsi:
                         - **Penykong**
-                        - **Penisi ruang diantara organ**
+                        - **Pengisi ruang diantara organ**
                         - **Memberi bentuk organ dalam (kelenjar limfa, sumsum tulang dan hati)**
                         - **Menyediakan makanan bagi jaringan yang diselubunginya**
             - Jaringan Ikat Sifat Khusus
@@ -153,19 +154,36 @@
                         - **Tulang Rawan Fibrosa**:
                             - ![3-Tulang Rawan Fibrosa](https://i.ibb.co/thK6YYp/image.png) 
                             - Mengandung serabut kolagen yang padat dan kasar.
+                            - Terdapat pada simfis pubis (pertemuan tulang kemaluan).
                 - **Tulang Keras (Osteon)**:
                     - ![3-Tulang Keras Jenis](https://i.ibb.co/jy2hcmV/image.png)
                     - Merupakan jaringan ikat yang mengandung mineral.
                     - Disusun oleh sel tulang (Osteosit) yang terletak didalam lakuna.
                     - Osteosit satu dengan lainnya saling berhubungan melalui kanikuli.
                     - Jenis-jenis:
-                        - **Tulang Kompak**: Terdapat Sistem Havers; Mengandung pembuluh darah dan saraf sebagai penyuplai zat makanan untuk menghidupi tulang.
+                        - **Tulang Kompak**: 
+                            - Terdapat Sistem Havers; Mengandung pembuluh darah dan saraf sebagai penyuplai zat makanan untuk menghidupi tulang.
+                            - Struktur:
+                                - ![S1EM-Struktur Tulang Kompak](https://i.ibb.co/s9BdKvk/image.png)
+                                - **Saluran Havers** (saluran pusat): Berisi pembuluih darah dan saraf.
+                                - **Lakuna**: Ruang tempat osteosit terletak.
+                                - **Kanalikuli**: Struktur penghuybung osteosit yang satu dengan osteosit lain.
+                                - **Lamella**: Lapisan konsentris matriks yang keras dan kuat.
+                                - **Martriks**: Tersusun atas serabut kolagen, mineral, kalsium, dan fosfor.
                         - **Tulang Spons**: Tidak terdapat Sistem Havers; Terdiri dari trabekula tulang yang bercabang.
             - Jaringan Darah
                 - Sel Darah
-                - Plasma Darah
+                    - Terdiri atas substansi padat (sel darah) dan cair (plasma darah).
+                    - Sel darah dibentuk di sumsum tulang, kecuali leukosit yang dibentuk dalam kelenjar limfa.
+                    - Komponen:
+                        - **Sel Darah Merah** (eritrosit): Berperan membawa oksigen dan karbondioksida.
+                        - **Sel Darah Putih** (leukosit): Melawan benda asing atau bakteri yang masuk ke tubuh.
+                        - **Keping Darah** (trombosit): Berperan dalam pembekuan darah.
+                        - **Plasma Darah**: Berperan sebagai pembawa sari2 makanan dan hormon dalam darah.
             - Jaringan Getah Bening/Limfa
-                - Limfosit
-                - Granulosit
-    3. Otot
+                - Cairan yang dikumpulkan dari berbagai jaringan dan kembali ke dalam aliran darah.
+                - Pada saat limfa melewati nodus limfa, akan ditambahkan antibodi (immunoglobulin)
+                - Nodus limfa terdapat di dalam tonsil, limpa, timus, dan sepanjang saluran pencernaan.
+                - Komponen seluler limfa dapat berupa limfosit dan granulosit.
+                - Limfa berfungsi mengangkut cairan jaringan, protein, lemak, dan zat lain dari jaringan ke sistem peredaran.
     4. Saraf

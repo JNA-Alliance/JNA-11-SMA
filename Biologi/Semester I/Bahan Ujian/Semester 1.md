@@ -265,3 +265,260 @@ Disusun berdasarkan kisi-kisi yang diberikan oleh Sir Hady dari Bab 1 sampai Bab
 
 ## BAB 3
 1. Jaringan Saraf
+    - Terdiri dari sel-sel atau neuron yang berfungsi menerima dan memindahkan rangsangan dari bagian tubuh yang satu ke bagian lain.
+    - Memiliki ciri-ciri khusus, yaitu mempunyai sitoplasma yang menjulur panjang.
+    - Struktur:
+        - ![S1EM-Neuron](https://i.ibb.co/55KGvjD/image.png)
+        - **Dendrit**: Menerima impuls dan menghantarkannya ke badan sel.
+        - **Badan Sel**: Menerima impuls dari dendrit & meneruskannya ke akson.
+        - **Nukleus**: Mengatur aktivitas neuron.
+        - **Akson (Neurit)**: Menerima impuls dari badan sel & menghantarkannya ke sel saraf lain melalui sinapsis.
+        - **Nodus Ranvier**: Mempercepat penghantaran impuls.
+        - **Sel Schwann**: Menyediakan makanan untuk akson.
+        - **Selubung Mielin**: Melindungi akson dan memberi nutrisi untuk neuron.
+    - Jenis-jenis Neuron:
+        - **Neuron Sensorik** (*Aferen*): Menghantarkan impuls dari reseptor ke sistem saraf pusat (organ reseptor adalah alat indera).
+        - **Neuron Motorik** (*Eferen*): Menghantarkan impuls dari sistem saraf pusat ke efektor (organ efektor adalah otot dan kelenjer).
+        - **Neuron Asosiasi** (*Intrerneuron*): menghubungkan neuron sensorik dan neuron motorik (terdiri dari otak dan sumsum tulang belakang).
+    - Bentuk-bentuk Neuron
+        - ![S1EM-Bentuk Neuron](https://i.ibb.co/W6CR8q3/image.png)
+        - **Unipolar**: Pada hewan tingkat rendah.
+        - **Bipolar**: Pada retina, epitel, olfaktori, dan koklea.
+        - **Multipolar**: Pada neuron motorik, sumsum tulang belakang.
+2. Jaringan Otot
+    - Jaringan yang disusun oleh sel-sel otot yang dapat berkontraksi dan berperand alam pergerakan organ tubuh.
+    - Struktur:
+        - ![S1EM-Jaringan Otot](https://i.ibb.co/JsdRSSh/image.png)
+        - **Tendon**: Jaringan ikat yang menghubungkan otot dengan tulang.
+        - **Epimisium**: Jaringan elastis yang mengelilingi lapisan luar otot
+        - **Fasikulus**: Bundalan serabut-serabut otot yang terdiri dari:
+            - **Sarkolema**: Sebagai membran otot.
+            - **Miofibrin**: Serat Otot yang terdiri dari:
+                - **Miosin**: Bagian miofibril yang berukuran tebal
+                - **Aktin**: Bagian miofibrin yang lebih halus
+    - Mengenai Kontraksi dan Relaksasi
+        - ![S1EM-Anatomi Otot](https://i.ibb.co/MB3F7jf/image.png)
+        - Pita I menghasilkan daerah terang pada otot.
+        - Pita A menghasilkan daerah gelap pada otot.
+        - Zona H adalah daerah terang semput di antara daerah gelap pita A.
+    - Cara Kerja
+        - ![S1EM-Cara Kerja Otot](https://i.ibb.co/rGLhdFg/image.png)
+        - **Pra Kontraksi**: Miosin aktif menggerakkan aktin dengan bantuan Ca2+ dan ATP.
+        - **Kontraksi**: Miosin menarik aktin sehingga pita I memendek, zona H hilang.
+        - **Relaksasi**: Miosin melepas aktin sehingga pita I kembali memanjang, zona H kembali muncul.
+    - Jenis-jenis:
+        - **Otot Polis**:
+            - Berbentuk gelendong dengan sebuahg inti pipih yang terletak di tengah sarkoplasma.
+            - Terdapat pada lambung, usus, & pembuluh darah.
+            - Bekerja tidak sadar, kontraksi lambat, dan tidak cepat lelah.
+        - **Otot Lurik**::
+            - Berbentuk silinder, setiap tepi berinti banyak terletak ditepi sarkoplasma.
+            - Melekat pada rangka (bisep trisep), lidah, bibir, kelopak mata, dan diafragma.
+            - Bekerja secara sadar, kontraksi cepat, kuat, tetapi cepat lelah.
+        - **Otot Jantung**: 
+            - Terususun atas serabut lurik yang bercabang-cabang, memiliki 1-2 inti yang terletak di tengah sarkoplasma.
+            - Terdapat khusus pada jantung.
+            - Kontraksinya tidak sadar, kuat, dan berirama.
+3. Jaringan Epitel (Letak dan fungsinya, saluran pencernaan):
+    - Berdasarkan letak:
+        - ![3-Jaringan Epitel Berdasarkan Letak](https://i.ibb.co/jgfsGyn/image.png)
+        - **Mesotelium**: Membatasi rongga.
+        - **Epidermis**: Berbatasan dengan lingkungan luar.
+        - **Endotelium**: Membatasi rongga dalaam.
+    - Berdasarkan struktur dan fungsinya:
+        - **Epitel Kelenjar**
+            - ![3-Epitel Kelenjar](https://i.ibb.co/Jk8Wc5C/image.png)
+            - Disusun oleh sel-sel khusus yang mampu menghasilkan getah cair.
+            - Terdapat pada kelenjar yang berfungsi dalam pembuatan/sintesis, penyimpanan, dan sekresi zat-zat kimia.
+            - Jenis-jenis:
+                - ![3-Perbedaan Kelenjar](https://i.ibb.co/y6DPNrf/image.png)
+                - **Kelenjar Eksokrin**
+                    - Menyalurkan getah cair atau sekretnya ke suatu permukaan tubuh (sekresi eksternal).
+                    - Hasil sekresi ini disalurkan ke permukaan tubuh melalui saluran yang bentuknya bermacam-macam.
+                    - Sekret yang dikeluarkan berupa cairan jernih yang mengandung enzim.
+                    - Contoh: Pankreas, kelenjar ludah, kelenjar lambung, kelenjar susu, dan kelenjar keringat.
+                    - ![3-Bentuk-Bentuk Kelenjar Eksotrin](https://i.ibb.co/wMx4nSx/image.png)
+                - **Kelenjar Endokrin (Kelenjar Buntu)**
+                    - Menyalurkan sekretnya langsung ke dalam pembuluh darah atau pembuluh limfa (sekresi internal).
+                    - Disebut juga kelenjar buntu karena tidak memiliki saluran.
+                    - Sekret yang dikelarkan berupa hormon.
+                    - Contoh: Kelenjar tiroid, kelenjar hipofisis, kelenjar paratiroid, dan kelenjar timus.
+        - **Epitel Penutup**
+            - ![3-Epitel Penutup](https://i.ibb.co/N6B00YS/image.png)
+            - Berfungsi melapisi permukaan tubuh dan jaringan lainnya
+            - Terdapat di permukaan tubuh, permukaan organ, lapisan dinding sebelah dalam saluran pencernaan dan pembuluh darah.
+    - Berdasarkan Jumlah Lapisannya
+        - **Epitel Simpleks (Epitelium Selapis)**
+            - Tersusun atas satu lapis sel yang sama.
+            - ![Gambar Epitel Simpleks](https://i.ibb.co/xYYrMwG/image.png)
+            - Terbagi atas:
+                - **Pipih Selapis**:
+                    - Bersifat permeabel untuk dilalui molekul atau ion secara difusi.
+                    - Memiliki peran dalam proses difusi )2 maipun CO2 serta filtrasi darah pad aproses pembentukan urine.
+                    - Seluruh sel terletak diantara membran basal. (Tempat terjadinya proses pertukaran nutrien dan zat sisa antara darah dan jkaringan tubuh,)
+                    - Terdapat pada organ dalam seperti alveolus, pelura, lapisan Kapsul Bowman, selaput jantung.
+                    - Berfungsi dalam proses difusi, osmosis, filtrasi, dan ekskresi.
+                - **Kubus Selapis**:
+                    - Terdapat pada tubulis kontortus proksimal dan tubulus kontortus distal pada nefron ginjal, permukaan luar ovarium, kelenjar ludah, kelenjar tiroid, pankreas, serta lensa mata.
+                    - Berfungsi dalam proteksi, sekresi, & absorpsi.
+                - **Silindris/Batang Selapis**:
+                    - Di antara selnya terdapat sel goblet, yaitu sel yang menghasilkan lendir.
+                    - Terdapat pada epitel lambung, usus halus, dan bagian saluran pencernaan lainnya.
+                    - Berfungsi dalam proteksi, sekresi, difusi & absorpsi
+                - **Silindris/Batang Berlapis Bersilia**
+                    - Terdapat pada uterus, saluran uterus, vas deferens, dan bronkus intrapulmoner
+                    - Berfungsi sebagai penghasil mucus dan getaran silia, untuk menangkap benda asing yang masuk
+                - **Silindris/Batang Berlapis Semu**
+                    - Tersusun dari sel dengan inti sel tidak sejajar sehingga seolah-olah terdiri atas banyak lapisan.
+                    - Terdapat pada saluran tuba Fallopi, rongga hidung, & saluran napas.
+                    - Berfungsi dalam proteksi, sekresi, & gerakan gas.
+        - **Epitelium Kompleks (Epitelium Berlapis)**
+            - Tersusun atas beberapa lapisan sel
+            - ![3-Gambar Epitel Kompleks](https://i.ibb.co/1nbv7nd/image.png)
+            - Terbagi atas:
+                - **Pipih Berlapis**
+                    - Disusun lebih dari satu sel yang rapat.
+                    - Terdapat pada jaringan kulit, bagina, rongga mulut, esofagus, anus, dan kornea mata.
+                    - Berfungsi dalam proteksi (perlindungan): epidermis kulit, bagian dalam mulut, esofagus, dan vagina.
+                - **Kubus Berlapis**
+                    - Terdapat pada kelenjar keringat dan kelenjar minyak.
+                    - berfungsi untuk proteksi, sekresi, ekskresi, dan absorpsi.
+                - **Silindris Berlapis**
+                    - Tersusun atas sel-sel dengan lapisan basal yang relatif pendek dan berbentuk polihedral tidak teratur.
+                    - Terdapat pada uretra laring, faring, dan kelenjar ludah.
+                    - Berfungsi untuk proteksi dan sekresi.
+                - **Transisional**
+                    - Tersusun dari sel2 yang bentuknya dapat berubah-ubah sesuai aktivitasnya
+                    - Terdapat pada organ yang dapat mengalami peregangan, misalnya ureter, vesika urinaria, pelvis renalis, dan uretra.
+4. Macam-macam sel pada jaringan ikat:
+    - Jaringan Ikat Biasa
+        - **Padat**:
+            - ![3-Jaringan Ikat Biasa Padat](https://i.ibb.co/bB7WVt7/image.png)
+            - Struktur serat kolagen yang bersifat padat.
+            - Terdiri dari 2 macam:
+                - **Padat Teratur**: Berkas kolagen tersusun teratur ke satu arah (Tendon)
+                - **Padat Tidak Teratur**: Berkas kolagen menyebar ke jaringan (lapisan dermis kulit (Jangat))
+        - **Longgar**:
+            - ![3-Jaringan Ikat Biasa Longgar](https://i.ibb.co/W5QFrmV/image.png)
+            - Stukrtur kolagen bersifat longgar dan fleksibel.
+            - Fungsi:
+                - **Penykong**
+                - **Pengisi ruang diantara organ**
+                - **Memberi bentuk organ dalam (kelenjar limfa, sumsum tulang dan hati)**
+                - **Menyediakan makanan bagi jaringan yang diselubunginya**
+    - Jaringan Ikat Sifat Khusus
+        - Fungsi:
+            - **Menyimpan energi dalam bentuk lemak**
+            - **Menahan jaringan dari goncangan**
+            - **Membentyuk sel darah**
+        - **Tulang Rawan (Kartilago)**:
+            - Bersifat kuat dan lentur.
+            - Tersusun atas:
+                - **Jaringan ikat berserabut tebal**
+                - **Matriks yang bersifat elastis**
+                - **Sel tulang rawan (Kondrosit) yang terletak di dalam rongga kecil (lakuna)**
+            - Jenis-jenis:
+                - **Tulang Rawan Elastis**: 
+                    - ![3-Tulang Rawan Elastis](https://i.ibb.co/ysxrXX1/image.png)
+                    - Mengandung serabut elastis dan kolagen. 
+                    - Terdapat pada daun telinga, epiglotis, dan bronkiolus.
+                - **Tulang Rawan Hialin**: 
+                    - ![3-Tulang Rawan Hialin](https://i.ibb.co/gWWxbDk/image.png)
+                    - Mengandung serabut kolagen yang halus, berwarna kuning kebiruan. 
+                    - Terdapat pada ujung tulang rusuk, dan permukaan tulang persendian.
+                - **Tulang Rawan Fibrosa**:
+                    - ![3-Tulang Rawan Fibrosa](https://i.ibb.co/thK6YYp/image.png) 
+                    - Mengandung serabut kolagen yang padat dan kasar.
+                    - Terdapat pada simfis pubis (pertemuan tulang kemaluan).
+        - **Tulang Keras (Osteon)**:
+            - ![3-Tulang Keras Jenis](https://i.ibb.co/jy2hcmV/image.png)
+            - Merupakan jaringan ikat yang mengandung mineral.
+            - Disusun oleh sel tulang (Osteosit) yang terletak didalam lakuna.
+            - Osteosit satu dengan lainnya saling berhubungan melalui kanikuli.
+            - Jenis-jenis:
+                - **Tulang Kompak**: 
+                    - Terdapat Sistem Havers; Mengandung pembuluh darah dan saraf sebagai penyuplai zat makanan untuk menghidupi tulang.
+                    - Struktur:
+                        - ![S1EM-Struktur Tulang Kompak](https://i.ibb.co/s9BdKvk/image.png)
+                        - **Saluran Havers** (saluran pusat): Berisi pembuluih darah dan saraf.
+                        - **Lakuna**: Ruang tempat osteosit terletak.
+                        - **Kanalikuli**: Struktur penghuybung osteosit yang satu dengan osteosit lain.
+                        - **Lamella**: Lapisan konsentris matriks yang keras dan kuat.
+                        - **Martriks**: Tersusun atas serabut kolagen, mineral, kalsium, dan fosfor.
+                - **Tulang Spons**: Tidak terdapat Sistem Havers; Terdiri dari trabekula tulang yang bercabang.
+    - Jaringan Darah
+        - Sel Darah
+            - Terdiri atas substansi padat (sel darah) dan cair (plasma darah).
+            - Sel darah dibentuk di sumsum tulang, kecuali leukosit yang dibentuk dalam kelenjar limfa.
+            - Komponen:
+                - **Sel Darah Merah** (eritrosit): Berperan membawa oksigen dan karbondioksida.
+                - **Sel Darah Putih** (leukosit): Melawan benda asing atau bakteri yang masuk ke tubuh.
+                - **Keping Darah** (trombosit): Berperan dalam pembekuan darah.
+                - **Plasma Darah**: Berperan sebagai pembawa sari2 makanan dan hormon dalam darah.
+    - Jaringan Getah Bening/Limfa
+        - Cairan yang dikumpulkan dari berbagai jaringan dan kembali ke dalam aliran darah.
+        - Pada saat limfa melewati nodus limfa, akan ditambahkan antibodi (immunoglobulin)
+        - Nodus limfa terdapat di dalam tonsil, limpa, timus, dan sepanjang saluran pencernaan.
+        - Komponen seluler limfa dapat berupa limfosit dan granulosit.
+        - Limfa berfungsi mengangkut cairan jaringan, protein, lemak, dan zat lain dari jaringan ke sistem peredaran.
+5. Organ penyusun tubuh makhluk hidup
+    1. **Sistem Pencernaan**
+        - Berfungsi untuk memproses/ mencerna makanan, menguraikan zat yang terkandung pada makanan, dan menyerap sari-sari dan nutrisi makanan supaya makanan tersebut bermanfaat bagi tubuh.
+        - Organ penyusun:
+            1. Mulut, berfungsi tempat masuk makanan. Di mulut terdapat gigi untuk menghaluskan makanan dan air ludah untuk mencerna makanan secara kimiawi.
+            2. Kerongkongan, berfungsi jalan makanan dan mendorong makanan untuk masuk ke lambung.
+            3. Lambung, berfungsi mencerna makanan secara kimiawi.
+            4. Usus halus, berfungsi mencerna makanan secara kimiawi dan menyerap nutrisi makanan.
+            5. Usus besar, berfungsi menyerap air dan menyimpan kotoran sebelum dikeluarkan.
+            6. Anus berfungsi jalan keluar kotoran sisa-sisa makanan.
+    2. **Sistem Ekskresi**
+        - Berfungsi untuk membuang cairan tubuh yang berlebih dan tidak berguna sehingga mencegah tubuh dari keracunan atau kerusakan.
+        - Organ penyusun:
+            1. Ginjal, berfungsi menyaring darah sehingga menghasilkan urine.
+            2. Paru-paru, berfungsi menyaring udara pernapasan sehingga dikeluarkan karbon dioksida.
+            3. Kulit, berfungsi mengeluarkan zat sisa berupa keringat dan mengendalikan suhu tubuh
+            4. Hati, berfungsi menghasilkan cairan empedu untuk menetralkan racun tubuh.
+    3. **Sistem Pernapasan**
+        - Berfungsi melangsungkan proses pertukaran oksigen dan karbon dioksida dari luar dan dalam tubuh.
+        - Organ penyusun:
+            1. Hidung, berfungsi untuk enyaring, mengatur suhu, dan melembabkan udara yang masuk.
+            2. Faring, berfungsi menyediakan saluran bagi udara yang keluar masuk.
+            3. Tenggorokan, berfungsi menyaring udara yang kita hirup dan juga bercabang ke bronkus.
+            4. Paru-paru, terdapat alveolus yang berfungsi menukar karbondioksida dengan oksigen.
+    4. **Sistem Peredaran Darah**
+        - Berfungsi membuat darah tetap bersirkulasi di dalam tubuh sehingga dapat menjalankan fungsinya sebagai pengangkut nutrien, oksigen, karbon dioksida, hormon, melawan penyakit, mengatur suhu dan pH, dan mengatur homeostasis.
+        - Organ penyusun:
+            1. Darah berfungsi sebagai alat transfortasi utama dalam sistem sirkulasi.
+            2. Jantung berfungsi memompa darah yang mengandung oksigen ke seluruh tubuh manusia.
+            3. Pembuluh darah sebagai jalan darah mengalir dari jantung menuju ke jaringan seluruh tubuh.
+    5. **Sistem Reproduksi**
+        - Berfungsi untuk menghasilkan keturunan.
+        - Sistem Reproduksi Pria
+            1. Testis  berfungsi untuk menghasilkan sperma dan hormone testosteron.
+            2. Epididimis  berfungsi untuk menyimpan sperma sementara dan mematangkan sperma.
+            3. Vas deferens berfungsi untuk mengangkut sperma menuju vesikula seminalis/kantung semen.
+            4. Uretra yang berfungsi untuk membawa sperma ke luar tubuh.
+            5. Tubulus rekti berfungsi sebagai tempat bermuaranya saluran dari tubulus seminiferus.
+            6. Penis berfungsi sebagai alat untuk melakukan reproduksi (menyalurkan sel sperma).
+            7. Skrotum berfungsi sebagai alat untuk pembentkan sel sperma.
+        - Sistem Reproduksi Wanita
+            1. Ovarium (indung telur), berfungsi menghasilkan sel telur (ovum) dan hormon (esterogen dan progesteron).
+            2. Oviduk/tuba falopi/saluran telur, berfungsi menyalurkan ovum dari ovarium menuju uterus.
+            3. Uterus (kantung peranakan/rahim), berfungsi sebagai tempat perkembangan zigot apabila terjadi fertilisasi, menerima pembuahan ovum yang tertanam ke dalam endometrium, dan juga sebagai tempat tumbuh dan berkembangnya janin.
+            4. Vagina merupakan penghubung rahim ke bagian tubuh luar, juga menghasilkan berbagai macam sekresi.
+            5. Vulva berfungsi sebagai jalan masuk sperma ke dalam tubuh wanita dan sebagai pelindung organ kelamin dalam dari organisme penyebab infeksi.
+            6. Leher rahim (serviks) berfungsi untuk membantu perjalanan sperma dari vagina menuju rahim.
+    6. **Sistem Indera**
+        - Berfungsi menerima rangsangan dari lingkungan sekitar.
+        - Organ penyusun:
+            1. Mata, berfungsi untuk menghasilkan bayangan benda yang dapat dilihat.
+            2. Telinga, berfungsi untuk menerima rangsang bunyi yang dapat didengarkan.
+            3. Kulit, berfungsi untuk meraba permukaan suatu benda.
+            4. Lidah, berfungsi untuk merasakan suatu rasa.
+            5. Hidung, berfungsi untuk mencium bau-bauan.
+    7. **Sistem Otot**: Berfungsi sebagai alat gerak aktif dengan menggerakkan tulang. Otot dikendalikan otak melalui sistem saraf, baik secara sadar maupun tak sadar. Sistem otot melibatkan tiga macam otot. Otot rangka berada di bawah kendali sadar, dan bergerak ketika diarahkan untuk melakukannya oleh otak. Otot jantung menjaga detak jantung, dan fungsi otomatis. Otot polos mengontrol berbagai proses internal seperti pencernaan.
+    8. **Sistem Rangka**: Berfungsi sebagai alat gerak pasif, sebagai pelindung organ lain, memproduksi sel darah merah, dan memberikan bentuk tubuh. Sistem rangka terdiri atas tulang/ kerangka.
+
+## BAB 4
+1. Kelainan pada tulang belakang
+    - 
