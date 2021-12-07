@@ -146,7 +146,7 @@ Disusun berdasarkan kisi-kisi yang diberikan oleh Sir Hady dari Bab 1 sampai Bab
 3. Letak dan Fungsi Jaringan Daun/Fotosintesis
     - Jaringan parenkim palisade adalah jaringan parenkim yang ada pada daun yang mempunyai kloroplas dengan jumlah yang relatif banyak sehingga bagian tersebut mengalami proses fotosintesis.
 4. Macam-macam Jaringan Dewasa
-    **Jaringan Dewasa**: Jaringan yang selnya sudah berhenti membelah dan mengalami diferensiasi
+    - **Jaringan Dewasa**: Jaringan yang selnya sudah berhenti membelah dan mengalami diferensiasi
         - Ciri-ciri
             - Ukuran sel relatif besar (kadang sudah mati)
             - Terdapat ruang antar sel
