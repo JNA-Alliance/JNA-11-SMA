@@ -56,7 +56,6 @@
                     - Xilem dan Floem
                     - Akar lateral (akar cabang)
     - **Jaringan Dewasa**: Jaringan yang selnya sudah berhenti membelah dan mengalami diferensiasi
-    - 
         - Ciri-ciri
             - Ukuran sel relatif besar (kadang sudah mati)
             - Terdapat ruang antar sel
@@ -170,5 +169,3 @@
                         - Mengangkut zat makanan hasil fotosintesis ke seluruh bagian tubuh tumbuhan.
                         - Tempat penyimpanan zat organik.
                         - Menunjang pertumbuhan tumbuhan.
-
-# Sistem Pengangkutan Pada Tumbuhan
