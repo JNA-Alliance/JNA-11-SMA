@@ -48,7 +48,7 @@
                     - Kambium Vaskuler/Gabus pada bagian luar yang menyebabkan antar ruas batang semakin panjang seperti bambu
             - **Meristem Lateral**
                 - Terletak sejajar dengan permukaan organ tempat ditemukannya
-                - Terletakpad abagian samping
+                - Terletak pada bagian samping
                 - Contoh: Kambium dan Kambium Vaskuler/Gabus (felogen)
                 - Menyebabkan batang mernjadi semakin lebar
                 - Memiliki bagian-bagian berikut:
@@ -56,8 +56,9 @@
                     - Xilem dan Floem
                     - Akar lateral (akar cabang)
     - **Jaringan Dewasa**: Jaringan yang selnya sudah berhenti membelah dan mengalami diferensiasi
+    - 
         - Ciri-ciri
-            - Ukuran sel relatif besar
+            - Ukuran sel relatif besar (kadang sudah mati)
             - Terdapat ruang antar sel
             - Dinding sel mengalami penebalan
             - Vakuolanya besar
@@ -94,7 +95,7 @@
                             - Kambium Vaskuler
                             - Floem
             - **Jaringan Dasar**
-                - Jaringan Parenkim
+                - **Jaringan Parenkim**
                     - Ciri-ciri
                         - Tersusun dari sel-sel hidup yang berukuran besar
                         - Terletak hampir disemua bagian tumbuhan
@@ -148,7 +149,26 @@
                     - Berperan mengangkut air dan zat hara dari akar ke daun
                     - Sel tersusun atas sel yang sudah mati dengan dinding sekunder yang tebal dan tersusun atas lignin
                     - Tersusun dari
-                        - Unsur trakeal (trakea dan trakeid)
-                        - Serabut xilem
-                        - Parenkim xilem 
-                - Jaringan Floem
+                        - **Unsur trakeal (trakea dan trakeid)**:
+                            - Berperan dalam mengangkut air dan zat hara.
+                            - Trakea terdiri atas sel yang memanjang dengan ujung berlumbang dan bersambungan.
+                            - Trakeid merupakan sel panjang dengan ujung yang runcing tanpa ada lubang.
+                        - **Serabut xilem**:
+                            - Sel panjang dengan dinding sekunder yang berlignin.
+                            - Terdiri atas serabut trakeid dan libriform.
+                        - **Parenkim xilem**:
+                            - Tersusun atas sel yang masih hidup.
+                            - Berfungsi sebagai cadangan makanan.
+                - **Jaringan Floem**
+                    - Terdiri atas sel hidup dan sel mati, yaitu:
+                        - Unsur-unsur kibral (sel tapis dan komponen pembuluh tapis): Sel berikatan dengan sel tapis lainnya dan saling berlekatan antara dinding ujung sel di bawah dan di atasnya.
+                        - Sel pengiring: Deretan sel hidup yang berperan dalam transport zat makanan, dan tidak dijumpai pada gymnospermae dan pteridophyta.
+                        - Sel albumin: Terletak dekat sel tapis, kaya akan zat albumin yang menyusun jari-jari empulur, dan hanya bisa ditemukan pada gymnospermae.
+                        - Parenkim floem: Terletak di bagian buluh tapis dan berfungsi menyimpan cadangan makanan.
+                        - Serabut floem: Berbentuk panjang, ujung sel saling berhimpitan. Berfungsi sebagai penguat floem.
+                    - Berfungsi untuk:
+                        - Mengangkut zat makanan hasil fotosintesis ke seluruh bagian tubuh tumbuhan.
+                        - Tempat penyimpanan zat organik.
+                        - Menunjang pertumbuhan tumbuhan.
+
+# Sistem Pengangkutan Pada Tumbuhan
