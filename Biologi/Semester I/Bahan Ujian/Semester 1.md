@@ -521,4 +521,16 @@ Disusun berdasarkan kisi-kisi yang diberikan oleh Sir Hady dari Bab 1 sampai Bab
 
 ## BAB 4
 1. Kelainan pada tulang belakang
-    - 
+    - **Kifosis**: Tulang bengkok ke belakang.
+    - **Lordosis**: Tulang bengkok ke depan.
+    - **Skoliosis**: Tulang bengkok ke samping.
+2. Artikulasi/Persendian
+    - **Sinartrosis** (Sendi Mati): 
+        - Tidak memungkinkan terjadinya pergerakan.
+        - **Sinotosis**: Sendi yang dihubungkan dengan jaringan ikat serabut padat (pada tengkorak).
+        - **Sinkondrosis**: Persendian oleh tulang rawan (kartilago) hialin (antara tulang rusuk dan dada).
+    - **Amfiartrosis** (Sendi Kaku): Memungkinkan terjadi sedikit gerakan (antara tulang betis dan kering)
+    - **Diartosis** (Sendi Gerak): 
+        - Memungkinkan terjadi gerakan secara leluasa.
+        - Jenis-jenis:
+            - 
