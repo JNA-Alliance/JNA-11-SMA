@@ -1,10 +1,10 @@
 # Karbon
 
 - Keunikan atom karbon
-    - Membungay 4 elektron valensi
+    - Mempunyai 4 elektron valensi
     - Relatif kecil:
         - Ikatan kovalen yang dibentuk karbon relatif kuat
-        - Karbon dapat membentuk ukatan rangkap dua dan ikatan rangkap 3
+        - Karbon dapat membentuk ikatan rangkap dua dan ikatan rangkap 3
 - Sebutan atom karbon
     - **Primer**: Terikat langsung pada 1 atom karbon lainnya
     - **Sekunder**: Terikat langsung pada 2 atom karbon lainnya
