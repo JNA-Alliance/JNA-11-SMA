@@ -1,0 +1,21 @@
+# Klasifikasi Demokrasi
+
+- Titik Berat Perhatian
+    - **Demokrasi Formal**: Demokrasi yang menjunjung tinggi persamaan dalam bidang politik, tanpa mengurangi atau menghilangkan kesenjangan dalam bidang ekonomi. Pada demokrasi formal, individu diberi kebebasan yang luas, disebut juga demokrasi liberal yang ditetapkan di negara yang berpaham liberal.
+    - **Demokrasi Materiil**: Demokrasi yang memandang manusia mempunyai kesamaan dalam bidang sosial-ekonomi, sehingga persamaan dalam bidang politik tidak menjadi prioritas.
+        - Untuk mengurangi perbedaan dalam bidang ekonomi, parpol yang berkuasa yang mengatasnamakan negara, menjadikan segala sesuatu sebagai hak milik negara.
+        - Hak milik pribadi tidak diakui.
+        - Hak manusia bidang politik dihilangkan.
+        - Diterapkan di negara berpaham sosialis komunis.
+    - **Demokrasi Campuran** (gabungan): Demokrasi campuran dari demokrasi formal dan demokrasi materiil.
+        - Berupaya mengambil kebaikan dan membuang keburuka dari demokrasi formal dan materiil.
+        - Diterapkan pada negara yang tidak berpaham liberal maupun sosialis komunis.
+- Wewenang dan Hubungan Antaralat Kelengkapan Negara
+    - **Demokrasi Parlementer**: Demokrasi dengan pemerintahan yang dikuasai oleh parlemen, kedudukan kepala negara adalah sebagai simbol dan tidak dapat diganggu gugat.
+        - Parlemen lebih kuat dari pemerintah.
+        - Menteri bertanggung jawab kepada parlemen.
+    - **Demokrasi Presidensiil**: Demokrasi dengan pemerintahan yang dijalankan oleh Presiden, Presiden sebagai kepala negara sekaligus sebagai kepala pemerintahan.
+        - Kekuasaan eksekutif dijalankan berdasarkan kedaulatan yang dipilih dari dan oleh rakyat secara langsung atau melalui badan perwakilan
+        - Presiden mengangkat dan memberhentikan menteri
+        - Menteri bertanggung jawab kepada Presiden
+        - Presiden dan parlemen mempunyai kedudukan yang sama dan tidak dapat saling membubarkan

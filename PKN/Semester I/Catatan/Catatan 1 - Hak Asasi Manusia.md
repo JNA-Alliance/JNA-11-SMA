@@ -7,7 +7,7 @@
     - Hak Hidup
     - Hak Kemerdekaan Kebebasan
     - Hak Kebahagiaan/Memiliki Sesuatu
-- Tujuan HAM adalah untuk menjamin keberadaan harkat dan martabat manusia serta menjada keharmonisan dengan lingkungannya
+- Tujuan HAM adalah untuk menjamin keberadaan harkat dan martabat manusia serta menjaga keharmonisan dengan lingkungannya
 - Munculnya hak asasi manusia sesunggughnya merupakan akibat tidak langsung dari penjajahan, perbudakan, ketidakadilan, dan kelaliman (tirani), perlakuan diskriminatif yang banyak terjadi dalam sejarah kehidupan manusia. Kesadaran manusia untuk lepas dari penindasan melahirkan gerakan-gerakan perlawanan dan pemberontakan untuk memperjuangkan hak asasi.
 - Kelahiran HAM dalam bentuk peraturan tertulis berawal dari dunia barat di Inggris pada tahun 1215 yaitu *Magna Charta*: Masyarakat menentang kepemimpinan Raja John yang sewenang-wenang terhadap rakyat dan bangsawan dalam arti menentang kekuasaan raja secara absolut.
 - *Magna Charta* atau Piagam Agung menjadi tanda bagi lahirnya perlindungan terhadap HAM yang menjadi inspirasi munculnya perlindungan HAM.
