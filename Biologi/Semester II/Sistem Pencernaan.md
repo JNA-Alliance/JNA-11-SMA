@@ -1,0 +1,66 @@
+# Sistem Pencernaan
+
+## Makanan
+- Makanan adalah zat yang mengandung gizi atau nutrisi yang dibutuhkan menusia.
+- Lapar disebabkan oleh karena menurunya kadar gula/glukosa didalam darah.
+- Makanan yang mengandung sumber energi:
+    - Karbohidrat
+    - Protein
+    - Lemak
+    - Mineral
+    - Vitamin
+    - Serat
+- Fungsi Makanan:
+    - Penghasil sumber energi
+    - Zat pembangun tubuh (mengganti sel2 yang telah rusak)
+    - Pengatur fungsi tubuh
+- Zat Makanan
+    - Karbohidrat
+        - Senyawa organik yang tersusun atas unsur C, H, dan O dengan rumus kimia Cx(H2O)y
+        - 1 gram karbohidrat = 4.1 Kalori
+        - Karbohidrat terbagi menjadi 4 berdasarkan jumlah molekul dan gulanya:
+            - Monosakarida: Karbohidrat yang memiliki 1 molekul gula (Ribosa, Glukosa, Fruktosa, Galaktosa)
+            - Disakarida: Karbohidrat yang memiliki 2 molekul gula (Maltosa, Sukrosa, dan Laktosa)
+
+- Sistem pencernaan adalah proses pemecahan makanan menjadi molekul sederhana, yang melibatkan organ2 dan kelenjar2 pencernaan
+- Terbagi atas:
+    - Pencernaan Mekanis: Pengubahan makanan dari bentuk kasar menjadi halis dengan bantuan gerakan alat2 pencernaan (gigi dan lambung).
+    - Pencerkaan Kimiawi: Pelarutan makanan oleh enzim2 pencernaan, mengubah makanan bermolekul besar menjadi molekul kecil.
+- Cerna = Proses pengubahan zat padat/kasar menjadi lebih halus/kecil yang kemudian diserap.
+- Sebutan hasil pencernaan di:
+    - Mulut: Bolus
+    - Lambung: Kimus
+- Alat-alat pencernaan:
+    - Saluran Pencernaan: Saluran yang memperoses makanan dengan penguyahan, penelanan, dan pencampuran.
+    - Kelenjar Pencernaan: Alat pencernaan yang dapat menghasilkan enzim2 untuk pencernaan kimiawi.
+- Organ-organ pencernaan:
+    - **Mulut (*cavum oris*)**:
+        - Terjadi pencernaan makanan secara mekanis dan kimiawi.
+        - ![1-Rongga Mulut](https://i.ibb.co/H2X2t9w/image.png)
+        - Bagian-bagian mulut:
+            - **Gigi**:
+                - Merupakan alat pencernaan mekanis
+                - Struktur: 
+                    - ![1-Struktur Gigi](https://i.ibb.co/rGQqWNK/image.png)
+                - Fungsi: 
+                    - Memoting makanan menjadi potongan yang lebih kecil.
+                    - Memudahkan enzim2 pencernaan mencerna makanan dengan lebih efisien dan cepat
+                - Jenis-jenis berdasarkan bentuk:
+                    - **Gigi Seri (Insisibus)**: Memotong makanan
+                    - **Gigi Taring (Kaninus)**: Mengoyak dan merobek makanan
+                    - **Gigi Geraham (Molar-Premolar)**: Mengunyah makanan
+            - **Lidah**: 
+                - Struktur:
+                    - ![1-Struktur Lidah](https://i.ibb.co/h8rQBkH/image.png)
+                - Fungsi:
+                    - Membantu mencampur dan menelam makanan.
+                    - Mempertahankan makanan agar berada diantara gigi2 atas dan bawah saat makanan dikunyah.
+                    - Sebagai alat pengecap makanan karena mengandung banyak reseptor pengecap atau perasa.
+                    - Mencampur dan mengaduk makanan dengan ludah.
+                    - Mendorong makanan masuk ke esofagus.
+    - Kerongkongan (esofagus)
+    - Lambung (ventrikulus)
+    - Usus Halus (intestinum tenue)
+    - Usus Besar (kolon)
+    - Rectum
+    - Anus
