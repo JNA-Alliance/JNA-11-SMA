@@ -21,4 +21,12 @@
     - **Kepentingan**: Pengutamaan bagian-bagian penting (menyangkut hal yang dapat dipertimbangkan penerima proposal)
     - **Kesesuaian**: Penyusunan bagian-bagian proposal agar padi dan tidak saling bertentangan.
     - **Kejelasan**: Penjabaran bagian-bagian penting proposal yang kurang mapan dengan data terperinci.
-- 
+- Kaidah Kebahasaan Proposal:
+    1. Ada pernyataan argumentatif: Pernyataan yang berisi pendapat (biasanya terdapat di Latar Belakang). Setiap pendapat pasti ada alasan. Maka konjungsi kausalitas (sebab-akibat) akan digunakan.
+    2. Ada pernyataan persuasif: Pernyataan yang membujuk melakukan sesuatu.
+    3. Menggunakan istilah ilmiah: Istilah yang melekat dalam tema proposal tersebut. Contoh: Abstrak, Analisis Data, Hipotesis. 
+    4. Menggunakan kata kerja tindakan yang menyatakan langkah-langkah kegiatan.
+    5. Menggunakan kata-kata yang menyatakan pendefinisian.
+    6. Menggunakan kata-kata yang bermakna perincian. Contoh: Pertama, kedua, ketiga.
+    7. Menggunakan kata-kata yang bersifat "keakanan". Contoh: Akan, diharapkan, direncanakan.
+    8. Menggunakan kata-kata yang bermakna denotatif.
