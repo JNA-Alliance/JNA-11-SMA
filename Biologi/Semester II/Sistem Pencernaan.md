@@ -14,14 +14,85 @@
     - Penghasil sumber energi
     - Zat pembangun tubuh (mengganti sel2 yang telah rusak)
     - Pengatur fungsi tubuh
-- Zat Makanan
-    - Karbohidrat
-        - Senyawa organik yang tersusun atas unsur C, H, dan O dengan rumus kimia Cx(H2O)y
-        - 1 gram karbohidrat = 4.1 Kalori
-        - Karbohidrat terbagi menjadi 4 berdasarkan jumlah molekul dan gulanya:
-            - Monosakarida: Karbohidrat yang memiliki 1 molekul gula (Ribosa, Glukosa, Fruktosa, Galaktosa)
-            - Disakarida: Karbohidrat yang memiliki 2 molekul gula (Maltosa, Sukrosa, dan Laktosa)
-
+- **Zat Makanan**
+    - Zat Organik (Memiliki unsur C, H, dan O dengan rumus kimia Cx(H2O)y)
+        - Karbohidrat
+            - Sumber: Tepung, nasi, roti, sayur, buah.
+            - Manfaat:
+                - Sumber energi tinggi (4.1 kalori/gr)
+                - Sumber metabolisme
+                - Melancarkan pencernaan
+            - Pengujian:
+                - **Uji Lugol/Iodin** (Uji amilum/tepung): Makanan yang sudah di gerus dimasukkan ke dalam tabung reaksi kemudian diteteskan 5 tetes Lugol. Biru atau Hitam = Positif.
+                - **Uji Benedict** (Uji glukosa/manis): Makanan yang sudah di gerus dimasukkan ke dalam tabung reaksi kemudian diteteskan 5 tetes Benedict, lalu dibakar/dididihkan. Merah Bata atau Orange Muda = Positif.
+            - Kelompok:
+                - Monosakarida: Memiliki 1 molekul gula (Glukosa, Fruktosa, Galaktosa, dan Ribosa)
+                - Disakarida: Memiliki 2 molekul gula [MaLs]:
+                    - Maltosa: Glukosa, Glukosa
+                    - Laktosa: Glukosa, Galaktosa
+                    - Sukrosa: Glukosa, Fruktosa
+                - Polisakarida: Memiliki 3 atau lebih molekul gula (Selulosa/Serat, Kitin (Jamur), Lignin (Kayu), Glikogen (Gula otot))
+        - Protein
+            - Sumber:
+                - Protein Hewani Telur, Daging
+                - Protein Nabati: Kacang, Tahu, Tempe, Tauge
+            - Pembagian:
+                - Asam Amino Esensial: Protein yang tidak dapat dibuat oleh tubuh.
+                    - HaVe A LITTLe More Fun
+                    - Ha - Histidin
+                    - Ve - Valin
+                    - A - Arginin
+                    - L - Lisin
+                    - I - Isolesin
+                    - T - Treionin
+                    - T - Triptofan
+                    - Le - Leusin
+                    - More - Metionin
+                    - Fun - Fenilalalin
+                - Asam Amino Non-Esensial: Protein yang dapat dibuat oleh tubuh.
+            - Pengujian: Uji Biuret: Zat makanan yang di gurus dimasukkan kedalam tabung reaksi kemudian diteteskan 5 tetes Biuret. Ungu = Positif (mengandung proteim Albumin).
+            - Manfaat:
+                - Sumber energi (4.1 kalori/gr)
+                - Zat pembangun
+                - Regenerasi sel
+                - Menjaga tekanan osmotik darah
+        - Lemak
+            - Unsur: C, H, O
+            - Manfaat:
+                - Cadangan makanan (9.3 kalori/gr), hanya dapat digunakan saat bergerak/suhu diatas normal
+                - Pelarut vitamin
+                - Pengatur suhu
+            - Pembagian:
+                - Berdasarkan Komposisi:
+                    - Lemak Asli: Lilin, minyak
+                    - Lemak Sederhana: Asam lemak, gliserol
+                    - Lemak Campuran: Fosfolipid (fosfat dan lipid), Glikolipid (glukosa dan lipid)
+                - Berdasarkan Tingkat Kejenuhan:
+                    - Lemak Jenuh: Ikatan Tunggal
+                    - Lemak Tak Jenuh: Ikatan Rangkap
+            - Pengujian: Oleskan makanan pada kertas minyak, diterawang. Bila berhasil diterawang = Positif.
+    - Zat Anorganik
+        - Air
+        - Mineral
+        - Vitamin
+            - Larut di lemak: **A, D, E, K**
+            - Larut di air: **B & C**
+                - TiRaNi PaPi FoSi
+                - B1: Ti - Tiamin
+                - B2: Ra - Ribovlafin
+                - B3: Ni - Niasin
+                - B5: Pa - Asam Pantotenat
+                - B6: Pi - Piridoksin
+                - B11: Fo - Asam Folat
+                - B12: Si - Sianokobalamin
+            - Manfaat dan Kelaminan Vitamin:
+                | Vitamin           | Sumber               | Kelainan                                                    |
+                | ----------------- | -------------------- | ----------------------------------------------------------- |
+                | A (retinol)       | Wortel, bit          | Hemeralopi (rabun senja)                                    |
+                | B                 | Padi, Hati, Telur    | Beri-beri (B1), Anemia (B12, Pelagra (B6)                   |
+                | C (asam askorbat) | Jambu, Delima, Jeruk | Sariawan, Skorbut (Kekurangan vit. C akut sampe pendarahan) |
+                | D (calsiferol)    | Susu, Keju           | Rahitis (kelainan pada kaki, Kaki X)                        |
+                | E (tokoferol)     | Pepaya, Tauge        | Penuaan, Kemandulan                                         |
 - Sistem pencernaan adalah proses pemecahan makanan menjadi molekul sederhana, yang melibatkan organ2 dan kelenjar2 pencernaan
 - Terbagi atas:
     - Pencernaan Mekanis: Pengubahan makanan dari bentuk kasar menjadi halis dengan bantuan gerakan alat2 pencernaan (gigi dan lambung).
