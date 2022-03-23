@@ -1,5 +1,14 @@
 # Catatan 3 - Laju Reaksi
 
+- Pada reaksi kimia, pereaksi akan bereaksi untuk membentuk hasil reaksi atau produk, dengan demikian maka pereaksi akan berkurang, sedangkan hasil reaksi atau produk akan bertambah.
+- Apabila perubahan konsentrasi pereaksi atau hasil reaksi dibandingkan dengan banyaknya waktu yang dibutuhkan untuk bereaksi maka itulah yang dimaksud dengan laju reaksi.
+- **Laju reaksi** merupakan pernyataan perubahan konsentrasi pereaksi atau hasil reaksi dalam satuan waktu.
+- Pembagian berdasarkan sifat:
+    - **Katalisator**: Mempercepat reaksi
+    - **Inhibitor**: Memperlambat reaksi
+- Pembagian berdasarkan fasa (Jenis zat):
+    - **Homogen**: Wujud atau fasa katalis sama dengan pereaknya.
+    - **Heterogen**: Wujud atau fasa katalis berbeda dengan pereaknya.
 - **Katalis**: bahan atau zat kimia yang membantu mempercepat reaksi kimia
 - **Katalisis**: proses reaksi yang melibatkan katalis
 - Fungsi katalis:
