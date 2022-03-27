@@ -3,14 +3,19 @@
 - Pada reaksi kimia, pereaksi akan bereaksi untuk membentuk hasil reaksi atau produk, dengan demikian maka pereaksi akan berkurang, sedangkan hasil reaksi atau produk akan bertambah.
 - Apabila perubahan konsentrasi pereaksi atau hasil reaksi dibandingkan dengan banyaknya waktu yang dibutuhkan untuk bereaksi maka itulah yang dimaksud dengan laju reaksi.
 - **Laju reaksi** merupakan pernyataan perubahan konsentrasi pereaksi atau hasil reaksi dalam satuan waktu.
+- Pembagian:
+    - **Autokatalis**: Zat hasil reaksi yang bertindak sebagai katalis.
+    - **Biokatalis**: Katalis yang bekerja pada proses metabolisme.
 - Pembagian berdasarkan sifat:
     - **Katalisator**: Mempercepat reaksi
-    - **Inhibitor**: Memperlambat reaksi
+    - **Inhibitor**: Memperlambat reaksi. (Dalam jumlah sedikit -> mengurangi/menghambat kerja katalis)
 - Pembagian berdasarkan fasa (Jenis zat):
     - **Homogen**: Wujud atau fasa katalis sama dengan pereaknya.
     - **Heterogen**: Wujud atau fasa katalis berbeda dengan pereaknya.
 - **Katalis**: bahan atau zat kimia yang membantu mempercepat reaksi kimia
 - **Katalisis**: proses reaksi yang melibatkan katalis
+- Contoh Katalis:
+    - ![Contoh Katalis](https://i.ibb.co/VT8CWH6/image.png)
 - Fungsi katalis:
     1. Menurunkan penghalang atau barrier
     2. Menghasilkan produk lebih cepat
@@ -39,3 +44,5 @@
 - **Cara menentukan orde reaksi:**
     - Jika ada tahap-tahap reaksi, maka orde reaksi terhadap masing-masing zat adalah koefisien tahap yang paling lambat.
     - Orde reaksi terhadap suatuu zat dapat ditentukan melalui eksperimen
+
+- 
