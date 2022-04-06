@@ -30,3 +30,24 @@
     6. Menggunakan kata-kata yang bermakna perincian. Contoh: Pertama, kedua, ketiga.
     7. Menggunakan kata-kata yang bersifat "keakanan". Contoh: Akan, diharapkan, direncanakan.
     8. Menggunakan kata-kata yang bermakna denotatif.
+- Bagian-bagian dari proposal formal:
+    - Bagian Pelengkap Pendahuluan
+        - Sampul dan halaman judul
+        - Prakata
+        - Ikhtisar (abstrak)
+        - Daftar isi
+        - Penegasan permohonan
+    - Isi Proposal
+        - Latar belakang masalah
+        - Ruang lingkup masalah
+        - Pembatasan masalah
+        - Asumsi dasar/kerangka teori
+        - Metodologi
+        - Fasilitas
+        - Personalia (kepanitiaan)
+        - Keuntungan dan kerugian
+        - Waktu dan biaya
+    - Bagian Penutup
+        - Daftar pustaka
+        - Lampiran-lampiran
+        - Daftar gambar atau tabel 
