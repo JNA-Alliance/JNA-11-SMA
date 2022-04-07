@@ -3,6 +3,9 @@
 - Proposal adalah **rencana yang dituangkan dalam bentuk rancangan kerja**.
 - Dapat berupa berbagai kegiatan seperti lomba, seminar, penulisan karya ilmiah, dll.
 - **Informasi penting** dalam proposal adalah informasi yang dapat diidentifikasi dan menjadi bahan pertimbangan.
+- Tujuan proposal:
+    - menjelaskan rencana dan tujuan suatu kegiatan secara jelas dan detail
+    - untuk memperoleh izin, persetujuan, atau dukungan
 - Informasi penting mencakup:
     - **Bentuk**: Dapat berupa: Aktivitas (acara) atau penelitian (karya)
     - **Tujuan**: Tujuan yang dikehendaki
