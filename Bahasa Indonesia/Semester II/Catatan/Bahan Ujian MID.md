@@ -19,7 +19,7 @@
 16. Identitas buku dalam resensi meliputi ... (*Judul, pengarang, penerbit, tahun, dan ketebalan*)
 17. Seorang yang membuat resensi/peresensi dapat memperoleh banyak hal, diantaranya ... (*Melatih keterampilan, mengetahui buku-buku keluaran terbaru, dan berpikir objektif*)
 18. Di dalam resensi termuat informasi tentang ... (*Ulasan, tanggapan, komentar, kelebihan dan kelemahan buku*)
-19. Untuk apa resensi dibuat ...
+19. Untuk apa resensi dibuat ... (*Memberikan sebuah penilaian dan memaparkan kelebihan dan kekurangan suatu karya.*) 
 20. Resensi merupakan jenis teks yang berisi ...
 
 **ESAI**
