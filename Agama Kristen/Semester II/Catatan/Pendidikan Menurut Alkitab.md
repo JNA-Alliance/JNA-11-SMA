@@ -12,3 +12,9 @@
 - Dalam perkembangan selanjutnya, sinagoge menjadi tempat mengajar. 
 - **Pendidikan menurut alkitab**: Upaya pengajaran yang menjadikan orang2 Yahudi hidup kudus dan menerapkan ajaran agamanya dalam kehidupan sehari-hari.
 - Pada masa Tuah Yesus, sinagoge adalah salah satu tempat mengajar selain Bait Allah dan rumah (keluarga) sebab memang tujuan utama dari sinagoge adalah untuk mengajar. Do kemudian hari, sinagoge berubah menjadi tempat hanya untuk beribadah. Laki-laki belajar di sinagoge atau di rumah yang berdekatan.
+- Prinsip Pendidikan:
+    - Relevansi
+    - Efektivitas
+    - Efisiensi
+    - Kontinuitas
+    - Fleksibilitas
