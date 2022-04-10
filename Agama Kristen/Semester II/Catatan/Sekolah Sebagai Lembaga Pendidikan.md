@@ -8,7 +8,7 @@
     1. Membebaskan ketergantungan dari orang lain
     2. Mengembangkan bakat, karakter dan kemampuan
 -  Tujuan pendidikan di sekolah sebagai lembaga pendidikan adalah:
-    1. Mendidik dan mengajar anak dengan ilmu pengetahuan yang bersifat akademis dan umu
+    1. Mendidik dan mengajar anak dengan ilmu pengetahuan yang bersifat akademis dan umum
     2. Ikut membentuk kepribadian anak agar menjadi pribadi dewasa yang mandiri
     3. Mengembangkan potensi manusia secara berencana, terarah, dan tersistematik
     4. Meneruskan, mempertahankan, dan mengembangkan kebudayaan suatu masyarakat
