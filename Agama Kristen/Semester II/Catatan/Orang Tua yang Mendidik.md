@@ -23,7 +23,7 @@
 - Orang tua mempunyai tugas dan tanggungjawab sebagai:
     - Teladan: Menjadi figur yang dicontoh oleh anak.
     - Motivator: Menjadi pemberi semangat bagi anak.
-    - Teman/sahabat: Menjadi teman untuk berbagi dan sahabat untuk mendengarkan semua cerita, merasakan semua sukacita anak, bahkan menerima kelih kesah anak.
-    - Inspirator: Menjadi figur yang membangun kesadaran anak untuk menjadi privadi yang lebih baik.
+    - Teman/sahabat: Menjadi teman untuk berbagi dan sahabat untuk mendengarkan semua cerita, merasakan semua sukacita anak, bahkan menerima keluh kesah anak.
+    - Inspirator: Menjadi figur yang membangun kesadaran anak untuk menjadi pribadi yang lebih baik.
     - Konselor: Menjadi pendengar dan pembimbing bagimu.
-    - Pengawas: Mengingatkan apabila kamu mengarah kepada hal2 yang merugikan atau membahayakan dirimu, menegur jjika kamu melakukan bersalah, memberikan sanksi yang telah ditetapkan bersama dan memberikan reward atau pujian atas semua kemajuan, teladan, atau prestasi yang kamu tunjukkan.
+    - Pengawas: Mengingatkan apabila kamu mengarah kepada hal2 yang merugikan atau membahayakan dirimu, menegur jika kamu melakukan bersalah, memberikan sanksi yang telah ditetapkan bersama dan memberikan reward atau pujian atas semua kemajuan, teladan, atau prestasi yang kamu tunjukkan.

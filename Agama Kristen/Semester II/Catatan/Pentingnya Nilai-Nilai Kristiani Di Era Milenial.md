@@ -10,7 +10,7 @@
 
 ## Moderasi Agama
 - Moderasi diambil dari kata moder, artinya di tengah, netral, dan tidak memihak.
-- Moderasi agama adalah sikap untuk menempatkan diri di tengah-tengah di antar aberbagai keekstreman dalam praktik beragama.
+- Moderasi agama adalah sikap untuk menempatkan diri di tengah-tengah di antar berbagai ke-ekstreman dalam praktik beragama.
 - Banyak orang hanya mementingkan kelompok, agama, dan kepentingannya sendiri serta mengabaikan dan meremehkan kelompok lain.
 
 ## Integritas Diri
