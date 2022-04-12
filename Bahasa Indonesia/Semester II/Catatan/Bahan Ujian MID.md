@@ -26,7 +26,25 @@
 1. Apa jenis proposal yang Anda ketahui? (*Proposal Penelitian, Proyek, Kegiatan, Bisnis*)
 2. Jelaskan bahasa yang digunakan dalam penulisan karya ilmiah! (*Bahasa dalam karya ilmiah harus menggunakan ragam bahasa tulis baku. Ragam bahasa tulis baku dapat dilihat dari pilihan kata atau istilah yang digunakan, ejaan, kalimat efektif, bermakna denotasi (lugas), dan alur pikir yang logis*)
 3. Jelaskan langkah-langkah mengkonstruksi karya ilmiah! 
-4. Jelaskan apakah yang dimaksud dengan resensi dan tujuannya!
+   
+   PowerPoint
+   *Memperhatikan isi, struktur, dan kaidah kebahasaan* 
+   *menulisa karya ilmiah secara utuh sesuai sistematka yg berlaku*
+   *Bagian pendahuluan ditentukan dalam racangan karya ilmiah meliputi latar belakang, rumusan masalah, tujuan, manfaat, dan metode yg dilakukan*
+   *melengkapi struktur karya ilmiah secara utuh, meliouti pembahasan dan simpulan*
+
+   Buku
+   *Menyiapkan Racangan (merancaang informasi dan esensi karya ilmiah)*
+   *Mengumpulkan Bahan/Data (Menghimpun data untuk dianalisis)*
+   *Menganalisa Bahan/Data (Mengolah data yg telah diperoleh dengan instrumen dan metode yg telah ditentukan)*
+   *Mengembangkan Rancangan (Memaparkan hasil pengolahan data yg diperkuat teori melalui kutipan dgn memperhatikan kelengkapan struktur dan kaidah kebahasaan karya ilmiah)*
+   *Menyunting karya ilmiah (Mengedit dan meperbaiki hal yg kurang sesuai atau salah dalam isi dan ejaan)*
+   
+4. Jelaskan apakah yang dimaksud dengan resensi dan tujuannya! (*Suatu tulisan atau ulasan mengenai nilai sebuah hasil karya baik buku, novel, komik, film. Tujuan menyampaikan informasi kepada pembaca tentang sebuah karya*)
 5. Jelaskan langkah-langkah membuat resensi!
-6. Tuliskan struktur dari resensi!
+   *pertimbangkan buku apa yg akan dirensensi*
+   *Mencatat data informasi buku yg akan dirensensi*
+   *Membaca sambil menulis poin-poin penting dalam buku*
+   *Menuliskan Isi resensi*
+6. Tuliskan struktur dari resensi!(*Judul resensi, Indentitas karya, Orientasi, Paparan Argumen, Rekomendasi.*)
 7. Tuliskan aspek-aspek penting dari proposal! (*Susunan, Kelengkapan, Kepentingan, Kesesuaian, Kejelasan*)
