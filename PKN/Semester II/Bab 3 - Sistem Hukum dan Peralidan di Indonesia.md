@@ -27,7 +27,7 @@ Semester: 2
     - Terdapat sanksi tegas terhadap pelanggaran peraturan
 - Ciri Hukum: **Berisi perintah dan larangan yang harus dipatuhi setiap orang**.
 - Kaidah hukum:
-    - Berisi perintah: wwwwww
+    - Berisi perintah: 
     - Berisi larangan: 
     - Berisi perkenan: Bukan berisi perintah atau larangan tetapi jika dilakukan akan mengikat. (Perjanjian pernikahan/perkawinan)
 - Penggolongan Hukum
