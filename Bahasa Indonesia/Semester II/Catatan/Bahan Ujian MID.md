@@ -2,9 +2,9 @@
 
 **ISIAN**
 1. Bagian pelengkap penutup dalam proposal berisi ... (*daftar pustaka, lampiran, dan tabel*)
-2. Tujuan proposal adalah ... (*menjelaskan rencana dan tujuan suatu kegiatan secara jelas dan detail*/*untuk memperoleh izin, persetujuan, atau dukungan*)
+2. Tujuan proposal adalah ... (*menjelaskan rencana dan tujuan suatu kegiatan secara jelas dan detail*/*untuk memperoleh izin, persetujuan, atau dukungan*)(*Sesuatu yg dicapai kegiatan yg direncanakan itu(Jawaban Guru)*)
 3. Jenis proposal yang lebih sering digunakan di bidang akademis adalah proposal ... (*proposal penelitian*)
-4. Proposal berbentuk formal terdiri atas 3 bagian utama, yaitu ... (*Pendahuluan, isi, penutup*)
+4. Proposal berbentuk formal terdiri atas 3 bagian utama, yaitu ... (*Pendahuluan, isi, bagian pelengkap penutup*)
 5. Latar belakang masalah, tujuan penelitian, rumusan masalah, dan hipotesis adalah beberapa bagian dari ... proposal penelitian (*Unsur-unsur*)
 6. Secara umum buku terdiri atas 2 jenis ... (*Fiksi & non-fiksi*)
 7. Pengertian karya ilmiah adalah ... (*tulisan yang berdasarkan cara berpikir logis dan sistematis*)
@@ -20,12 +20,12 @@
 17. Seorang yang membuat resensi/peresensi dapat memperoleh banyak hal, diantaranya ... (*Melatih keterampilan, mengetahui buku-buku keluaran terbaru, dan berpikir objektif*)
 18. Di dalam resensi termuat informasi tentang ... (*Ulasan, tanggapan, komentar, kelebihan dan kelemahan buku*)
 19. Untuk apa resensi dibuat ... (*Memberikan sebuah penilaian dan memaparkan kelebihan dan kekurangan suatu karya.*) 
-20. Resensi merupakan jenis teks yang berisi ...
+20. Resensi merupakan jenis teks yang berisi ... (*Ulasan&Penilaian*)
 
 **ESAI**
 1. Apa jenis proposal yang Anda ketahui? (*Proposal Penelitian, Proyek, Kegiatan, Bisnis*)
-2. Jelaskan bahasa yang digunakan dalam penulisan karya ilmiah!
-3. Jelaskan langkah-langkah mengkonstruksi karya ilmiah!
+2. Jelaskan bahasa yang digunakan dalam penulisan karya ilmiah! (*Bahasa dalam karya ilmiah harus menggunakan ragam bahasa tulis baku. Ragam bahasa tulis baku dapat dilihat dari pilihan kata atau istilah yang digunakan, ejaan, kalimat efektif, bermakna denotasi (lugas), dan alur pikir yang logis*)
+3. Jelaskan langkah-langkah mengkonstruksi karya ilmiah! 
 4. Jelaskan apakah yang dimaksud dengan resensi dan tujuannya!
 5. Jelaskan langkah-langkah membuat resensi!
 6. Tuliskan struktur dari resensi!
