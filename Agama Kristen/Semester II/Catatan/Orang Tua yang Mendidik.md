@@ -1,0 +1,29 @@
+# Orang Tua yang Mendidik
+
+- Jelaskan apa yang dimaksud dengan lingkungan pendidik yang pertama dan terutama?
+    - Orang tua/Keluarga memberikan pendidikan pertama sejak lahir
+    - Orang tualah yang mengajarkan mana yang baik dan mana yang tidak baik, yang pertama dan utama. Maka pelajaran moral itu terutama di tangan orang tua.
+- Jelaskan dengan singkat ke-5 pola pendidikan dalam keluarga:
+    - Memanjakan: Memberikan kasih sayang yang berlebihan kepada anak yang berdampak anak bertumbuh menjadi pribadi yang egois dan kurang daya juang, serta kurang menghormati orangtuanya sendiri.
+    - Otoriter: Segala sesuatu ditentukan oleh orang tua. Akan bertumbuh menjadi anak yang tidak bertanggung jawab dan sangat bergantung kepada orang lain.
+    - Membiarkan: Membiarkan anak menentukan apa pun sesuai dengan keinginannya. Akan bertumbuh menjadi anak yang sulit bekerja sama dengan orang lain, suka menentang, dan mementingkan dirinya sendiri.
+    - Protektif: Orang tua mengawasi dan menjaga anaknya karena rasa khawatir yang berlebihan, atau rasa takut yang tidak wajar. Dapat membuat anak menjadi pribadi yang tidak mandiri, kurang inisiatif, dan tidak dapat mengembangkan poitensi dirinya dengan baik.
+    - Otoritatif: Pola yang **wajar dan tepat** untuk menolong perkembangan diri dan potensi anak. Orangtua memberikan motivasi agar anak mengembangkan dirinya sehingga ia bertumbuh dengan karakter diri yang kuat, penuh percaya diri, dan dapat menghargai kehidupan bersama orang lain.
+- Contoh orang tua yang berhasil mendidik anak:
+    - Yosua mengambil keputusan meminpin seluruh keluarganya untuk menyembah kepada Tuhan (Yos. 24:15)
+    - Hana menyerahkan Samuel ke dalam asuhan Imam Eli, sesuai dengan nazarnya kepada Tuhan. (1 Sam. 1:20-28)
+    - Maria dan Yusuf mendidik Yesus dalam tradisi dan hukum Yahudi. (Mat. 12:46-50)
+    - Naomi berhasil memberikan teladan kepada Rut sehingga Rut menjadi bagian dari bangsa Israel dan termasuk dalam silsilah keturunan yang melahirkan Yesus (Rut 1:16-17, Mat. 1:5)
+    - Eunike, ibu yang membesarkan Timotius dalam iman kepada Kristus (2 Tim. 1:5)
+- Contoh orang tua yang gagal mendidik anaknya:
+    - Imam Eli terhadap kedua anaknya, Hofni dan Pinehas (1 Sam. 2:11-17)
+    - Ishak dan Ribka yang pilih kasih terhadap Esau dan Yakub (Kejadian 25:28)
+    - Yakub yang lebih mengasihi Yusuf dan Benyamin daripada anak-anaknya yang lain (Kejadian 37:3-4)
+    - Raja Herodes menuruti keinginan putrinya untuk memenggal kepala Yohanes Pembaptis (Mat. 14:1-12)
+- Orang tua mempunyai tugas dan tanggungjawab sebagai:
+    - Teladan: Menjadi figur yang dicontoh oleh anak.
+    - Motivator: Menjadi pemberi semangat bagi anak.
+    - Teman/sahabat: Menjadi teman untuk berbagi dan sahabat untuk mendengarkan semua cerita, merasakan semua sukacita anak, bahkan menerima keluh kesah anak.
+    - Inspirator: Menjadi figur yang membangun kesadaran anak untuk menjadi pribadi yang lebih baik.
+    - Konselor: Menjadi pendengar dan pembimbing bagimu.
+    - Pengawas: Mengingatkan apabila kamu mengarah kepada hal2 yang merugikan atau membahayakan dirimu, menegur jika kamu melakukan bersalah, memberikan sanksi yang telah ditetapkan bersama dan memberikan reward atau pujian atas semua kemajuan, teladan, atau prestasi yang kamu tunjukkan.
