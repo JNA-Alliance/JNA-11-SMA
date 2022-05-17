@@ -1,9 +1,6 @@
 # Bab 3 - Sistem Hukum dan Peradilan di Indonesia
 
---- DETAILS ---
-Pelajaran: PKN
-Semester: 2
---- DETAILS ---
+- Doktrin: Sumber hukum yang berasal dari hasil pemikiran orang terkenal.
 
 # Sistem Hukum di Indonesia
 - Makna dan Karakteristik Hukum:
@@ -27,9 +24,13 @@ Semester: 2
     - Terdapat sanksi tegas terhadap pelanggaran peraturan
 - Ciri Hukum: **Berisi perintah dan larangan yang harus dipatuhi setiap orang**.
 - Kaidah hukum:
-    - Berisi perintah: 
-    - Berisi larangan: 
-    - Berisi perkenan: Bukan berisi perintah atau larangan tetapi jika dilakukan akan mengikat. (Perjanjian pernikahan/perkawinan)
+    - Dari segi isinya:
+        - **Berisi Perintah**: Mau tidak mau harus dijalankan atau ditaati.
+        - **Berisi Larangan**: Suatu perbuatan yang tidak boleh dilakukan.
+        - **Berisi Perkenan**: Bukan berisi perintah atau larangan tetapi jika dilakukan akan mengikat. (Perjanjian pernikahan/perkawinan)
+    - Dari segi sifatnya:
+        - **Mengatur**: Hukum memuat peraturan-peraturan berupa perintah dan larangan yang mengatur tingkah laku manusia dalam hidup bermasyarakat demi terciptanya ketertiban dalam masyarakat.
+        - **Memaksa**: Hukum dapat memaksa anggota masyarakat untuk mematuhinya. Apabila melanggar hukum akan menerima sanksi tegas.
 - Penggolongan Hukum
     - Menurut sumbernya:
         - Sumber hukum material merupakan faktor pembentukan hukum, misalnya hubungan sosial, hubungan kekuatan politik, situasi sosial ekonomi, tradisi, perkembangan internasional dan keadaan geografis.
