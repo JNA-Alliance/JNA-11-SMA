@@ -19,7 +19,6 @@
     - Sebagai seorang tokoh yang berpengaruh sekaligus ketua PPKI, Soekarno tetap bersedia ikut dengan golongan muda untuk mendengarkan aspirasi serta masukan mereka. Hal tersebut menunjukan sikap mengayomi serta berjiwa besar dari sosok Soekarno.
 6. Tokoh nasionalis yang dipanggil ke Dallat (Vitetnam) oleh Jenderal Terauchi adalah? **Soekarno, Muhammad Hatta, dan Radjiman Wedyodiningrat**
 7. Hasil keputusan sidang PPKI 1 sampai 3 (Halaman 263 sampai 265)
-    -
 8.  Perlawanan Tasikmalaya / Singaparna (Halaman 221)
 9.  Perlawanan PETA di Blitar (Halaman 222)
 10. Tujuan pembentukan BKR (Sidang PPKI 22 Agustus 1945)
