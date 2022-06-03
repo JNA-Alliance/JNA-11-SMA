@@ -30,19 +30,3 @@
     5. Mempunyai aksi spesifik (hanya dapat mengkatalis 1 reaksi tertentu)
     6. Hanya diperlukan dalam jumlah terbatas
     7. Dapat diracuni oleh zat tertentu sehingga menjadi tidak aktif sebagai katallis lagi
-
-# Persamaan Laju Reaksi
-- Persamaan laju reaksi pada umumnya tidak dapat dinyatakan dari persamaan reaksi. 
-- V = k [A]^x [B]^y
-    - V = Laju reaksi
-    - k = Tetapan laju reaksi
-    - x = orde reaksi terhadap A
-    - y = orde reaksi terhadap B
-- x + y adalah orde total tingkat reaksi
-- Orde reaksi adalah bilangan pangkat dari faktor konsentrasi dalam persamaan lajur reaksinya
-- Jika konsentrasi salah satu zat dinaikkan A kali, dan ternyata laju reaksi naik B kali
-- **Cara menentukan orde reaksi:**
-    - Jika ada tahap-tahap reaksi, maka orde reaksi terhadap masing-masing zat adalah koefisien tahap yang paling lambat.
-    - Orde reaksi terhadap suatuu zat dapat ditentukan melalui eksperimen
-
-- 
