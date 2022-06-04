@@ -62,23 +62,23 @@
                 7. Dr. Soekiman Wirjosandjojo (anggota)
             - Sidang Tidak Resmi: 2 Juni - 9 Juli,
     - PPKI (Panitia Persiapan kemerdekaan Indonesia):
-
-4.  Isi Perundingan KMB, degelasi dari Indonesia dan Belanda
-    - **1. Belanda mengakui Republik Indonesia Serikat sebagai negara yang merdeka dan berdaulat.**
-    - **2. RIS dan Kerajaan Belanda akan dibentuk Uni Indonesia Belanda dengan Ratu Belanda sebagai ketuanya.**
-    - **3. Penarikan kapal-kapal perang Belanda dari Indonesia.**
-    - **4. Penarikan Tentara Kerajaan Belanda dari Indoenesia, pembubaran KNIL.**
-    - **5. Pengakuan kedaulatan Indonesia akan dilakukan paling lambat pada tanggal 30 Desember 1949.**
-    - **6. Masalah Irian Barat akan dirundingkan kembali dalam waktu 1 tahun setelah pengakuan kedaulatan RIS.**
-
-    - **Degalasi Indoneisa: Moh.Hatta(ketua), Mr. Moh Roem, Dr.Sopeomo, Ali Sastroamidjojo, Suyono Hadinoto, Sumitro Djojohadikusumo, Abdul Karim Pringgodigdo, T.B Simatupang, Dr.Muwardi**
-    - **Degalasi Belanda: Johannes Henricus van Maarseveen yang menjabat Menteri Seberang Laut (Menteri Urusan Kolonial**
+4.  Konferensi Meja Bundar (KMB)
+    - Isi Perundingan
+        1. Belanda mengakui Republik Indonesia Serikat sebagai negara yang merdeka dan berdaulat.
+        2. RIS dan Kerajaan Belanda akan dibentuk Uni Indonesia Belanda dengan Ratu Belanda sebagai ketuanya.
+        3. Penarikan kapal-kapal perang Belanda dari Indonesia.
+        4. Penarikan Tentara Kerajaan Belanda dari Indoenesia, pembubaran KNIL.
+        5. Pengakuan kedaulatan Indonesia akan dilakukan paling lambat pada tanggal 30 Desember 1949.
+        6. Masalah Irian Barat akan dirundingkan kembali dalam waktu 1 tahun setelah pengakuan kedaulatan RIS.
+    - Delegasi
+        - Indonesia: **Moh.Hatta(ketua), Mr. Moh Roem, Dr.Sopeomo, Ali Sastroamidjojo, Suyono Hadinoto, Sumitro Djojohadikusumo, Abdul Karim Pringgodigdo, T.B Simatupang, Dr.Muwardi**
+        - Belanda: **Johannes Henricus van Maarseveen yang menjabat Menteri Seberang Laut (Menteri Urusan Kolonial**
 5.  Isi Perundingan Linggarjati, degelasi dari Indonesia dan Belanda
     - **1. Pengakuan Belanda secara de facto atas eksistensi Negara Republik Indonesia yang meliputi Sumatera, Jawa, dan Madura.**
     - **2. Republik Indonesia dan Belanda akan bekerja sama membentuk negara Indonesia Serikat, salah satu bagiannya adalah Republik Indonesia.**
     - **3. Republik Indonesia Serikat dan Belanda akan membentuk Uni Indonesia - Belanda dengan Ratu Belanda sebagai ketuanya.**
 
-    - **Delegasi Belanda: Hubertus vanMook dan Prof. Dr. Ir. W. Schermerhorn**
+    - Delegasi Belanda: **Hubertus van Mook** dan **Prof. Dr. Ir. W. Schermerhorn**
     - **Delegasi Indonesia: Soetan Sjahrir, A.K. Gani, Amir Sjarifuddin, Soesanto Tirtoprodjo, Mohammad Roem, dan Ali Boediardjo**
     - **Delegasi Inggris: Lord Inverchapel dan Lord Killearen**
   
