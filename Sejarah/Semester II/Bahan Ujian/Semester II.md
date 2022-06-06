@@ -73,29 +73,29 @@
     - Delegasi
         - Indonesia: **Moh.Hatta(ketua), Mr. Moh Roem, Dr.Sopeomo, Ali Sastroamidjojo, Suyono Hadinoto, Sumitro Djojohadikusumo, Abdul Karim Pringgodigdo, T.B Simatupang, Dr.Muwardi**
         - Belanda: **Johannes Henricus van Maarseveen yang menjabat Menteri Seberang Laut (Menteri Urusan Kolonial**
-5.  Isi Perundingan Linggarjati, degelasi dari Indonesia dan Belanda
-    - **1. Pengakuan Belanda secara de facto atas eksistensi Negara Republik Indonesia yang meliputi Sumatera, Jawa, dan Madura.**
-    - **2. Republik Indonesia dan Belanda akan bekerja sama membentuk negara Indonesia Serikat, salah satu bagiannya adalah Republik Indonesia.**
-    - **3. Republik Indonesia Serikat dan Belanda akan membentuk Uni Indonesia - Belanda dengan Ratu Belanda sebagai ketuanya.**
-
-    - Delegasi Belanda: **Hubertus van Mook** dan **Prof. Dr. Ir. W. Schermerhorn**
-    - **Delegasi Indonesia: Soetan Sjahrir, A.K. Gani, Amir Sjarifuddin, Soesanto Tirtoprodjo, Mohammad Roem, dan Ali Boediardjo**
-    - **Delegasi Inggris: Lord Inverchapel dan Lord Killearen**
+5. Perundingan Linggarjati
+    - Isi:
+        1. Pengakuan Belanda secara de facto atas eksistensi Negara Republik Indonesia yang meliputi Sumatera, Jawa, dan Madura.
+        2. Republik Indonesia dan Belanda akan bekerja sama membentuk negara Indonesia Serikat, salah satu bagiannya adalah Republik Indonesia.
+        3. Republik Indonesia Serikat dan Belanda akan membentuk Uni Indonesia - Belanda dengan Ratu Belanda sebagai ketuanya.
+    - Delegasi dari:
+        - Belanda: **Hubertus van Mook** dan **Prof. Dr. Ir. W. Schermerhorn**
+        - Indonesia: **Soetan Sjahrir, A.K. Gani, Amir Sjarifuddin, Soesanto Tirtoprodjo, Mohammad Roem, dan Ali Boediardjo**
+        - Inggris: **Lord Inverchapel dan Lord Killearen**
   
     - **Perdana mentri: Amir Sjarifuddin**
     - **Wakil: Mr. Ali Sastroamidjojo dan Agus Salim**
     - **Anggota: Dr. Leimena, Mr. Latuharhary, dan Kolonel T.B. Simatupang. Delegasi Belanda dipimpin oleh Raden Abdul Kadir Widjojoatmodjo.**
   
-6.  Komisi Tiga Negara
-    - **Komisi Kantor Baik dibentuk oleh PBB pada tanggal 26 Agustus 1947. Dibentuknya KTN ini bertujuan untuk menengahi konflik yang terjadi antara Indonesia dan Belanda pada Agresi Militer Belanda. Terdapat tiga negara yang menjadi anggota dalam Komisi Tiga Negara Amerika Serikat, Australia, dan Belgia.**
-    - **Latar belakang. Pada masa Agresi Militer Belanda I, Indonesia dan Belanda masih terus berseteru, karena Belanda belum menyerah untuk menguasai tanah air. Karena masalah Agresi Militer Belanda antara Indonesia dan Belanda tidak kunjung usai, pemerintah Indonesia mengundang Menteri Luar Negeri Australia, Herbert Vere Evatt, untuk turut membantu menyelesaikannya.**
-    
-    **Sebagai bentuk bantuan Australia kepada Indonesia, Evatt berencana membawa permasalahan ini ke Dewan Keamanan PBB. Tindakan ini mendapat dukungan dari Perdana Menteri Australia, Joseph Benedict Chifley. Permasalahan Indonesia kemudian diterima oleh Dewan Keamanan PBB pada 30 Juli 1947.**
-
-    **Selanjutnya, pada tanggal 25 Agustus 1947, Amerika Serikat turut memberi usulan yang berisi tawaran "jasa baik" kepada Indonesia dan Belanda, yaitu dibentuknya suatu komisi yang terdiri dari tiga anggota dewan, dua di antaranya dipilih oleh masing-masing pihak, dan anggota ketiga ditentukan oleh dua anggota yang sudah terpilih.**
-
-    **terbentuklah Komisi Tiga Negara atau Komisi Kantor Baik (Good Offices Comittee).**
-
+6.  Komisi Tiga Negara (Komisi Kantor Baik)
+    - Dibentuk oleh PBB pada tanggal **26 Agustus 1947**. 
+    - Bertujuan untuk menengahi konflik yang terjadi antara Indonesia dan Belanda pada Agresi Militer Belanda. 
+    - Anggota: **Amerika Serikat, Australia, dan Belgia**.
+    - Latar belakang:
+        - Pada masa Agresi Militer Belanda I, Indonesia dan Belanda masih terus berseteru, karena Belanda belum menyerah untuk menguasai tanah air. Karena masalah Agresi Militer Belanda antara Indonesia dan Belanda tidak kunjung usai, pemerintah Indonesia mengundang Menteri Luar Negeri Australia, Herbert Vere Evatt, untuk turut membantu menyelesaikannya.
+        - Sebagai bentuk bantuan Australia kepada Indonesia, Evatt berencana membawa permasalahan ini ke Dewan Keamanan PBB. Tindakan ini mendapat dukungan dari Perdana Menteri Australia, Joseph Benedict Chifley. Permasalahan Indonesia kemudian diterima oleh Dewan Keamanan PBB pada 30 Juli 1947.
+        - Selanjutnya, pada tanggal 25 Agustus 1947, Amerika Serikat turut memberi usulan yang berisi tawaran "jasa baik" kepada Indonesia dan Belanda, yaitu dibentuknya suatu komisi yang terdiri dari tiga anggota dewan, dua di antaranya dipilih oleh masing-masing pihak, dan anggota ketiga ditentukan oleh dua anggota yang sudah terpilih.
+        - terbentuklah Komisi Tiga Negara atau Komisi Kantor Baik (Good Offices Comittee).
 7.  Perang Padri
     - **Perang Padri adalah perang saudara yang pernah terjadi di Minangkabau, tepatnya di wilayah Kerajaan Pagaruyung.Latar belakang sejarah Perang Padri berawal dari masalah agama dan adat, sebelum penjajah Belanda ikut campur tangan. Pertikaian antara sesama orang Minang ini berlangsung pada awal abad ke-17 Masehi, tepatnya dari tahun 1803 hingga 1838. Ada beberapa golongan yang terlibat, yakni kaum Padri, kaum adat, serta Belanda yang kemudian menerapkan taktik licik untuk memecah-belah rakyat Minangkabau.**
     - **Pada akhirnya, peperangan ini menjadi ajang perlawanan rakyat Minangkabau melawan penjajah Belanda**
@@ -112,10 +112,9 @@
     **Rakyat Maluku pun mundur karena kekurangan pasokan makanan. Demi menyelamatkan rakyat dari kelaparan, Thomas Mattulessia atau Patimurra menyerahkan diri dan dihukum mati.**
     - **dua tokoh yang terlibat dalam perlawanan tersebut, yakni Patimurra sebagai pemimpin perlawanan pertama dan pejuang perempuan Khristina Martha Tiahahu.**
 9.  NICA dan AFNEI
-    - **AFNEI (Allied Forces Netherlands East Indies), pasukan sekutu yang dikirim ke Indonesia setelah perang dunia II selesai bertugas melucuti persenjataan Jepang, membebaskan tawanana perang jepang, dan mengembalikan Indonesia kembali menjadi kekuasaan belanda yg dibawah adminitrasi NICA.**
-    - **NICA (Netherlands Indies Civil Administration), tentara sekutu yg bertugas mengontrol daerah hindia belanda setelah jepang menyerah tanpa syarat kepada sekutu pada PDII.**
-10. Teks proklamasi, kalimat pertama siap yg mengusulkan?, kalimat kedua siapa yg mengusulkan?.
-    - **Kalimat pertama: Ahmad Soebardjo**
-    - **Kalimat kedua: Moh.hatta**
-11. Proses perumusan proklamasi kemerdekaan Indonesia
-    - **Disusun oleh Soekarno, Hatta, dan Ahmad Soebardjo, diketik oleh Sayuti Melik, ditandatangani oleh Soekarno dan Hatta, lalu dibacakan oleh Soekarno.**
+    - AFNEI (Allied Forces Netherlands East Indies): Pasukan sekutu yang dikirim ke Indonesia setelah perang dunia II selesai, bertugas melucuti persenjataan Jepang, membebaskan tawanana perang Jepang, dan mengembalikan Indonesia kembali menjadi kekuasaan Belanda yang dibawah administrasi NICA.
+    - NICA (Netherlands Indies Civil Administration), tentara sekutu yg bertugas mengontrol daerah hindia belanda setelah jepang menyerah tanpa syarat kepada sekutu pada PDII.
+10. Teks Proklamasi, Kalimat diusulkan oleh...
+    - Kalimat pertama: **Ahmad Soebardjo**
+    - Kalimat kedua: **Moh. Hatta**
+11. Proses perumusan proklamasi kemerdekaan Indonesia: **Disusun oleh** Soekarno, Hatta, dan Ahmad Soebardjo. **Diketik oleh** Sayuti Melik. **Ditandatangani** oleh Soekarno dan Hatta. **Dibacakan oleh** Soekarno.
