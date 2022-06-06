@@ -62,7 +62,15 @@
                 7. Dr. Soekiman Wirjosandjojo (anggota)
             - Sidang Tidak Resmi: 2 Juni - 9 Juli,
     - PPKI (Panitia Persiapan kemerdekaan Indonesia):
-4.  Konferensi Meja Bundar (KMB)
+4.  Perundingan Renville
+    - Isi Perundingan
+        1. Belanda hanya mengakui Jawa Tengah, Yogyakarta, dan Sumatera sebagain bagian wilayah RI.
+        2. Disetujuinya sebuah garis demarkasi yang memisahkan wilayah Indoensia dan daerah pendudukan Belanda, yang kemudian disebut Garis Van Mook.
+        3. TNI harus ditarik mundur dari daerah-daerah kantongya di walayah pendudukan di Jawa Timur Indonesia di Yogyakarta
+    - Delegasi
+      - Indonesia: **Amir Sjarifuddin (Perdana Mentri), Mr. Ali Sastroamidjojo (Wakil) Agus Salim (Wakil), Dr. Leimena, Mr. Latuharhary, dan Kolonel T.B. Simatupang.**
+      - Belanda: **Raden Abdul Kadir Widjojoatmodjo.**
+5.  Konferensi Meja Bundar (KMB)
     - Isi Perundingan
         1. Belanda mengakui Republik Indonesia Serikat sebagai negara yang merdeka dan berdaulat.
         2. RIS dan Kerajaan Belanda akan dibentuk Uni Indonesia Belanda dengan Ratu Belanda sebagai ketuanya.
@@ -73,7 +81,7 @@
     - Delegasi
         - Indonesia: **Moh.Hatta(ketua), Mr. Moh Roem, Dr.Sopeomo, Ali Sastroamidjojo, Suyono Hadinoto, Sumitro Djojohadikusumo, Abdul Karim Pringgodigdo, T.B Simatupang, Dr.Muwardi**
         - Belanda: **Johannes Henricus van Maarseveen yang menjabat Menteri Seberang Laut (Menteri Urusan Kolonial**
-5. Perundingan Linggarjati
+6. Perundingan Linggarjati
     - Isi:
         1. Pengakuan Belanda secara de facto atas eksistensi Negara Republik Indonesia yang meliputi Sumatera, Jawa, dan Madura.
         2. Republik Indonesia dan Belanda akan bekerja sama membentuk negara Indonesia Serikat, salah satu bagiannya adalah Republik Indonesia.
@@ -83,11 +91,9 @@
         - Indonesia: **Soetan Sjahrir, A.K. Gani, Amir Sjarifuddin, Soesanto Tirtoprodjo, Mohammad Roem, dan Ali Boediardjo**
         - Inggris: **Lord Inverchapel dan Lord Killearen**
   
-    - **Perdana mentri: Amir Sjarifuddin**
-    - **Wakil: Mr. Ali Sastroamidjojo dan Agus Salim**
-    - **Anggota: Dr. Leimena, Mr. Latuharhary, dan Kolonel T.B. Simatupang. Delegasi Belanda dipimpin oleh Raden Abdul Kadir Widjojoatmodjo.**
+    
   
-6.  Komisi Tiga Negara (Komisi Kantor Baik)
+7.  Komisi Tiga Negara (Komisi Kantor Baik)
     - Dibentuk oleh PBB pada tanggal **26 Agustus 1947**. 
     - Bertujuan untuk menengahi konflik yang terjadi antara Indonesia dan Belanda pada Agresi Militer Belanda. 
     - Anggota: **Amerika Serikat, Australia, dan Belgia**.
@@ -96,11 +102,11 @@
         - Sebagai bentuk bantuan Australia kepada Indonesia, Evatt berencana membawa permasalahan ini ke Dewan Keamanan PBB. Tindakan ini mendapat dukungan dari Perdana Menteri Australia, Joseph Benedict Chifley. Permasalahan Indonesia kemudian diterima oleh Dewan Keamanan PBB pada 30 Juli 1947.
         - Selanjutnya, pada tanggal 25 Agustus 1947, Amerika Serikat turut memberi usulan yang berisi tawaran "jasa baik" kepada Indonesia dan Belanda, yaitu dibentuknya suatu komisi yang terdiri dari tiga anggota dewan, dua di antaranya dipilih oleh masing-masing pihak, dan anggota ketiga ditentukan oleh dua anggota yang sudah terpilih.
         - terbentuklah Komisi Tiga Negara atau Komisi Kantor Baik (Good Offices Comittee).
-7.  Perang Padri
+8.  Perang Padri
     - **Perang Padri adalah perang saudara yang pernah terjadi di Minangkabau, tepatnya di wilayah Kerajaan Pagaruyung.Latar belakang sejarah Perang Padri berawal dari masalah agama dan adat, sebelum penjajah Belanda ikut campur tangan. Pertikaian antara sesama orang Minang ini berlangsung pada awal abad ke-17 Masehi, tepatnya dari tahun 1803 hingga 1838. Ada beberapa golongan yang terlibat, yakni kaum Padri, kaum adat, serta Belanda yang kemudian menerapkan taktik licik untuk memecah-belah rakyat Minangkabau.**
     - **Pada akhirnya, peperangan ini menjadi ajang perlawanan rakyat Minangkabau melawan penjajah Belanda**
     - **golongan Padri yang digalang Harimau nan Salapan berhasil menyudutkan kaum Adat. Beberapa tokoh terkemuka dari Harimau nan Salapan di antaranya adalah Tuanku Nan Receh, Tuanku Pasaman, Tuanku Rao, Tuanku Tambusai, Tuanku Lintau, Tuanku Mansiangan, Tuanku Pandai Sikek, dan Tuanku Barumun.**
-8.  Perlawanan Maluku
+9.  Perlawanan Maluku
     - **salah satu perlawanan terhebat di negeri ini. Kawasan ini selalu menjadi incaran negara asing karena kekayaan rempah-rempah. Latar belakang perlawanan rakyat Maluku mengusir bangsa Belanda karena adanya praktik monopoli dan sistem pelayaran Hongi yang membuat rakyat sengsara.**
   
     - **Perlawanan rakyat Maluku muncul pada tahun 1635 di bawah pimpinan Kakiali, Kapitan Hitu. Saat Kakiali tewas terbunuh, perjuangannya dilanjutkan Kapitan Tulukabessy. Perlawanan ini baru dapat dipadamkan pada tahun 1646. Sampai akhir abad ke-18 tak terdengar lagi perlawanan pada VOC.**
@@ -111,10 +117,10 @@
 
     **Rakyat Maluku pun mundur karena kekurangan pasokan makanan. Demi menyelamatkan rakyat dari kelaparan, Thomas Mattulessia atau Patimurra menyerahkan diri dan dihukum mati.**
     - **dua tokoh yang terlibat dalam perlawanan tersebut, yakni Patimurra sebagai pemimpin perlawanan pertama dan pejuang perempuan Khristina Martha Tiahahu.**
-9.  NICA dan AFNEI
+10. NICA dan AFNEI
     - AFNEI (Allied Forces Netherlands East Indies): Pasukan sekutu yang dikirim ke Indonesia setelah perang dunia II selesai, bertugas melucuti persenjataan Jepang, membebaskan tawanana perang Jepang, dan mengembalikan Indonesia kembali menjadi kekuasaan Belanda yang dibawah administrasi NICA.
     - NICA (Netherlands Indies Civil Administration), tentara sekutu yg bertugas mengontrol daerah hindia belanda setelah jepang menyerah tanpa syarat kepada sekutu pada PDII.
-10. Teks Proklamasi, Kalimat diusulkan oleh...
+11. Teks Proklamasi, Kalimat diusulkan oleh...
     - Kalimat pertama: **Ahmad Soebardjo**
     - Kalimat kedua: **Moh. Hatta**
-11. Proses perumusan proklamasi kemerdekaan Indonesia: **Disusun oleh** Soekarno, Hatta, dan Ahmad Soebardjo. **Diketik oleh** Sayuti Melik. **Ditandatangani** oleh Soekarno dan Hatta. **Dibacakan oleh** Soekarno.
+12. Proses perumusan proklamasi kemerdekaan Indonesia: **Disusun oleh** Soekarno, Hatta, dan Ahmad Soebardjo. **Diketik oleh** Sayuti Melik. **Ditandatangani** oleh Soekarno dan Hatta. **Dibacakan oleh** Soekarno.
