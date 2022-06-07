@@ -124,9 +124,38 @@
     3. Menegakkan serta memelihara kondisi damai untuk diserahkan kepada pemerintahan sipil.
     4. Mencari informasi tentang para penjahat Jepang untuk selanjutnya diserahkan kepada pengadilan Sekutu.
 8. Serangan Umum 1 Maret 1949:
-    - Latar Belakang: Keinginan para pejuang kemerdekaan untuk menunjukkan bahwa perjuangan dan eksistensi negara Indonesia masih ada meski para pemimpin bangsa sedang ditawan Belanda selepas Agresi Militer II.
-    - 
-9.  Perundingan Renville
+    - Latar Belakang: Keinginan para pejuang kemerdekaan untuk menunjukkan bahwa perjuangan dan eksistensi negara Indonesia masih ada meski para pemimpin bangsa sedang ditawan Belanda selepas Agresi Militer II. Untuk merebut kembali kota Yogyakarta
+    - Dalam 6 jam, TNI berhasil merebut kembali kota Yogyakarta. Serangan dimulai dari jam 6 pagi.
+    - Serangan dipimpin oleh **Jenderal Sudirman** dan dilaksanakan oleh TNI, Laskar Indonesia, dan Rakyat Bersenjata.
+    - Salah satu komandan lapangan salah tanggap dan menembaki musuh 1 hari sebelumnya (28 Febuari).
+    - Kemenangan TNI menyebar sampai ke Washington DC dimana saat itu PBB sedang bersidang. Dengan kemenangan Serangan Umum 1 Maret, Indonesia memiliki posisi yang kuat di dalam PBB.
+    - Kemenangan ini menjadi bukti bahwa TNI masih utuh dengan Negara Republik Indonesia (Tidak hilang/mati seperti yang dipropagandakan). 
+9. Pertempuran 10 November 1945 (Surabaya)
+    - Dikenal juga sebagai Pertempuran Besar Pertama Bangsa Indonesia dan simbol nasional perlawanan Indonesia terhadap kolonialisme.
+    - Bung Tomo membakar semangat para pejuang.
+    - Jenderal Inggris yang mati adalah A.W.S. Mallaby yang sedang menumpangi mobil Buick hendak melintasi Jembatan Merah.
+    - Faktor terjadinya: 
+        - Pasukan Inggris melanggar kesepakatan dengan menduduki kantor pos besar, pangkalan angkatan laut di Tanjung Perak, gedung Bank Inderio, serta lokasi-lokasi penting lainnya.
+        - Menjatuhkan pamflet pada 27 Oktober 1945 memerintahkan agar rakyat Surabaya dan Jawa Timur menyerahkan senjata yang telah dirampas dari Jepang.
+10. Peristiwa bandung Lautan Api
+    - Pada 23 Maret 1946, Bandung dibumihanguskan untuk mencegah tentara Sekutu dan NICA memanfaatkannya.
+    - Dilakukan akibat ultimatum untuk mengosongkan area Bandung paling lambat tanggal 24 Maret sejauh 11km dari tanda kilometer nol.
+    - Kolonel A.H. Nasution diperintahkan oleh Sutan Syahrir untuk menuruti ultimatum.
+    - Koloneh A.H. Nasution melakukan rapat besar (Madjelis Persatoean Perdjoangan Priangan) yang menginstruksikan agar Bandung di bumihanguskan.
+    - Mohammad Toha dan Mohammad Ramdan meledakkan gudang amunisi Belanda. Mereka berdua gugur dalam aksi. 
+11. Pertempuran palagan Ambarawa
+    - Sekutu, dibawah pimpinan Brigadir Bethell mendarat di Semarang pada 20 Oktober 1945.
+    - Kontak senjata pertama antara Sekutu dan TKR terjadi di Magelang pada 26 Oktober akibat Sekutu mempersenjatai bekas tawanan perang.
+    - Pada 2 November, Presiden Soekarno bertemu dengan Brigadir Bethell dan menghasilkan sejumlah kesepakatan.
+    - Pihak Sekutu kemudian melanggar kesepakatan tersebut dan akhirnya terjadi pertempuran pada tanggal 20 November 1945.
+    - Letnan Kolonel Isdiman gugur dan digantikan oleh Kolonel Soedirman.
+    - Pada 15 Desember 1945, Ambarawa berhasil direbut kembali.
+12. Permasalahan bidang ekonomi yang dihadapi Indonesia pada awal kemerdekaan: **hiperinflasi, blokade ekonomi Belanda, dan kekosongan kas negara**.
+13. Agresi Militer Belanda
+    1. Pertama
+    2. Kedua
+14. Kapan Belanda mengakui kedaulatan Indonesia? **27 Desember 1949** di Amsterdam dan di Jakarta. 
+15. Perundingan Renville
     - Isi Perundingan
         1. Belanda hanya mengakui Jawa Tengah, Yogyakarta, dan Sumatera sebagain bagian wilayah RI.
         2. Disetujuinya sebuah garis demarkasi yang memisahkan wilayah Indoensia dan daerah pendudukan Belanda, yang kemudian disebut Garis Van Mook.
@@ -134,7 +163,7 @@
     - Delegasi
       - Indonesia: **Amir Sjarifuddin (Perdana Mentri), Mr. Ali Sastroamidjojo (Wakil) Agus Salim (Wakil), Dr. Leimena, Mr. Latuharhary, dan Kolonel T.B. Simatupang.**
       - Belanda: **Raden Abdul Kadir Widjojoatmodjo.**
-10. Konferensi Meja Bundar (KMB)
+16. Konferensi Meja Bundar (KMB)
     - Isi Perundingan
         1. Belanda mengakui Republik Indonesia Serikat sebagai negara yang merdeka dan berdaulat.
         2. RIS dan Kerajaan Belanda akan dibentuk Uni Indonesia Belanda dengan Ratu Belanda sebagai ketuanya.
@@ -145,7 +174,7 @@
     - Delegasi
         - Indonesia: **Moh.Hatta(ketua), Mr. Moh Roem, Dr.Sopeomo, Ali Sastroamidjojo, Suyono Hadinoto, Sumitro Djojohadikusumo, Abdul Karim Pringgodigdo, T.B Simatupang, Dr.Muwardi**
         - Belanda: **Johannes Henricus van Maarseveen yang menjabat Menteri Seberang Laut (Menteri Urusan Kolonial**
-11. Perundingan Linggarjati
+17. Perundingan Linggarjati
     - Isi:
         1. Pengakuan Belanda secara de facto atas eksistensi Negara Republik Indonesia yang meliputi Sumatera, Jawa, dan Madura.
         2. Republik Indonesia dan Belanda akan bekerja sama membentuk negara Indonesia Serikat, salah satu bagiannya adalah Republik Indonesia.
@@ -154,10 +183,7 @@
         - Belanda: **Hubertus van Mook** dan **Prof. Dr. Ir. W. Schermerhorn**
         - Indonesia: **Soetan Sjahrir, A.K. Gani, Amir Sjarifuddin, Soesanto Tirtoprodjo, Mohammad Roem, dan Ali Boediardjo**
         - Inggris: **Lord Inverchapel dan Lord Killearen**
-  
-    
-  
-12. Komisi Tiga Negara (Komisi Kantor Baik)
+18. Komisi Tiga Negara (Komisi Kantor Baik)
     - Dibentuk oleh PBB pada tanggal **26 Agustus 1947**. 
     - Bertujuan untuk menengahi konflik yang terjadi antara Indonesia dan Belanda pada Agresi Militer Belanda. 
     - Anggota: **Amerika Serikat, Australia, dan Belgia**.
@@ -166,11 +192,11 @@
         - Sebagai bentuk bantuan Australia kepada Indonesia, Evatt berencana membawa permasalahan ini ke Dewan Keamanan PBB. Tindakan ini mendapat dukungan dari Perdana Menteri Australia, Joseph Benedict Chifley. Permasalahan Indonesia kemudian diterima oleh Dewan Keamanan PBB pada 30 Juli 1947.
         - Selanjutnya, pada tanggal 25 Agustus 1947, Amerika Serikat turut memberi usulan yang berisi tawaran "jasa baik" kepada Indonesia dan Belanda, yaitu dibentuknya suatu komisi yang terdiri dari tiga anggota dewan, dua di antaranya dipilih oleh masing-masing pihak, dan anggota ketiga ditentukan oleh dua anggota yang sudah terpilih.
         - terbentuklah Komisi Tiga Negara atau Komisi Kantor Baik (Good Offices Comittee).
-13. Perang Padri
+19. Perang Padri
     - **Perang Padri adalah perang saudara yang pernah terjadi di Minangkabau, tepatnya di wilayah Kerajaan Pagaruyung.Latar belakang sejarah Perang Padri berawal dari masalah agama dan adat, sebelum penjajah Belanda ikut campur tangan. Pertikaian antara sesama orang Minang ini berlangsung pada awal abad ke-17 Masehi, tepatnya dari tahun 1803 hingga 1838. Ada beberapa golongan yang terlibat, yakni kaum Padri, kaum adat, serta Belanda yang kemudian menerapkan taktik licik untuk memecah-belah rakyat Minangkabau.**
     - **Pada akhirnya, peperangan ini menjadi ajang perlawanan rakyat Minangkabau melawan penjajah Belanda**
     - **golongan Padri yang digalang Harimau nan Salapan berhasil menyudutkan kaum Adat. Beberapa tokoh terkemuka dari Harimau nan Salapan di antaranya adalah Tuanku Nan Receh, Tuanku Pasaman, Tuanku Rao, Tuanku Tambusai, Tuanku Lintau, Tuanku Mansiangan, Tuanku Pandai Sikek, dan Tuanku Barumun.**
-14. Perlawanan Maluku
+20. Perlawanan Maluku
     - **salah satu perlawanan terhebat di negeri ini. Kawasan ini selalu menjadi incaran negara asing karena kekayaan rempah-rempah. Latar belakang perlawanan rakyat Maluku mengusir bangsa Belanda karena adanya praktik monopoli dan sistem pelayaran Hongi yang membuat rakyat sengsara.**
   
     - **Perlawanan rakyat Maluku muncul pada tahun 1635 di bawah pimpinan Kakiali, Kapitan Hitu. Saat Kakiali tewas terbunuh, perjuangannya dilanjutkan Kapitan Tulukabessy. Perlawanan ini baru dapat dipadamkan pada tahun 1646. Sampai akhir abad ke-18 tak terdengar lagi perlawanan pada VOC.**
@@ -181,7 +207,7 @@
 
     **Rakyat Maluku pun mundur karena kekurangan pasokan makanan. Demi menyelamatkan rakyat dari kelaparan, Thomas Mattulessia atau Patimurra menyerahkan diri dan dihukum mati.**
     - **dua tokoh yang terlibat dalam perlawanan tersebut, yakni Patimurra sebagai pemimpin perlawanan pertama dan pejuang perempuan Khristina Martha Tiahahu.**
-15.  NICA dan AFNEI
+21.  NICA dan AFNEI
     - AFNEI (Allied Forces Netherlands East Indies): 
         - Masuk ke Indonesia pada **29 September 1945** dipimpin oleh Letnan **Jenderal Sir Philip Christison**.
         - Pasukan sekutu yang dikirim ke Indonesia setelah perang dunia II selesai, bertugas melucuti persenjataan Jepang, membebaskan tawananan perang Jepang, dan mengembalikan Indonesia kembali menjadi kekuasaan Belanda yang dibawah administrasi NICA.
@@ -189,7 +215,7 @@
         - Dibentuk tanggal **3 April 1944** di Australia
         - **H.J. Van Mook** (Belanda) dan **Jenderal Douglas MacArthur** (Amerika) bersepakat bahwasannya bila jika nanti Hindia Belanda berhasil direbut oleh pasukan sekutu, maka Hindia Belanda akan diserahkan kepada pemerintahan sipil NICA.
         - Bertujuan untuk: **menegakkan kembali kekuasaan kolonial Belanda di Indonesia/Hindia Belanda**.
-16. Teks Proklamasi, Kalimat diusulkan oleh...
+22. Teks Proklamasi, Kalimat diusulkan oleh...
     - Kalimat pertama: **Ahmad Soebardjo**
     - Kalimat kedua: **Moh. Hatta**
-17. Proses perumusan proklamasi kemerdekaan Indonesia: **Disusun oleh** Soekarno, Hatta, dan Ahmad Soebardjo. **Diketik oleh** Sayuti Melik. **Ditandatangani** oleh Soekarno dan Hatta. **Dibacakan oleh** Soekarno.
+23. Proses perumusan proklamasi kemerdekaan Indonesia: **Disusun oleh** Soekarno, Hatta, dan Ahmad Soebardjo. **Diketik oleh** Sayuti Melik. **Ditandatangani** oleh Soekarno dan Hatta. **Dibacakan oleh** Soekarno.
