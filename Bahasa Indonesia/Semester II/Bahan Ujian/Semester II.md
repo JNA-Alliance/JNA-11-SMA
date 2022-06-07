@@ -1,7 +1,7 @@
 1. Bacalah kutipan teks berikut:
     Bahasa yang digunakan dalam buku "Pentingnya Jiwa Berwirausaha Sejak Dini" terlalu ilmiah. Sehingga pembaca umum mengalami kesulitan dalam memahami isi buku.
     Kutipan diatas merupakan bagian **Kelemahan Buku**
-2. Anggaran biaya dalam proposal berisi **Perkiraan dana/Tarif**
+2. Anggaran biaya dalam proposal berisi **Perkiraan dana/tarif**
 3. Hal yang perlu diulas dalam proposal adalah pada bagian dasar pemikiran (latar belakang) adalah **Alasan-alasan pentingnya untuk melakukan suatu kegiatan**
 4. Tema karya tulis: Perlindungan terhadap perokok pasif 
     Latar belakang yang sesuai dengan tema tersebut adalah: **Banyak perokok tidak menyadari dampak asap rokok terhadap orang di sekitarnya**
