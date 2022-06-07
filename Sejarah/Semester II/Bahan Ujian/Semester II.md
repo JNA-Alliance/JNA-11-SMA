@@ -124,7 +124,8 @@
     3. Menegakkan serta memelihara kondisi damai untuk diserahkan kepada pemerintahan sipil.
     4. Mencari informasi tentang para penjahat Jepang untuk selanjutnya diserahkan kepada pengadilan Sekutu.
 8. Serangan Umum 1 Maret 1949:
-    
+    - Latar Belakang: Keinginan para pejuang kemerdekaan untuk menunjukkan bahwa perjuangan dan eksistensi negara Indonesia masih ada meski para pemimpin bangsa sedang ditawan Belanda selepas Agresi Militer II.
+    - 
 9.  Perundingan Renville
     - Isi Perundingan
         1. Belanda hanya mengakui Jawa Tengah, Yogyakarta, dan Sumatera sebagain bagian wilayah RI.
