@@ -193,20 +193,21 @@
         - Selanjutnya, pada tanggal 25 Agustus 1947, Amerika Serikat turut memberi usulan yang berisi tawaran "jasa baik" kepada Indonesia dan Belanda, yaitu dibentuknya suatu komisi yang terdiri dari tiga anggota dewan, dua di antaranya dipilih oleh masing-masing pihak, dan anggota ketiga ditentukan oleh dua anggota yang sudah terpilih.
         - terbentuklah Komisi Tiga Negara atau Komisi Kantor Baik (Good Offices Comittee).
 19. Perang Padri
-    - **Perang Padri adalah perang saudara yang pernah terjadi di Minangkabau, tepatnya di wilayah Kerajaan Pagaruyung.Latar belakang sejarah Perang Padri berawal dari masalah agama dan adat, sebelum penjajah Belanda ikut campur tangan. Pertikaian antara sesama orang Minang ini berlangsung pada awal abad ke-17 Masehi, tepatnya dari tahun 1803 hingga 1838. Ada beberapa golongan yang terlibat, yakni kaum Padri, kaum adat, serta Belanda yang kemudian menerapkan taktik licik untuk memecah-belah rakyat Minangkabau.**
-    - **Pada akhirnya, peperangan ini menjadi ajang perlawanan rakyat Minangkabau melawan penjajah Belanda**
-    - **golongan Padri yang digalang Harimau nan Salapan berhasil menyudutkan kaum Adat. Beberapa tokoh terkemuka dari Harimau nan Salapan di antaranya adalah Tuanku Nan Receh, Tuanku Pasaman, Tuanku Rao, Tuanku Tambusai, Tuanku Lintau, Tuanku Mansiangan, Tuanku Pandai Sikek, dan Tuanku Barumun.**
+    - Perang Padri adalah perang saudara yang pernah terjadi di Minangkabau, tepatnya di wilayah Kerajaan Pagaruyung.
+    - Latar belakang:
+        - sejarah Perang Padri berawal dari masalah agama dan adat, sebelum penjajah Belanda ikut campur tangan. Pertikaian antara sesama orang Minang ini berlangsung pada awal abad ke-17 Masehi, tepatnya dari tahun 1803 hingga 1838. 
+        - Ada beberapa golongan yang terlibat, yakni kaum Padri, kaum adat, serta Belanda yang kemudian menerapkan taktik licik untuk memecah-belah rakyat Minangkabau.
+        - Pada akhirnya, peperangan ini menjadi ajang perlawanan rakyat Minangkabau melawan penjajah Belanda
+    - Beberapa tokoh terkemuka dari Harimau nan Salapan di antaranya adalah: **Tuanku Nan Receh, Tuanku Pasaman, Tuanku Rao, Tuanku Tambusai, Tuanku Lintau, Tuanku Mansiangan, Tuanku Pandai Sikek, dan Tuanku Barumun**.
 20. Perlawanan Maluku
-    - **salah satu perlawanan terhebat di negeri ini. Kawasan ini selalu menjadi incaran negara asing karena kekayaan rempah-rempah. Latar belakang perlawanan rakyat Maluku mengusir bangsa Belanda karena adanya praktik monopoli dan sistem pelayaran Hongi yang membuat rakyat sengsara.**
-  
-    - **Perlawanan rakyat Maluku muncul pada tahun 1635 di bawah pimpinan Kakiali, Kapitan Hitu. Saat Kakiali tewas terbunuh, perjuangannya dilanjutkan Kapitan Tulukabessy. Perlawanan ini baru dapat dipadamkan pada tahun 1646. Sampai akhir abad ke-18 tak terdengar lagi perlawanan pada VOC.**
-
-    **Baru kemudian muncul nama Sultan Jamaluddin, dan Sultan Nuku dari Tidore. Namun VOC dengan cepat bisa memadamkan perlawanan itu. Lalu pada 1817 muncul tokoh dari di Pulau Saparua bernama Pattimura. Dalam aksi Pattimura itu, Benteng Duurstede berhasil dihancurkan oleh rakyat Maluku. Bahkan, Residen Belanda Van den Bergh terbunuh dalam peristiwa tersebut.**
-
-    **Belanda terus membawa pasukan dari Ambon hingga Jawa demi mengalahkan rakyat Maluku. Peristiwa ini menjalar ke kota lainnya di Maluku, seperti Ambon, Seram, dan pulau lainnya agar rakyat Maluku mundur.**
-
-    **Rakyat Maluku pun mundur karena kekurangan pasokan makanan. Demi menyelamatkan rakyat dari kelaparan, Thomas Mattulessia atau Patimurra menyerahkan diri dan dihukum mati.**
-    - **dua tokoh yang terlibat dalam perlawanan tersebut, yakni Patimurra sebagai pemimpin perlawanan pertama dan pejuang perempuan Khristina Martha Tiahahu.**
+    - salah satu perlawanan terhebat di negeri ini. Kawasan ini selalu menjadi incaran negara asing karena kekayaan rempah-rempah.
+    - Latar belakang:
+        - Latar belakang perlawanan rakyat Maluku mengusir bangsa Belanda karena adanya praktik monopoli dan sistem pelayaran Hongi yang membuat rakyat sengsara.
+        - Perlawanan rakyat Maluku muncul pada tahun 1635 di bawah pimpinan Kakiali, Kapitan Hitu. Saat Kakiali tewas terbunuh, perjuangannya dilanjutkan Kapitan Tulukabessy. Perlawanan ini baru dapat dipadamkan pada tahun 1646. Sampai akhir abad ke-18 tak terdengar lagi perlawanan pada VOC.
+        - Baru kemudian muncul nama Sultan Jamaluddin, dan Sultan Nuku dari Tidore. Namun VOC dengan cepat bisa memadamkan perlawanan itu. Lalu pada 1817 muncul tokoh dari di Pulau Saparua bernama Pattimura. Dalam aksi Pattimura itu, Benteng Duurstede berhasil dihancurkan oleh rakyat Maluku. Bahkan, Residen Belanda Van den Bergh terbunuh dalam peristiwa tersebut.
+        - Belanda terus membawa pasukan dari Ambon hingga Jawa demi mengalahkan rakyat Maluku. Peristiwa ini menjalar ke kota lainnya di Maluku, seperti Ambon, Seram, dan pulau lainnya agar rakyat Maluku mundur.
+        - Rakyat Maluku pun mundur karena kekurangan pasokan makanan. Demi menyelamatkan rakyat dari kelaparan, Thomas Mattulessia atau Patimurra menyerahkan diri dan dihukum mati.
+    - Dua tokoh yang terlibat dalam perlawanan tersebut, yakni **Patimurra sebagai pemimpin perlawanan pertama dan pejuang perempuan Khristina Martha Tiahahu**.
 21.  NICA dan AFNEI
     - AFNEI (Allied Forces Netherlands East Indies): 
         - Masuk ke Indonesia pada **29 September 1945** dipimpin oleh Letnan **Jenderal Sir Philip Christison**.
