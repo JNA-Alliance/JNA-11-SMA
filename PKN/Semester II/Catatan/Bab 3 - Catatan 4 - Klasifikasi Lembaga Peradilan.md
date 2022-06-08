@@ -1,1 +1,26 @@
 # Klasifikasi Lembaga Peradilan
+
+- Berdasrakan UU No. 48 tahun 2009, badan peradilan dapat diklasifikasikan sebagai:
+    - **Peradilan Umum**
+        - Pengadilan Negri
+        - Pengadilan Tinggi
+        - Pengadilan Khusus, mencakup:
+            - Pengadilan Anak
+            - Pengadilan Niaga
+            - Pengadilan Hak Asasi Manusia
+            - Pengadilan Tindak Pidana Korupsi
+            - Pengadilan Hubungan Industrial
+            - Pengadilan Perikanan
+    - **Peradilan Agama**
+        - Pengadilan Agama,
+        - Pengadilan Tinggi Agama,
+        - Pengadilan Khusus, mencakup peradilan syari'ah Islam di provinsi Aceh
+    - **Peradilan Militer**
+        - Pengadilan Militer
+        - Pengadilan Militer Tinggi
+        - Pengadilan Militer Utama
+        - Pengadilan Militer Pertempuran
+    - **Peradilan Tata Usaha Negara**
+        - Pengadilan Tata Usaha Negara
+        - Pengadilan Tinggi Tata Usaha Negara
+        - Pengadilan Khusus, mencakup pengadilan pajak.

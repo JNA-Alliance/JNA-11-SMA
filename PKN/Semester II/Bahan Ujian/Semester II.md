@@ -98,3 +98,27 @@
 - Tata hukum Indonesia ada sejak Proklamasi Kemerdekaan Indonesia 17 Agustus 1945. Sejak diproklamasikannya kemerdekaan Indonesia, maka berakhirlah tata hukum kolonial dan sekaligus munculnya tata hukum Indonesia
 - Sebelum perubahan, Aturan Peralihan Pasal 11, yaitu “segala badan negara dan peraturan yang ada masing langsung berlaku, selama belum diadakan yang baru menurut Undang-Undang Dasar ini”
 - Berdasarkan Aturan Peralihan Pasal II UUD 1945 sebelum perubahan, maka peraturan-peraturan yang berasal dari masa pemerintahan Hindia Belanda masih berlaku selama tidak bertentangan dengan UUD 1945 atau belum dibuat peratutran baru, sehingga bersifat sementara
+- Berdasrakan UU No. 48 tahun 2009, badan peradilan dapat diklasifikasikan sebagai:
+    - **Peradilan Umum**
+        - Pengadilan Negri
+        - Pengadilan Tinggi
+        - Pengadilan Khusus, mencakup:
+            - Pengadilan Anak
+            - Pengadilan Niaga
+            - Pengadilan Hak Asasi Manusia
+            - Pengadilan Tindak Pidana Korupsi
+            - Pengadilan Hubungan Industrial
+            - Pengadilan Perikanan
+    - **Peradilan Agama**
+        - Pengadilan Agama,
+        - Pengadilan Tinggi Agama,
+        - Pengadilan Khusus, mencakup peradilan syari'ah Islam di provinsi Aceh
+    - **Peradilan Militer**
+        - Pengadilan Militer
+        - Pengadilan Militer Tinggi
+        - Pengadilan Militer Utama
+        - Pengadilan Militer Pertempuran
+    - **Peradilan Tata Usaha Negara**
+        - Pengadilan Tata Usaha Negara
+        - Pengadilan Tinggi Tata Usaha Negara
+        - Pengadilan Khusus, mencakup pengadilan pajak.
