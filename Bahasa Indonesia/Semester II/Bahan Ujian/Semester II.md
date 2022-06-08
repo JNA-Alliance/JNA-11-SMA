@@ -34,24 +34,34 @@
 23. Untuk menyusun teks ulasan terhadap sebuah karya fiksi, terdapat hal-hal yang harus diperhatikan, diantaranya adalah **Membaca keseluruhan buku fiksi, menentukan dan mengomentari unsur intriksik karya fiksi**
 24. Teks ulasan disusun berdasarkan **pemahaman atau penafsiran terhadap buku atau karya yang dibaca**
 25. Teks ulasan adalah **jenis teks yang berisi ulasan atau penilaian terhadap sebuah karya**
-26. Terdapat 3 cara yang dapat dilakukan untuk menyampaikan pesan moral dalam karya fiksi diantaranya adalah:
-    1. Menggunakan tokoh dalam cerita.
-    2. Menggunakan dialog antartokoh.
-    3. Menggunakan jalinan cerita.
-27. Prosa adalah **karya sastra yg disampaikan dengan menggunakan narasi**
-28. Amanat dalam karya sastra disampaikan secara **tersirat dan tersurat**
-29. Tulisan yang berisi ulasan atau tanggapan sebuah redaksi media masa biasa masih hal yg hangat masih dibacarakan orang adalah **tajuk rencana/teks editorial**
-30. Dalam karya sastra kita mengenali dua unsur, yaitu Intresik dan Ekstrensik, Intresik adalah **unsur yang menyusun sebuah akrya sastra dari dalam yang mewujudkan struktur suatu karya sastra**
-31. Pada umumnya teks ulasan menggunakan ragam bahasa **Informatis**
-32. Pesan atau Amanat dalam sebuah karya fiksi termasuk dalam **unsur intrinsik**
-33. Unsur-unsur pembangun prosa adalah **tema, tokoh, penokohan, alur, latar, sudut pandang, amanat**
-34. Langkah-langkah menyusun teks ulasan karya fiksi:
-    1. Mencatat identitas buku secara lengkap
-    2. Melakukan analisis dengan menentukan hal-hal menarik/penting dari buku
-    3. Merumuskan penilaian buku dari berbagai aspek
-    4. Merumuskan simpulan buku secara menyeluruh
-    5. Membuat saran atau rekomendasi untuk pembaca
-35. Seorang pembaca puisi yang baik mampu **menjiwai puisi yg dibacakan**
+26. Terdapat 3 cara yang dilakukan untuk menyampaikan pesan moral dalam karya fiksi diantaranya adalah **Menggunakan tokoh dalam cerita, dialog, dan melalui jalan cerita**
+27. Prosa adalah **karya sastra yang disampaikan dengan menggunakan narasi**
+28. Pesan/Amanat dalam karya sastra disampaikan secara **tersirat dan tersurat**
+29. Tulisan yang berisi ulasan atau tanggapan sebuah redaksi media masa, biasanya tentang hal yang masih hangat masih dibacarakan orang adalah **tajuk rencana/teks editorial**
+30. Dalam karya sastra kita mengenali dua unsur, yaitu Intrinsik dan Ekstrensik. Unsur Intrinsik adalah **unsur yang menyusun sebuah karya sastra dari dalam yang mewujudkan struktur suatu karya sastra**
+31. > Pagiku Hilang Sudah Melayang
+    > Hari Mudaku Sudah Pergi
+    > Sekarang Petang Datang Membayang
+    > Batang Usiaku Semakin Tinggi
+
+    Kata "petang" pada larik ketiga puisi tersebut memiliki makna/lambang **masa tua**
+32. Pada umumnya teks ulasan menggunakan ragam bahasa **Jurnalistik**
+33. Pesan atau Amanat dalam sebuah karya fiksi sebenarnya adalah **opini, interpretasi, refleksi, pemaknaan penulis**
+34. Unsur-unsur pembangun prosa adalah **tema, tokoh, penokohan, alur, latar, sudut pandang, amanat**
+35. Berikut ini yang tidak termasuk pada karakteristik buku fiksi adalah **topiknya terlalu berat**
+36. Langkah-langkah menyusun teks ulasan (secara berurutan):
+    1. **Mencatat identitas buku**
+    2. **Melakukan analisis**
+    3. **Merumuskan penilaian**
+    4. **Merumuskan simpulan**
+    5. **Membuat saran/rekomendasi**
+37. Seorang pembaca puisi yang baik mampu **menjiwai puisi yang dibacakan**
+38. Kalimat yang mengungkapkan keunggulan buku terdapat kalimat:
+    1. Telah terbit buku baru tentang remaja.
+    2. Judul buku ini adalah "Remaja dan 1001 Problema".
+    3. **Buku ini dikemas dengan manis dan dicetak diatas kertas yang berkualitas.**
+    4. Sampulnya berwarna kombinasi biru, biru muda, dan kuning cerita.
+    5. Jumlah halamannya 169.
 
 # EXTRA NOTES
 
