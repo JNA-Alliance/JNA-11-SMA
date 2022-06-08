@@ -1,3 +1,5 @@
+# Bahan Ujian Semester II - Bahasa Indonesia
+
 1. Bacalah kutipan teks berikut:
     Bahasa yang digunakan dalam buku "Pentingnya Jiwa Berwirausaha Sejak Dini" terlalu ilmiah. Sehingga pembaca umum mengalami kesulitan dalam memahami isi buku.
     Kutipan diatas merupakan bagian **Kelemahan Buku**
@@ -32,4 +34,33 @@
 23. Untuk menyusun teks ulasan terhadap sebuah karya fiksi, terdapat hal-hal yang harus diperhatikan, diantaranya adalah **Membaca keseluruhan buku fiksi, menentukan dan mengomentari unsur intriksik karya fiksi**
 24. Teks ulasan disusun berdasarkan **pemahaman atau penafsiran terhadap buku atau karya yang dibaca**
 25. Teks ulasan adalah **jenis teks yang berisi ulasan atau penilaian terhadap sebuah karya**
-26. Terdapat 3 cara yg dapat dilakukan untuk menyampaikan pesan moral dalam karya fiksi diantaranya adalah (Hal 207)
+26. Terdapat 3 cara yang dapat dilakukan untuk menyampaikan pesan moral dalam karya fiksi diantaranya adalah:
+    1. Menggunakan tokoh dalam cerita.
+    2. Menggunakan dialog antartokoh.
+    3. Menggunakan jalinan cerita.
+27. Prosa adalah **karya sastra yg disampaikan dengan menggunakan narasi**
+28. Amanat dalam karya sastra disampaikan secara **tersirat dan tersurat**
+29. Tulisan yang berisi ulasan atau tanggapan sebuah redaksi media masa biasa masih hal yg hangat masih dibacarakan orang adalah **tajuk rencana/teks editorial**
+30. Dalam karya sastra kita mengenali dua unsur, yaitu Intresik dan Ekstrensik, Intresik adalah **unsur yang menyusun sebuah akrya sastra dari dalam yang mewujudkan struktur suatu karya sastra**
+31. Pada umumnya teks ulasan menggunakan ragam bahasa **Informatis**
+32. Pesan atau Amanat dalam sebuah karya fiksi termasuk dalam **unsur intrinsik**
+33. Unsur-unsur pembangun prosa adalah **tema, tokoh, penokohan, alur, latar, sudut pandang, amanat**
+34. Langkah-langkah menyusun teks ulasan karya fiksi:
+    1. Mencatat identitas buku secara lengkap
+    2. Melakukan analisis dengan menentukan hal-hal menarik/penting dari buku
+    3. Merumuskan penilaian buku dari berbagai aspek
+    4. Merumuskan simpulan buku secara menyeluruh
+    5. Membuat saran atau rekomendasi untuk pembaca
+35. Seorang pembaca puisi yang baik mampu **menjiwai puisi yg dibacakan**
+
+# EXTRA NOTES
+
+1. Unsur Intrinsik Cerita Fiksi
+    - Tema, yaitu sebuah gagasan umum untuk mengembangkan cerita.
+    - Tokoh atau penokohan, yaitu para pelaku dalam sebuah cerita atau karya sastra.
+    - Alur atau Plot, yaitu urutan kejadian yang ada didalam suatu pristiwa yang dihubungkan dengan sebab akibat dalam cerita fiksi.
+    - Sudut pandang, yaitu cara pandang pengarang dalam membentuk sebuah cerita.
+    - Konflik, yaitu peristiwa atau permasalahan yang akan dikembangkan dalam cerita fiksi.
+    - Klimaks, yaitu puncak dari konflik dalam cerita fiksi atau karya sastra.
+    - Latar, yaitut keterangan tempat, waktu, dan suasana suatu pristiwa dalam cerita.
+    - Amanat, yaitu pesan yang disampaikan oleh pengarang kepada pembaca tentang permasalahan dalam cerita.
