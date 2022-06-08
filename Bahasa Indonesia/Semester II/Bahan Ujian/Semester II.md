@@ -32,3 +32,4 @@
 23. Untuk menyusun teks ulasan terhadap sebuah karya fiksi, terdapat hal-hal yang harus diperhatikan, diantaranya adalah **Membaca keseluruhan buku fiksi, menentukan dan mengomentari unsur intriksik karya fiksi**
 24. Teks ulasan disusun berdasarkan **pemahaman atau penafsiran terhadap buku atau karya yang dibaca**
 25. Teks ulasan adalah **jenis teks yang berisi ulasan atau penilaian terhadap sebuah karya**
+26. Terdapat 3 cara yg dapat dilakukan untuk menyampaikan pesan moral dalam karya fiksi diantaranya adalah (Hal 207)
