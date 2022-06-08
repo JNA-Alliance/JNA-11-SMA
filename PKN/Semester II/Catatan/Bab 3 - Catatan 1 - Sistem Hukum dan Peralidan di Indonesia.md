@@ -3,6 +3,7 @@
 - Doktrin: Sumber hukum yang berasal dari hasil pemikiran orang terkenal.
 
 # Sistem Hukum di Indonesia
+
 - Makna dan Karakteristik Hukum:
     - Hukum pada hakikatnya adalah pagar pembatas agar kehidupan manusia aman dan damai.
     - Hukum adalah aturan, tata tertib, dan kaidah hidup.
@@ -31,7 +32,3 @@
     - Dari segi sifatnya:
         - **Mengatur**: Hukum memuat peraturan-peraturan berupa perintah dan larangan yang mengatur tingkah laku manusia dalam hidup bermasyarakat demi terciptanya ketertiban dalam masyarakat.
         - **Memaksa**: Hukum dapat memaksa anggota masyarakat untuk mematuhinya. Apabila melanggar hukum akan menerima sanksi tegas.
-- Penggolongan Hukum
-    - Menurut sumbernya:
-        - Sumber hukum material merupakan faktor pembentukan hukum, misalnya hubungan sosial, hubungan kekuatan politik, situasi sosial ekonomi, tradisi, perkembangan internasional dan keadaan geografis.
-        - Sumber hukum formal merupakan tempat atau sumber darimana suatu peraturan memperoleh kekuatan hukum. Hal ini yang menyebabkan peraturan hukum dapat berlaku.

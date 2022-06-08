@@ -1,1 +1,100 @@
 # Bahan Ujian Semester II - PKN
+
+- Makna dan Karakteristik Hukum:
+    - Hukum pada hakikatnya adalah pagar pembatas agar kehidupan manusia aman dan damai.
+    - Hukum adalah aturan, tata tertib, dan kaidah hidup.
+- Pengertian hukum menurut:
+    - **Van Apeldorn**: Definisi tentang hukum adalah sangat sulit untuk dibuat karena tidak mungkin untuk mengadakannya sesuai kenyataan.
+    - **Immanuel Kant**: Keseluruhan syarat-syarat yang dengan ini kehendak bebas dari orang satu dapat menyesuaikan diri dengan kehendak bebas dari orang lain.
+    - **E. Utrecht**: Himpunan petunjuk hidup (pertinah2 dan larangan2) yang mengatur tata tertib dalam suatu masyarakat, dan seharusnya ditaati oleh anggota masyarakat yang bersangkutan.
+    - **J.C.T. Simorangkir dan Woerjono Sastropranoto**: Peraturan-peraturan yang bersifat memaksa yang menentukan tingkah laku manusia dadlam lingkungan masyarakat yang dibuat oleh badan resmi yang berwajib, pelanggaran terhadap peraturan2 yadi berakibatkan diambilnya tindakan yaitu dengan hukuman tertentu.
+    - **Mochtar Kusumaatmadja**: Keseluruhan kaidah2 serta asas2 yang mengatur ketertiban yang meliputi lembaga2 dan proses2 guna mewujudkan berlakunya kaidah itu sebagai kenyataan dalam masyarakat
+- Tidak ada kesepakatan mengenai pengertian hukum universal karena:
+    - Hukum mempunyai ruang lingkup/cakupan materi yang sangat luas
+    - Hukum memiliki sifat yang abstrak
+    - Perbedaan sudut pandang dari masing-masing ahli
+    - Perkembangannya dinamis selaras dengan perkembangan masyarakat
+- Unsur hukum:
+    - Peraturan mengenai tingkah laku manusia dalam pergaulan masyarakat
+    - Peraturan dibuat oleh badan-badan resmi yang berwajib
+    - Peraturan bersifat memaksa
+    - Terdapat sanksi tegas terhadap pelanggaran peraturan
+- Ciri Hukum: **Berisi perintah dan larangan yang harus dipatuhi setiap orang**.
+- Kaidah hukum:
+    - Dari segi isinya:
+        - **Berisi Perintah**: Mau tidak mau harus dijalankan atau ditaati.
+        - **Berisi Larangan**: Suatu perbuatan yang tidak boleh dilakukan.
+        - **Berisi Perkenan**: Bukan berisi perintah atau larangan tetapi jika dilakukan akan mengikat. (Perjanjian pernikahan/perkawinan)
+    - Dari segi sifatnya:
+        - **Mengatur**: Hukum memuat peraturan-peraturan berupa perintah dan larangan yang mengatur tingkah laku manusia dalam hidup bermasyarakat demi terciptanya ketertiban dalam masyarakat.
+        - **Memaksa**: Hukum dapat memaksa anggota masyarakat untuk mematuhinya. Apabila melanggar hukum akan menerima sanksi tegas.
+- "Ubi Societas Ibi Ius" artinya "dimana ada masyarakat disitu ada hukum". Dikemukakan oleh Marius Tullius Cicero.
+- Tujuan Hukum:
+    - **Bersifat universal**: Menciptakan ketertiban, ketentraman, kedamaian, kesejahteraan dan kebahagian dalam tata kehidupan bermasyarakat
+    - **Menurut O. Notohamidjojo**:
+        - Mendatangkan tata dan damai dalam masyarakat (segi reguler)
+        - Mewujudkan keadilan (segi keadilan)
+        - Menjaga supaya manusia diperlakukan sebagai manusia (segi memanusiakan manusia) **<-- Tujuan paling hakiki**
+- Fungsi Hukum:
+    1. Sebagai alat pengatur tata tertib hubungan masyarakat.
+    1. Sebagai sarana untuk mewujudkan keadilan sosial lahir batin.
+    1. Sebagai penggerak pembangunan.
+- Penggolongan Hukum:
+    - Menurut Sumbernya:
+        - Sumber Hukum Material: Faktor pembentukan hukum, misalnya hubungan sosial, hubungan kekuatan politik, situasi sosial ekonomi, tradisi, perkembangan internasional dan keadaan geografis.
+        - Sumber Hukum Formal: Tempat atau sumber darimana suatu pertauran memperoleh kekuatan hukum. Hal ini yang menyebabkan peraturan hukum dapat berlaku.
+            - Terbagi atas:
+                - **Undang-undang**
+                    - Secara material adalah sumber hukum formal yang dikeluarkan oleh pemerintah dan isinya mengikat secara hukum
+                    - Secara formal adalah peraturan yang secara bentuk dan caranya terjadinya disebut undang-undang atau peraturan yang dikeluarkan oleh lembaga berwenang dan memperoleh sebutan "undang-undang" karena cara pembentukannnya
+                - **Kebiasaan**: Perbuatan manusia yang biasa dilakukan secara berulang-ulang dalam hal yang sama. Syarat agar hukum kebiasaan dapat ditaati oleh masyarakat:
+                    1. Suatu perbuatan yang tetap dilakukan.
+                    2. Adanya keyakinan bahwa perbuatan tersebut harus dilakukan karena merupakan kewajiban.
+                - **Traktat**: Suatu perjanjuan yang diadakan antara dua negara atau lebih (bilateral dan multilateral)
+                - **Yurisprudensi**: Keputusan hakim terdahulu yang sering diikuti dan dijadikan sebagai dasar keputusan oleh hakim kemudian mengenai masalah yang sama. Alasan penggunaan yurisprudensi:
+                    - Keputusan hakim mempunyai kekuasaan terutama jika keputusan tersebut dibuat oleh Makamah Agung atau Pengadilan Tertinggi
+                    - Karena alasan praktis
+                    - Sependapat, hakim memberikan keputusan yang sama karena sependapat dengan keputusan hakim lain.
+                - **Doktrin**: Pendapat sarjana hukum yang mempunyai kekuasaan dan berpengaruh dalam pengambilan keputusan hakim.
+    - Menurut Bentuknya:
+        - **Tertulis**: Hukum yang dapat ditemui dalam bentuk tulisan dan dicantumkan dalam berbagai peraturan negara. Terbagi atas:
+            - **Hukum Tertulis yang Dikodifikasi**: Hukum yang disusun secara lengkap, sistematis, teratur dan dibukukan. Contoh: **Kitab Undang-Undang Hukum Pidana** dan **Kitab Undang-Undang Huku Perdata**
+            - **Hukum Tertulis yang Tidak Dikodifikasi**: Hukum yang meskipun tertulis namun tidak disusun secara sistematis dan masih terpisan-pisah, sehingga masih memerlukan aturan pelaksaan dan penerapannya. Contoh: **Undang-Undang** dan **Peraturan Pemerintah**.
+        - **Tidak Tertulis**: Hukum yang hidup, diyakini dan dipatuhi di dalam masyarakat meskipun tidak dibentuk oleh prosedur formal.
+    - Menurut Tempat Berlakunya:
+        - Hukum Nasional
+        - Hukum Internasional
+        - Hukum Asing
+    - Menurut waktu berlakunya
+        - Ius constitutum (hukum positif/berlaku sekarang)
+        - Ius constituendum (hukum negatif/akan datang)
+        - Hukum universal, hukum asasi dan hukum alam
+    - Menurut Cara Mempertahankannya:
+        - Hukum Material
+        - Hukum Formal
+    - Menurut Sifatnya:
+        - Memaksa
+        - mengatur
+    - Menurut Wujudnya:
+        - Objektif
+        - Subjektif
+    - Menurut Pribadi yang Diaturnya:
+        - Hukum satu golongan
+        - Hukum semua golongan
+        - Hukum antargolongan
+    - Menurut Isi:
+        - Hukum Publik (Hukum Negara)
+            - Hukum Tata Negara
+            - Hukum Administrasi Negara
+            - Hukum Pidana
+            - Hukum Acara
+        - Hukum Privat (Perdata/Sipil)
+            - Hukum Perorangan
+            - Hukum Keluarga
+            - Hukum Kekayaan
+            - Hukum Waris
+            - Hukum Dagang
+- Tata hukum bermakna aturan-aturan hukum yang ditetapkan oleh pemerintah negara Indonesia yang ditata atau disusun sedemikian rupa dan antara satu dengan lainnya saling berhubungan dan saling menentukan
+- Tata hukum Indonesia ada sejak Proklamasi Kemerdekaan Indonesia 17 Agustus 1945. Sejak diproklamasikannya kemerdekaan Indonesia, maka berakhirlah tata hukum kolonial dan sekaligus munculnya tata hukum Indonesia
+- Sebelum perubahan, Aturan Peralihan Pasal 11, yaitu “segala badan negara dan peraturan yang ada masing langsung berlaku, selama belum diadakan yang baru menurut Undang-Undang Dasar ini”
+- Berdasarkan Aturan Peralihan Pasal II UUD 1945 sebelum perubahan, maka peraturan-peraturan yang berasal dari masa pemerintahan Hindia Belanda masih berlaku selama tidak bertentangan dengan UUD 1945 atau belum dibuat peratutran baru, sehingga bersifat sementara
