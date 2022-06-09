@@ -123,5 +123,4 @@
     - **Peradilan Tata Usaha Negara**
         - Pengadilan Tata Usaha Negara
         - Pengadilan Tinggi Tata Usaha Negara
-        - Pengadilan Khusus, mencakup pengadilan pajak.
-- Perangkat Lembaga Peradilan
+        - Pengadilan Khusus, mencakup pengadilan pajak
