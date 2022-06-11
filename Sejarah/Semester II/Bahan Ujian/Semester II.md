@@ -1,10 +1,10 @@
 # Bahan Ujian Semester II - Sejarah
 
 1. Hasil Sidang PPKI
-    1. Sidang 1: **Disahkannya UUD 1945**
-    2. Sidang 2: **Pembagian Provinsi di Indonesia, Membentuk Komite Nasional Daerah, Pembentukan Departemen dan Menteri**
-    3. Sidang 3: **Pembentukan Komite Nasional Pusat, Dibentuknya Partai Nasional Indonesia (PNI), Pembentukan Badan Keamanan Rakyat (BKR)**
-2. Faktor penyebab terjadi peristiwa Rengasdengklok: **Perbedaan pendapat antara golongan muda dan golongan tua, untuk memproklamirkan kemerdekaan Indonesia. Golongan muda ingin segera memproklamasikan kemerdekaan tanpa campur tangan Jepang. Golongan tua bersikap kooperatif dengan Jepang sedangkan golongan muda bersikap non-kooperatif.**
+    1. Sidang 1 (8 Agustus 1945): **Disahkannya UUD 1945**
+    2. Sidang 2 (19 Agustus 1945): **Pembagian Provinsi di Indonesia, Membentuk Komite Nasional Daerah, Pembentukan Departemen dan Menteri**
+    3. Sidang 3 (22 Agustus 1945): **Pembentukan Komite Nasional Pusat, Dibentuknya Partai Nasional Indonesia (PNI), Pembentukan Badan Keamanan Rakyat (BKR)**
+2. Faktor penyebab terjadi peristiwa Rengasdengklok: **Perbedaan pendapat antara golongan muda dan golongan tua, untuk memproklamasikan kemerdekaan Indonesia. Golongan muda ingin segera memproklamasikan kemerdekaan tanpa campur tangan Jepang. Golongan tua bersikap kooperatif dengan Jepang sedangkan golongan muda bersikap non-kooperatif.**
 3. BPUPKI dan PPKI
     - BPUPKI (Bapan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia/Dokuritsu Junbi Chōsa-kai):
         - Dibentuk: **29 April 1945** oleh **Kumakichi Harada**
@@ -104,20 +104,20 @@
         - Peri Ketuhanan
         - Peri Kerakyatan
         - Kesejahteraan Rakyat
-    - **Mr. Soepomo**
+    - **Mr. Soepomo**:
         - Persatuan
         - Kekeluargaan
         - Keseimbangan Lahir dan Batin
         - Musyawarah
         - Keadilan Rakyat
-    - **Ir. Soekarno**
+    - **Ir. Soekarno**:
         - Kebangsaan Indonesia
         - Internasionalisme atau Peri Kemanusiaan
         - Mufakat atau Demokrasi
         - Kesejahteraan Sosial
         - Ketuhanan Yang Maha Esa
 6. Ketua Panitia Sembilan: **Ir. Soekarno (ketua), Drs. Mohammad Hatta (wakil ketua)**
-7. Tujuan awal kedatangan sekutu ke Indonesia:
+7. Tujuan awal kedatangan sekutu ke Indonesia (AFNEI):
     1. Menerima penyerahan Jepang.
     1. Membebaskan para tawanan perang Jepang yang berasal dari Eropa.
     2. **Melucuti tentara Jepang dan mengumpulkan mereka untuk dipulangkan.** <-- Terpenting
