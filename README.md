@@ -1,4 +1,4 @@
-# JNA Alliance
+# JNA Alliance (11 SMA)
 
 ## About
 Welcome to JNA Alliance Repository!  
